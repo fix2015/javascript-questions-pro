@@ -1,12 +1,12 @@
 
 # javascript-questions-pro (551 questions)
 
-## [Levels](./level/) 
+## [Levels](./level/) (3)
 - [basic](./level/basic)
 - [intermediate](./level/intermediate)
 - [advanced](./level/advanced)
 
-## [Themes](./theme/)  
+## [Themes](./theme/) (188)  
 - [indexeddb](./theme/indexeddb)
 - [db](./theme/db)
 - [storage](./theme/storage)
@@ -196,7 +196,7 @@
 - [language features](./theme/language_features)
 - [concurrency](./theme/concurrency)
 
-## [Tutorials with Videos](./video/)
+## [Tutorials with Videos](./video/) (192)
 - [What is IndexedDB](https://www.tiktok.com/@jsmentoring/photo/7448276165661314336)
 - [What are the options in a cookie](https://www.tiktok.com/@jsmentoring/photo/7448261980567145761)
 - [Differences between cookie, local storage and session storage](https://www.tiktok.com/@jsmentoring/photo/7448258461030173985)
