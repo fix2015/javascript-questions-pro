@@ -1,4 +1,4 @@
-## What is IndexedDB
+## [What is IndexedDB](#what-is-indexeddb)
 
 ### What is IndexedDB?
 
@@ -10,7 +10,7 @@ IndexedDB is a low-level API for storing large amounts of structured data, inclu
 
 ---
 
-## What are the options in a cookie
+## [What are the options in a cookie](#what-are-the-options-in-a-cookie)
 
 ### What are the options in a cookie?
 
@@ -22,7 +22,7 @@ Cookies have several options to control their behavior, such as `path`, `domain`
 
 ---
 
-## Differences between cookie, local storage and session storage
+## [Differences between cookie, local storage and session storage](#differences-between-cookie-local-storage-and-session-storage)
 
 ### Differences between cookie, local storage, and session storage
 
@@ -34,7 +34,7 @@ Cookies are primarily used for server communication and have size limitations. L
 
 ---
 
-## How do you delete a cookie
+## [How do you delete a cookie](#how-do-you-delete-a-cookie)
 
 ### How do you delete a cookie?
 
@@ -46,7 +46,7 @@ To delete a cookie, set its expiration date to a past date using the `Set-Cookie
 
 ---
 
-## What is a post message
+## [What is a post message](#what-is-a-post-message)
 
 ### What is a post message?
 
@@ -58,7 +58,7 @@ The `postMessage` API allows secure communication between a parent window and if
 
 ---
 
-## What are closures
+## [What are closures](#what-are-closures)
 
 ### What are closures?
 
@@ -70,7 +70,7 @@ Closures in JavaScript occur when a function retains access to its lexical scope
 
 ---
 
-## What are modules
+## [What are modules](#what-are-modules)
 
 ### What are modules?
 
@@ -82,7 +82,7 @@ Modules are reusable blocks of code that can be imported and exported in JavaScr
 
 ---
 
-## What are classes in ES6
+## [What are classes in ES6](#what-are-classes-in-es6)
 
 ### What are classes in ES6?
 
@@ -94,7 +94,7 @@ Classes in ES6 provide a syntax for object-oriented programming in JavaScript. T
 
 ---
 
-## Why do you need modules
+## [Why do you need modules](#why-do-you-need-modules)
 
 ### Why do you need modules?
 
@@ -106,7 +106,7 @@ Modules help organize code into manageable pieces, improve reusability, and avoi
 
 ---
 
-## What is Hoisting
+## [What is Hoisting](#what-is-hoisting)
 
 ### What is Hoisting?
 
@@ -118,7 +118,7 @@ Hoisting in JavaScript refers to the process where variable and function declara
 
 ---
 
-## What is scope in javascript
+## [What is scope in javascript](#what-is-scope-in-javascript)
 
 ### What is scope in JavaScript?\n\nScope determines the accessibility of variables and functions in JavaScript. There are two types of scope: global and local. Modern JavaScript also includes block scope with \`let\` and \`const\`.
 
@@ -128,7 +128,7 @@ Hoisting in JavaScript refers to the process where variable and function declara
 
 ---
 
-## What is a service worker
+## [What is a service worker](#what-is-a-service-worker)
 
 ### What is a service worker?
 
@@ -140,7 +140,7 @@ A service worker is a script that runs in the background, separate from the web 
 
 ---
 
-## How do you manipulate with DOM element
+## [How do you manipulate with DOM element](#how-do-you-manipulate-with-dom-element)
 
 ### How do you manipulate a DOM element?
 
@@ -152,7 +152,7 @@ To manipulate DOM elements, use methods like `document.getElementById`, `documen
 
 ---
 
-## How do you reuse information across service worker restarts
+## [How do you reuse information across service worker restarts](#how-do-you-reuse-information-across-service-worker-restarts)
 
 ### How do you reuse information across service worker restarts?
 
@@ -164,7 +164,7 @@ To reuse information across service worker restarts, store data in persistent st
 
 ---
 
-## What is IndexedDB
+## [What is IndexedDB](#what-is-indexeddb)
 
 ### What is IndexedDB?
 
@@ -176,7 +176,7 @@ IndexedDB is a low-level API for storing large amounts of structured data, inclu
 
 ---
 
-## What is memoization
+## [What is memoization](#what-is-memoization)
 
 ### What is memoization?
 
@@ -188,7 +188,7 @@ Memoization is an optimization technique where function results are cached based
 
 ---
 
-## What is memoization
+## [What is memoization](#what-is-memoization)
 
 ### What is memoization?
 
@@ -200,7 +200,7 @@ Memoization is an optimization technique where function results are cached based
 
 ---
 
-## 5 Ways to Create Objects in JavaScript
+## [5 Ways to Create Objects in JavaScript](#5-ways-to-create-objects-in-javascript)
 
 ### 5 Ways to Create Objects in JavaScript
 
@@ -218,7 +218,7 @@ In JavaScript, objects can be created in various ways. The five most common meth
 
 ---
 
-## What is a Prototype Chain in JavaScript?
+## [What is a Prototype Chain in JavaScript?](#what-is-a-prototype-chain-in-javascript)
 
 ### What is a Prototype Chain in JavaScript?
 
@@ -230,7 +230,7 @@ The prototype chain is a fundamental concept in JavaScript's inheritance model. 
 
 ---
 
-## What is a higher order function
+## [What is a higher order function](#what-is-a-higher-order-function)
 
 ### What is a higher order function?
 
@@ -242,7 +242,7 @@ A higher order function is a function that either takes one or more functions as
 
 ---
 
-## What is the currying function
+## [What is the currying function](#what-is-the-currying-function)
 
 ### What is the currying function?
 
@@ -254,7 +254,7 @@ Currying is a technique in functional programming where a function that takes mu
 
 ---
 
-## How do you compare Object and Map
+## [How do you compare Object and Map](#how-do-you-compare-object-and-map)
 
 ### How do you compare Object and Map?
 
@@ -270,7 +270,7 @@ Both `Object` and `Map` are key-value stores in JavaScript, but they have differ
 
 ---
 
-## What is a pure function
+## [What is a pure function](#what-is-a-pure-function)
 
 ### What is a pure function?
 
@@ -282,7 +282,7 @@ A pure function is a function that, given the same input, will always return the
 
 ---
 
-## What is a Prototype Chain in JavaScript?
+## [What is a Prototype Chain in JavaScript?](#what-is-a-prototype-chain-in-javascript)
 
 ### What is a Prototype Chain in JavaScript?
 
@@ -294,7 +294,7 @@ The prototype chain is a fundamental concept in JavaScript's inheritance model. 
 
 ---
 
-## What is the purpose of the let keyword
+## [What is the purpose of the let keyword](#what-is-the-purpose-of-the-let-keyword)
 
 ### What is the purpose of the let keyword?
 
@@ -306,7 +306,7 @@ The `let` keyword in JavaScript is used to declare block-scoped variables. Unlik
 
 ---
 
-## Arrow func?
+## [Arrow func?](#arrow-func)
 
 ### Arrow func?
 
@@ -318,7 +318,7 @@ Arrow functions in JavaScript are a shorter syntax for writing functions. They a
 
 ---
 
-## What is the difference between let and var
+## [What is the difference between let and var](#what-is-the-difference-between-let-and-var)
 
 ### What is the difference between let and var?
 
@@ -333,7 +333,7 @@ The primary differences between `let` and `var` are their scoping rules and hois
 
 ---
 
-## What is git bisect command?
+## [What is git bisect command?](#what-is-git-bisect-command)
 
 ### What is git bisect command?
 
@@ -345,7 +345,7 @@ The `git bisect` command is used to find the commit that introduced a bug by per
 
 ---
 
-## What are lambda expressions or arrow functions?
+## [What are lambda expressions or arrow functions?](#what-are-lambda-expressions-or-arrow-functions)
 
 ### What are lambda expressions or arrow functions?
 
@@ -357,7 +357,7 @@ Lambda expressions, also known as arrow functions, are a concise way to write fu
 
 ---
 
-## What is the difference between == and === operators?
+## [What is the difference between == and === operators?](#what-is-the-difference-between-and-operators)
 
 ### What is the difference between == and === operators?
 
@@ -369,7 +369,7 @@ In JavaScript, `==` is the equality operator that compares values after performi
 
 ---
 
-## What is the purpose of the array splice method?
+## [What is the purpose of the array splice method?](#what-is-the-purpose-of-the-array-splice-method)
 
 ### What is the purpose of the array splice method?
 
@@ -381,7 +381,7 @@ The `splice()` method in JavaScript is used to modify an array by adding, removi
 
 ---
 
-## What is the difference between slice and splice?
+## [What is the difference between slice and splice?](#what-is-the-difference-between-slice-and-splice)
 
 ### What is the difference between slice and splice?
 
@@ -393,7 +393,7 @@ The `splice()` method in JavaScript is used to modify an array by adding, removi
 
 ---
 
-## 5 Ways to Create Objects in JavaScript?
+## [5 Ways to Create Objects in JavaScript?](#5-ways-to-create-objects-in-javascript)
 
 ### 5 Ways to Create Objects in JavaScript
 
@@ -411,7 +411,7 @@ In JavaScript, objects can be created in various ways. The five most common meth
 
 ---
 
-## What is git rebase command?
+## [What is git rebase command?](#what-is-git-rebase-command)
 
 ### What is git rebase command?
 
@@ -423,7 +423,7 @@ The `git rebase` command is used to integrate changes from one branch into anoth
 
 ---
 
-## What is git reflog command?
+## [What is git reflog command?](#what-is-git-reflog-command)
 
 ### What is git reflog command?
 
@@ -435,7 +435,7 @@ The `git reflog` command is used to show the history of changes to the reference
 
 ---
 
-## What is git revert command?
+## [What is git revert command?](#what-is-git-revert-command)
 
 ### What is git revert command?
 
@@ -447,7 +447,7 @@ The `git revert` command is used to create a new commit that undoes the changes 
 
 ---
 
-## What is a storage event and its event handler?
+## [What is a storage event and its event handler?](#what-is-a-storage-event-and-its-event-handler)
 
 ### What is a storage event and its event handler?
 
@@ -459,7 +459,7 @@ A storage event is triggered when a change is made to the `localStorage` or `ses
 
 ---
 
-## What are the methods available on session storage?
+## [What are the methods available on session storage?](#what-are-the-methods-available-on-session-storage)
 
 ### What are the methods available on session storage?
 
@@ -476,7 +476,7 @@ A storage event is triggered when a change is made to the `localStorage` or `ses
 
 ---
 
-## How do you access web storage?
+## [How do you access web storage?](#how-do-you-access-web-storage)
 
 ### How do you access web storage?
 
@@ -488,7 +488,7 @@ Web storage is accessed using the `localStorage` or `sessionStorage` objects in 
 
 ---
 
-## What is the main difference between localStorage and sessionStorage?
+## [What is the main difference between localStorage and sessionStorage?](#what-is-the-main-difference-between-localstorage-and-sessionstorage)
 
 ### What is the main difference between localStorage and sessionStorage?
 
@@ -502,7 +502,7 @@ The main difference is the lifespan of the stored data:
 
 ---
 
-## Why do you need a Cookie?
+## [Why do you need a Cookie?](#why-do-you-need-a-cookie)
 
 ### Why do you need a Cookie?
 
@@ -514,7 +514,7 @@ Cookies are used to store data on the client-side, typically for purposes like t
 
 ---
 
-## What is a Cookie?
+## [What is a Cookie?](#what-is-a-cookie)
 
 ### What is a Cookie?
 
@@ -526,7 +526,7 @@ A cookie is a small piece of data stored by the browser on the client-side. It i
 
 ---
 
-## What is web storage?
+## [What is web storage?](#what-is-web-storage)
 
 ### What is web storage?
 
@@ -538,7 +538,7 @@ Web storage provides a way to store data in the browser. It includes two types: 
 
 ---
 
-## What Are Server-Sent Events (SSE)?
+## [What Are Server-Sent Events (SSE)?](#what-are-server-sent-events-sse)
 
 ### What Are Server-Sent Events (SSE)?
 
@@ -550,7 +550,7 @@ Server-Sent Events (SSE) is a technology that allows a server to push updates to
 
 ---
 
-## What Is a Callback Hell?
+## [What Is a Callback Hell?](#what-is-a-callback-hell)
 
 ### What Is a Callback Hell?
 
@@ -562,7 +562,7 @@ Callback hell, also known as 'Pyramid of Doom,' refers to a situation where mult
 
 ---
 
-## Importance of Callbacks in Javascript?
+## [Importance of Callbacks in Javascript?](#importance-of-callbacks-in-javascript)
 
 ### Importance of Callbacks in Javascript?
 
@@ -574,7 +574,7 @@ Callbacks in JavaScript are functions passed as arguments to other functions, en
 
 ---
 
-## What is a callback function in javascript?
+## [What is a callback function in javascript?](#what-is-a-callback-function-in-javascript)
 
 ### What is a callback function in javascript?
 
@@ -586,7 +586,7 @@ A callback function is a function passed into another function as an argument an
 
 ---
 
-## What Are the Three States of a Promise?
+## [What Are the Three States of a Promise?](#what-are-the-three-states-of-a-promise)
 
 ### What Are the Three States of a Promise?
 
@@ -601,7 +601,7 @@ A Promise in JavaScript can be in one of three states:
 
 ---
 
-## Why do you need a promise?
+## [Why do you need a promise?](#why-do-you-need-a-promise)
 
 ### Why do you need a promise?
 
@@ -613,7 +613,7 @@ Promises are used to handle asynchronous operations in JavaScript. They provide 
 
 ---
 
-## What is a promise?
+## [What is a promise?](#what-is-a-promise)
 
 ### What is a promise?
 
@@ -625,7 +625,7 @@ A promise is an object in JavaScript that represents the eventual completion (or
 
 ---
 
-## What are the restrictions of web workers on DOM?
+## [What are the restrictions of web workers on DOM?](#what-are-the-restrictions-of-web-workers-on-dom)
 
 ### What are the restrictions of web workers on DOM?
 
@@ -637,7 +637,7 @@ Web workers run in a separate thread and cannot directly access or modify the DO
 
 ---
 
-## Give an example of a web worker?
+## [Give an example of a web worker?](#give-an-example-of-a-web-worker)
 
 ### Give an example of a web worker?
 
@@ -658,7 +658,7 @@ In the `worker.js` file, you would handle the message with `onmessage` and use `
 
 ---
 
-## How do you check web storage browser support?
+## [How do you check web storage browser support?](#how-do-you-check-web-storage-browser-support)
 
 ### How do you check web storage browser support?
 
@@ -678,7 +678,7 @@ if (typeof(Storage) !== 'undefined') {
 
 ---
 
-## Why do you need web storage?
+## [Why do you need web storage?](#why-do-you-need-web-storage)
 
 ### Why do you need web storage?
 
@@ -690,7 +690,7 @@ Web storage allows you to store data on the client side, providing faster access
 
 ---
 
-## How Do You Receive Server-Sent Event Notifications?
+## [How Do You Receive Server-Sent Event Notifications?](#how-do-you-receive-server-sent-event-notifications)
 
 ### How Do You Receive Server-Sent Event Notifications?
 
@@ -709,7 +709,7 @@ eventSource.onmessage = function(event) {
 
 ---
 
-## What Is a Callback in Callback?
+## [What Is a Callback in Callback?](#what-is-a-callback-in-callback)
 
 ### What Is a Callback in Callback?
 
@@ -721,7 +721,7 @@ A 'callback in callback' refers to a situation where a function is passed as a p
 
 ---
 
-## What Is Promise Chaining in JavaScript?
+## [What Is Promise Chaining in JavaScript?](#what-is-promise-chaining-in-javascript)
 
 ### What Is Promise Chaining in JavaScript?
 
@@ -740,7 +740,7 @@ fetchData()
 
 ---
 
-## What Are the Main Rules of Promise in JavaScript?
+## [What Are the Main Rules of Promise in JavaScript?](#what-are-the-main-rules-of-promise-in-javascript)
 
 ### What Are the Main Rules of Promise in JavaScript?
 
@@ -755,7 +755,7 @@ The main rules of Promises in JavaScript are:
 
 ---
 
-## What Are the Events Available for Server-Sent Events?
+## [What Are the Events Available for Server-Sent Events?](#what-are-the-events-available-for-server-sent-events)
 
 ### What Are the Events Available for Server-Sent Events?
 
@@ -770,7 +770,7 @@ Server-Sent Events (SSE) support several event types, including:
 
 ---
 
-## How Do You Check Browser Support for Server-Sent Events?
+## [How Do You Check Browser Support for Server-Sent Events?](#how-do-you-check-browser-support-for-server-sent-events)
 
 ### How Do You Check Browser Support for Server-Sent Events?
 
@@ -790,7 +790,7 @@ if (typeof(EventSource) !== 'undefined') {
 
 ---
 
-## What Is `Promise.all` in JavaScript?
+## [What Is `Promise.all` in JavaScript?](#what-is-promise-all-in-javascript)
 
 ### What Is `Promise.all` in JavaScript?
 
@@ -808,7 +808,7 @@ Promise.all([promise1, promise2, promise3])
 
 ---
 
-## What Is the Purpose of the `race` Method in Promises?
+## [What Is the Purpose of the `race` Method in Promises?](#what-is-the-purpose-of-the-race-method-in-promises)
 
 ### What Is the Purpose of the `race` Method in Promises?
 
@@ -826,7 +826,7 @@ Promise.race([promise1, promise2, promise3])
 
 ---
 
-## What Is Strict Mode in JavaScript?
+## [What Is Strict Mode in JavaScript?](#what-is-strict-mode-in-javascript)
 
 ### What Is Strict Mode in JavaScript?
 
@@ -843,7 +843,7 @@ var x = 3.14; // Error in strict mode: assignment to undeclared variable
 
 ---
 
-## What Is the Purpose of Double Exclamation in JavaScript?
+## [What Is the Purpose of Double Exclamation in JavaScript?](#what-is-the-purpose-of-double-exclamation-in-javascript)
 
 ### What Is the Purpose of Double Exclamation in JavaScript?
 
@@ -860,7 +860,7 @@ console.log(!!0); // false
 
 ---
 
-## How Do You Declare Strict Mode in JavaScript?
+## [How Do You Declare Strict Mode in JavaScript?](#how-do-you-declare-strict-mode-in-javascript)
 
 ### How Do You Declare Strict Mode in JavaScript?
 
@@ -877,7 +877,7 @@ To declare strict mode in JavaScript, simply add `'use strict';` at the beginnin
 
 ---
 
-## How Do You Detect Caps Lock Key Turned On or Not?
+## [How Do You Detect Caps Lock Key Turned On or Not?](#how-do-you-detect-caps-lock-key-turned-on-or-not)
 
 ### How Do You Detect Caps Lock Key Turned On or Not?
 
@@ -897,7 +897,7 @@ document.addEventListener('keydown', function(event) {
 
 ---
 
-## How Do You Access History in JavaScript?
+## [How Do You Access History in JavaScript?](#how-do-you-access-history-in-javascript)
 
 ### How Do You Access History in JavaScript?
 
@@ -914,7 +914,7 @@ window.history.forward(); // Go forward in history
 
 ---
 
-## What Is the Difference Between `window` and `document` in JavaScript?
+## [What Is the Difference Between `window` and `document` in JavaScript?](#what-is-the-difference-between-window-and-document-in-javascript)
 
 ### What Is the Difference Between `window` and `document` in JavaScript?
 
@@ -931,7 +931,7 @@ console.log(document); // HTML document
 
 ---
 
-## What Is the Purpose of Double Exclamation in JavaScript?
+## [What Is the Purpose of Double Exclamation in JavaScript?](#what-is-the-purpose-of-double-exclamation-in-javascript)
 
 ### What Is the Purpose of Double Exclamation in JavaScript?
 
@@ -948,7 +948,7 @@ console.log(!!null); // false
 
 ---
 
-## What Is `eval` in JavaScript?
+## [What Is `eval` in JavaScript?](#what-is-eval-in-javascript)
 
 ### What Is `eval` in JavaScript?
 
@@ -964,7 +964,7 @@ eval('console.log("Hello, World!")'); // Logs 'Hello, World!'
 
 ---
 
-## What Is the `null` Value in JavaScript?
+## [What Is the `null` Value in JavaScript?](#what-is-the-null-value-in-javascript)
 
 ### What Is the `null` Value in JavaScript?
 
@@ -981,7 +981,7 @@ console.log(x); // null
 
 ---
 
-## What Is the `undefined` Property in JavaScript?
+## [What Is the `undefined` Property in JavaScript?](#what-is-the-undefined-property-in-javascript)
 
 ### What Is the `undefined` Property in JavaScript?
 
@@ -998,7 +998,7 @@ console.log(x); // undefined
 
 ---
 
-## What Is the Purpose of the `delete` Operator in JavaScript?
+## [What Is the Purpose of the `delete` Operator in JavaScript?](#what-is-the-purpose-of-the-delete-operator-in-javascript)
 
 ### What Is the Purpose of the `delete` Operator in JavaScript?
 
@@ -1016,7 +1016,7 @@ console.log(obj); // { name: 'John' }
 
 ---
 
-## What Is the `typeof` Operator in JavaScript?
+## [What Is the `typeof` Operator in JavaScript?](#what-is-the-typeof-operator-in-javascript)
 
 ### What Is the `typeof` Operator in JavaScript?
 
@@ -1033,7 +1033,7 @@ console.log(typeof 123); // number
 
 ---
 
-## What Is `isNaN` in JavaScript?
+## [What Is `isNaN` in JavaScript?](#what-is-isnan-in-javascript)
 
 ### What Is `isNaN` in JavaScript?
 
@@ -1050,7 +1050,7 @@ console.log(isNaN('Hello')); // true
 
 ---
 
-## What are the differences between undeclared and undefined variables
+## [What are the differences between undeclared and undefined variables](#what-are-the-differences-between-undeclared-and-undefined-variables)
 
 ### What are the differences between undeclared and undefined variables?
 
@@ -1062,7 +1062,7 @@ An undeclared variable is one that has not been declared using `var`, `let`, or 
 
 ---
 
-## What are global variables
+## [What are global variables](#what-are-global-variables)
 
 ### What are global variables?
 
@@ -1074,7 +1074,7 @@ Global variables are variables that are declared outside of any function and are
 
 ---
 
-## What are the problems with global variables
+## [What are the problems with global variables](#what-are-the-problems-with-global-variables)
 
 ### What are the problems with global variables?
 
@@ -1086,7 +1086,7 @@ Global variables can cause issues like name collisions, difficulty in debugging,
 
 ---
 
-## What is NaN property
+## [What is NaN property](#what-is-nan-property)
 
 ### What is NaN property?
 
@@ -1098,7 +1098,7 @@ Global variables can cause issues like name collisions, difficulty in debugging,
 
 ---
 
-## What is the purpose of isFinite function
+## [What is the purpose of isFinite function](#what-is-the-purpose-of-isfinite-function)
 
 ### What is the purpose of isFinite function?
 
@@ -1110,7 +1110,7 @@ Global variables can cause issues like name collisions, difficulty in debugging,
 
 ---
 
-## What is an event flow
+## [What is an event flow](#what-is-an-event-flow)
 
 ### What is an event flow?
 
@@ -1122,7 +1122,7 @@ Event flow in JavaScript refers to the order in which events are propagated thro
 
 ---
 
-## What is event bubbling
+## [What is event bubbling](#what-is-event-bubbling)
 
 ### What is event bubbling?
 
