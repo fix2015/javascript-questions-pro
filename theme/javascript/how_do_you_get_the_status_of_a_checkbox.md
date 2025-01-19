@@ -11,6 +11,6 @@ let checkbox = document.getElementById('myCheckbox');
 console.log(checkbox.checked);  // Output: true/false
 ```
 
-**Tags**: basic, JavaScript, DOM
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [DOM](./theme/dom)
 
 

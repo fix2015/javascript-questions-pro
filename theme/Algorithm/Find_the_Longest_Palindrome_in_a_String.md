@@ -41,6 +41,6 @@ console.log(longestPalindrome('cbbd')); // Output: 'bb'
 
 This method has a time complexity of O(n^2), where n is the length of the string.
 
-**Tags**: intermediate, JavaScript, Strings, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 

@@ -19,6 +19,6 @@ const obj2 = { ...obj1, city: 'New York' };
 console.log(obj2); // { name: 'John', age: 30, city: 'New York' }
 ```
 
-**Tags**: basic, JavaScript, operators
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [operators](./theme/operators)
 
 

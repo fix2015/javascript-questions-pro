@@ -17,6 +17,6 @@ let { name = 'Guest', age = 25 } = { name: 'John' };
 console.log(name, age);  // Output: John 25
 ```
 
-**Tags**: intermediate, JavaScript, Destructuring
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Destructuring](./theme/destructuring)
 
 

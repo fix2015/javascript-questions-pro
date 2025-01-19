@@ -30,6 +30,6 @@ console.log(findPrimes([10, 15, 23, 30])); // Output: [23]
 
 This method has a time complexity of O(n * sqrt(m)), where n is the length of the array and m is the largest number in the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 

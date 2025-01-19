@@ -21,6 +21,6 @@ Before ES2022, `await` could only be used inside `async` functions. To achieve s
 
 With ES2022, `await` can be used in top-level code in modules.
 
-**Tags**: advanced, JavaScript, Asynchronous Programming
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Asynchronous Programming](./theme/asynchronous_programming)
 
 

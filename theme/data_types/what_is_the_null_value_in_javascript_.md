@@ -9,6 +9,6 @@ let x = null;
 console.log(x); // null
 ```
 
-**Tags**: basic, JavaScript, data types
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [data types](./theme/data_types)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449876086793489696](https://www.tiktok.com/@jsmentoring/photo/7449876086793489696)

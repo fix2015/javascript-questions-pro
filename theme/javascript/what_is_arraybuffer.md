@@ -13,6 +13,6 @@ view[0] = 255;
 console.log(view[0]);  // Output: 255
 ```
 
-**Tags**: intermediate, JavaScript, Binary Data
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Binary Data](./theme/binary_data)
 
 

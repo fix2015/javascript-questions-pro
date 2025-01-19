@@ -10,6 +10,6 @@ Example:
 console.log(window.innerWidth, window.innerHeight);
 ```
 
-**Tags**: basic, JavaScript, window properties
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [window properties](./theme/window_properties)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456924943062715680](https://www.tiktok.com/@jsmentoring/photo/7456924943062715680)

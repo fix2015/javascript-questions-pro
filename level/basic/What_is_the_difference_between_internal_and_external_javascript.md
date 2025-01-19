@@ -17,6 +17,6 @@ Example of external JavaScript:
 <script src='script.js'></script>
 ```
 
-**Tags**: basic, JavaScript, Script Tag
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Script Tag](./theme/script_tag)
 
 

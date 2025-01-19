@@ -13,6 +13,6 @@ Example of Promise:
 let promise = new Promise((resolve, reject) => { resolve('Resolved'); });
 ```
 
-**Tags**: advanced, JavaScript, Promises, Observables
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Promises](./theme/promises), [Observables](./theme/observables)
 
 

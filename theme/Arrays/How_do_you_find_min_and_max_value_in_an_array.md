@@ -12,6 +12,6 @@ console.log(Math.min(...arr)); // 1
 console.log(Math.max(...arr)); // 5
 ```
 
-**Tags**: basic, JavaScript, arrays
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [arrays](./theme/arrays)
 
 

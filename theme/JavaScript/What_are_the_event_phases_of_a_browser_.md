@@ -24,6 +24,6 @@ document.getElementById('myDiv').addEventListener('click', event => {
 });
 ```
 
-**Tags**: intermediate, JavaScript, Events
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Events](./theme/events)
 
 

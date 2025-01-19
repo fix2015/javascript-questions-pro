@@ -11,6 +11,6 @@ const element = document.getElementById('myElement');
 element.style.backgroundColor = 'blue';
 ```
 
-**Tags**: basic, JavaScript, DOM manipulation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [DOM manipulation](./theme/dom_manipulation)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456849197690621217](https://www.tiktok.com/@jsmentoring/photo/7456849197690621217)

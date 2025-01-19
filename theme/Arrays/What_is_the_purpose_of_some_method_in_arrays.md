@@ -12,6 +12,6 @@ let hasEven = numbers.some(num => num % 2 === 0);
 console.log(hasEven);  // Output: true
 ```
 
-**Tags**: basic, JavaScript, Arrays
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 

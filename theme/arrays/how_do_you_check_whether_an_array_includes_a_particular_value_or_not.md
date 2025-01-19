@@ -12,6 +12,6 @@ console.log(arr.includes(3)); // true
 console.log(arr.includes(6)); // false
 ```
 
-**Tags**: basic, JavaScript, arrays
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [arrays](./theme/arrays)
 
 

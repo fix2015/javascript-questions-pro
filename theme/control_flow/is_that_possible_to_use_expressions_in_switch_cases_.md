@@ -17,6 +17,6 @@ switch (value) {
 }
 ```
 
-**Tags**: basic, JavaScript, Control Flow
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Control Flow](./theme/control_flow)
 
 

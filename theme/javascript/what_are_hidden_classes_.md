@@ -27,6 +27,6 @@ const obj2 = new Example();
 // Both obj1 and obj2 share the same hidden class.
 ```
 
-**Tags**: advanced, JavaScript, V8 Engine
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [V8 Engine](./theme/v8_engine)
 
 

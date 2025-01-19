@@ -7,6 +7,6 @@ The main rules of Promises in JavaScript are:
 2. A promise can only transition from pending to fulfilled or rejected, and cannot change back.
 3. You can attach `.then()` to handle success and `.catch()` for errors.
 
-**Tags**: intermediate, Promises, JavaScript
+**Tags**: [intermediate](./level/intermediate), [Promises](./theme/promises), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449057432086580513](https://www.tiktok.com/@jsmentoring/photo/7449057432086580513)

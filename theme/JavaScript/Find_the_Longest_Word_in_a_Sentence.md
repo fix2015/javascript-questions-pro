@@ -34,6 +34,6 @@ console.log(findLongestWord("Hello world!")); // Output: "Hello"
 
 This method has a time complexity of O(n), where n is the total number of characters in the sentence.
 
-**Tags**: basic, JavaScript, Strings, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 

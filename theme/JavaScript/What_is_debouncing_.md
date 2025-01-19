@@ -19,6 +19,6 @@ const log = debounce(() => console.log('Debounced!'), 300);
 window.addEventListener('resize', log);
 ```
 
-**Tags**: intermediate, JavaScript, Performance
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Performance](./theme/performance)
 
 

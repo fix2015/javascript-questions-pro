@@ -11,6 +11,6 @@ function test() {
 test(1, 2, 3); // { '0': 1, '1': 2, '2': 3 }
 ```
 
-**Tags**: basic, JavaScript, functions
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [functions](./theme/functions)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7455473337897061664](https://www.tiktok.com/@jsmentoring/photo/7455473337897061664)

@@ -37,6 +37,6 @@ console.log(firstNonRepeatingChar("swiss")); // Output: "w"
 
 This method has a time complexity of O(n) as it involves two iterations over the string.
 
-**Tags**: intermediate, JavaScript, Strings, Algorithm, Data Structures
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm), [Data Structures](./theme/data_structures)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/video/7458383226621529376](https://www.tiktok.com/@jsmentoring/video/7458383226621529376)

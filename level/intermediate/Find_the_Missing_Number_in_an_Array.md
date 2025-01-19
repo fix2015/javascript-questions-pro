@@ -26,6 +26,6 @@ console.log(findMissingNumber([3, 7, 1, 2, 8, 4, 5])); // Output: 6
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 

@@ -14,6 +14,6 @@ Example:
 </form>
 ```
 
-**Tags**: intermediate, HTML, forms
+**Tags**: [intermediate](./level/intermediate), [HTML](./theme/html), [forms](./theme/forms)
 
 

@@ -11,6 +11,6 @@ let num: number = 10;
 let str: string = 'Hello';
 ```
 
-**Tags**: basic, TypeScript
+**Tags**: [basic](./level/basic), [TypeScript](./theme/typescript)
 
 

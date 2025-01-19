@@ -47,6 +47,6 @@ console.log(areAnagrams("hello", "world")); // Output: false
 
 This method has a time complexity of O(n), where n is the length of the strings.
 
-**Tags**: intermediate, JavaScript, Strings, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/video/7458386392272473377](https://www.tiktok.com/@jsmentoring/video/7458386392272473377)

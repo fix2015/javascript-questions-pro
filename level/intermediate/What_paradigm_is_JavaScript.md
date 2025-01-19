@@ -11,6 +11,6 @@ let add = (a, b) => a + b;
 console.log(add(2, 3));  // Output: 5
 ```
 
-**Tags**: intermediate, JavaScript, Programming Paradigms
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Programming Paradigms](./theme/programming_paradigms)
 
 

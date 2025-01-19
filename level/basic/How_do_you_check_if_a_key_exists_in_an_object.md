@@ -10,6 +10,6 @@ console.log('name' in obj); // true
 console.log(obj.hasOwnProperty('name')); // true
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7455464658166680864](https://www.tiktok.com/@jsmentoring/photo/7455464658166680864)

@@ -9,6 +9,6 @@ const params = new URLSearchParams(window.location.search);
 console.log(params.get('id')); // Gets the value of the 'id' parameter
 ```
 
-**Tags**: basic, JavaScript, web navigation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [web navigation](./theme/web_navigation)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7455462347759471905](https://www.tiktok.com/@jsmentoring/photo/7455462347759471905)

@@ -14,6 +14,6 @@ const MyNamespace = {
 MyNamespace.myFunction(); // 'Hello!'
 ```
 
-**Tags**: intermediate, JavaScript, namespaces
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [namespaces](./theme/namespaces)
 
 

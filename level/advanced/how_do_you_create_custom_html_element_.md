@@ -20,6 +20,6 @@ customElements.define('my-element', MyElement);
 
 This defines a new custom element `<my-element>` which can be used like a standard HTML tag.
 
-**Tags**: advanced, JavaScript, Web Components
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Web Components](./theme/web_components)
 
 

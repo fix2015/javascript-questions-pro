@@ -8,6 +8,6 @@
 eval('console.log("Hello, World!")'); // Logs 'Hello, World!'
 ```
 
-**Tags**: intermediate, JavaScript, security
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [security](./theme/security)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449833381975559446](https://www.tiktok.com/@jsmentoring/photo/7449833381975559446)

@@ -16,6 +16,6 @@ import { of } from 'rxjs';
 of('Data loaded').subscribe(data => console.log(data));
 ```
 
-**Tags**: advanced, JavaScript, RxJS
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [RxJS](./theme/rxjs)
 
 

@@ -12,6 +12,6 @@ document.body.style.cursor = 'wait';  // Changes cursor to wait
 document.body.style.cursor = 'default';  // Changes cursor back to default
 ```
 
-**Tags**: basic, JavaScript, UI manipulation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [UI manipulation](./theme/ui_manipulation)
 
 

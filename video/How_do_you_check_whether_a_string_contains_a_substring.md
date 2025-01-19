@@ -9,6 +9,6 @@ const str = 'Hello World';
 console.log(str.includes('World')); // true
 ```
 
-**Tags**: basic, JavaScript, string manipulation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [string manipulation](./theme/string_manipulation)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457960152197614880](https://www.tiktok.com/@jsmentoring/photo/7457960152197614880)

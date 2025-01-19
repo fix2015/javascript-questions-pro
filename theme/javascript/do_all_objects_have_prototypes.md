@@ -11,6 +11,6 @@ let obj = {};
 console.log(Object.getPrototypeOf(obj));  // Output: [object Object]
 ```
 
-**Tags**: intermediate, JavaScript, Objects
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Objects](./theme/objects)
 
 

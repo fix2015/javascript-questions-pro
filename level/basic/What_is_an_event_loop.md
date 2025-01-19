@@ -13,6 +13,6 @@ console.log('End');
 // Output: 'Start', 'End', 'Timeout'
 ```
 
-**Tags**: basic, JavaScript, concurrency model
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [concurrency model](./theme/concurrency_model)
 
 

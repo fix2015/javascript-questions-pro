@@ -21,6 +21,6 @@ const obj = { a: 1, b: 2 };
 console.log(obj.a); // Inline caching used after first lookup
 ```
 
-**Tags**: advanced, JavaScript, Engines
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Engines](./theme/engines)
 
 

@@ -13,6 +13,6 @@ function getRandomInt(min, max) {
 console.log(getRandomInt(1, 100)); // Generates a random integer between 1 and 100
 ```
 
-**Tags**: basic, JavaScript, math
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [math](./theme/math)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456920292397518112](https://www.tiktok.com/@jsmentoring/photo/7456920292397518112)

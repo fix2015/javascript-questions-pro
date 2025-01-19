@@ -12,6 +12,6 @@ console.log(Object.is(5, '5')); // false
 console.log(Object.is(NaN, NaN)); // true
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457684535661137185](https://www.tiktok.com/@jsmentoring/photo/7457684535661137185)

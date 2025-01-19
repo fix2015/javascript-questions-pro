@@ -11,6 +11,6 @@ const img = document.getElementById('myImage');
 console.log(img.width, img.height);
 ```
 
-**Tags**: basic, JavaScript, DOM manipulation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [DOM manipulation](./theme/dom_manipulation)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457292452945268000](https://www.tiktok.com/@jsmentoring/photo/7457292452945268000)

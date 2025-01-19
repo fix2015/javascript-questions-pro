@@ -17,6 +17,6 @@ const input = document.querySelector('input');
 console.log(input.validity.rangeUnderflow); // true or false
 ```
 
-**Tags**: intermediate, JavaScript, DOM, validation
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [DOM](./theme/dom), [validation](./theme/validation)
 
 

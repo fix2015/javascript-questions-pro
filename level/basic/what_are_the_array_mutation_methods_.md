@@ -17,6 +17,6 @@ arr.push(4); // [1, 2, 3, 4]
 arr.pop();  // [1, 2, 3]
 ```
 
-**Tags**: basic, JavaScript, Arrays
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 

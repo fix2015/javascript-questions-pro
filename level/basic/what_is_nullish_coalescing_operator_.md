@@ -14,6 +14,6 @@ const number = 0;
 console.log(number ?? 42); // Output: 0
 ```
 
-**Tags**: basic, JavaScript, Operators
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Operators](./theme/operators)
 
 

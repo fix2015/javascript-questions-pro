@@ -25,6 +25,6 @@ myModule.publicMethod(); // 'I am private'
 console.log(myModule.privateVar); // undefined
 ```
 
-**Tags**: intermediate, JavaScript, Design Patterns
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Design Patterns](./theme/design_patterns)
 
 

@@ -9,6 +9,6 @@ Strict mode is a way to opt in to a restricted version of JavaScript. It helps c
 var x = 3.14; // Error in strict mode: assignment to undeclared variable
 ```
 
-**Tags**: intermediate, JavaScript, strict mode
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [strict mode](./theme/strict_mode)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449392707455175968](https://www.tiktok.com/@jsmentoring/photo/7449392707455175968)

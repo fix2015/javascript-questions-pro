@@ -16,6 +16,6 @@ const [first, second] = [1, 2];
 console.log(first, second);  // Output: 1 2
 ```
 
-**Tags**: intermediate, JavaScript, ES6
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [ES6](./theme/es6)
 
 

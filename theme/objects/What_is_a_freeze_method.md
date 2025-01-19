@@ -12,6 +12,6 @@ Object.freeze(obj);
 obj.name = 'Jane'; // This won't change the name
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457554518977285408](https://www.tiktok.com/@jsmentoring/photo/7457554518977285408)

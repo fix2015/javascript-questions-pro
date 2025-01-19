@@ -13,6 +13,6 @@
    console.log(globalThis); // In browsers, equivalent to window.
    ```
 
-**Tags**: basic, JavaScript, Global Objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Global Objects](./theme/global_objects)
 
 

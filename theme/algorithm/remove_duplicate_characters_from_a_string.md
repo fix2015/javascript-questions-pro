@@ -22,6 +22,6 @@ console.log(removeDuplicates("hello")); // Output: "helo"
 
 This method has a time complexity of O(n), where n is the length of the string.
 
-**Tags**: basic, JavaScript, Strings, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 

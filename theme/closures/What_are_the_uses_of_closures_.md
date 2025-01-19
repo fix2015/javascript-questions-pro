@@ -28,6 +28,6 @@ Closures allow a function to retain access to its outer scope, even after the ou
    setupEventListener();
    ```
 
-**Tags**: intermediate, JavaScript, Closures
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Closures](./theme/closures)
 
 

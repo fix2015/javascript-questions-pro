@@ -10,6 +10,6 @@ Example:
 - Obfuscation might involve renaming variables in a script.
 - Encryption involves transforming data into a coded format using an encryption algorithm.
 
-**Tags**: intermediate, JavaScript, security
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [security](./theme/security)
 
 

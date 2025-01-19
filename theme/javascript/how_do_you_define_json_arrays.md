@@ -10,6 +10,6 @@ Example:
 ["apple", "banana", "cherry"]
 ```
 
-**Tags**: basic, JavaScript, JSON
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [JSON](./theme/json)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456895653067672864](https://www.tiktok.com/@jsmentoring/photo/7456895653067672864)

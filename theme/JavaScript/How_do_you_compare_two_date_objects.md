@@ -10,6 +10,6 @@ const date2 = new Date('2024-12-01');
 console.log(date1.getTime() === date2.getTime()); // true
 ```
 
-**Tags**: basic, JavaScript, date and time
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [date and time](./theme/date_and_time)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7455822418272062752](https://www.tiktok.com/@jsmentoring/photo/7455822418272062752)

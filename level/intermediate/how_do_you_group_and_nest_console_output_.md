@@ -21,6 +21,6 @@ Outer Group
     Message in Inner Group
 ```
 
-**Tags**: intermediate, JavaScript, Console
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Console](./theme/console)
 
 

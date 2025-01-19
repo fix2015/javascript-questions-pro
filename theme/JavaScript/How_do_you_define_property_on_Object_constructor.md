@@ -16,6 +16,6 @@ console.log(person.name); // 'John'
 console.log(person.age); // 30
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 

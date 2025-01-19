@@ -12,6 +12,6 @@ fetch('https://api.example.com/data')
   .then(data => console.log(data));
 ```
 
-**Tags**: intermediate, JavaScript, AJAX
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [AJAX](./theme/ajax)
 
 

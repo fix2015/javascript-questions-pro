@@ -16,6 +16,6 @@ Example:
 }();
 ```
 
-**Tags**: advanced, JavaScript, Functions
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Functions](./theme/functions)
 
 

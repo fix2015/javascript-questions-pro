@@ -16,6 +16,6 @@ person.name = 'John';
 console.log(person.name); // 'JOHN'
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 

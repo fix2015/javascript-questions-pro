@@ -12,6 +12,6 @@ let arr2 = [...arr1, 4, 5];
 console.log(arr2);  // Output: [1, 2, 3, 4, 5]
 ```
 
-**Tags**: intermediate, JavaScript, Spread Operator
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Spread Operator](./theme/spread_operator)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457941742650789152](https://www.tiktok.com/@jsmentoring/photo/7457941742650789152)

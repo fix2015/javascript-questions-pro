@@ -12,6 +12,6 @@ let greeting = `Hello, ${name}!`;
 console.log(greeting);  // Output: Hello, John!
 ```
 
-**Tags**: intermediate, JavaScript, Strings
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Strings](./theme/strings)
 
 

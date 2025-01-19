@@ -31,6 +31,6 @@ console.log(sieveOfEratosthenes(20)); // Output: [2, 3, 5, 7, 11, 13, 17, 19]
 
 This method has a time complexity of O(n log log n), where n is the limit.
 
-**Tags**: basic, JavaScript, Math, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Math](./theme/math), [Algorithm](./theme/algorithm)
 
 

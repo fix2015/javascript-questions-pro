@@ -13,6 +13,6 @@ weakmap.set(obj1, 'value');
 console.log(weakmap.get(obj1)); // 'value'
 ```
 
-**Tags**: basic, JavaScript, collections
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [collections](./theme/collections)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7458221758114516256](https://www.tiktok.com/@jsmentoring/photo/7458221758114516256)

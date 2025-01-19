@@ -12,6 +12,6 @@ let uniqueArr = [...new Set(arr)];
 console.log(uniqueArr);  // Output: [1, 2, 3, 4, 5]
 ```
 
-**Tags**: intermediate, JavaScript, Arrays
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 

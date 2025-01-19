@@ -14,6 +14,6 @@ let a = false;
 let b = true;
 console.log(a && b);  // 'false', 'b' is not evaluated
 
-**Tags**: intermediate, JavaScript, Logical Operators
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Logical Operators](./theme/logical_operators)
 
 

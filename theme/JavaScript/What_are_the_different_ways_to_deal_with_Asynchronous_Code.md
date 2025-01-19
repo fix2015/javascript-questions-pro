@@ -19,6 +19,6 @@ async function fetchData() {
 fetchData();
 ```
 
-**Tags**: advanced, JavaScript, Asynchronous Programming
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Asynchronous Programming](./theme/asynchronous_programming)
 
 

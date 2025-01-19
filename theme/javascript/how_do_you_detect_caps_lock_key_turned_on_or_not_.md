@@ -12,6 +12,6 @@ document.addEventListener('keydown', function(event) {
 });
 ```
 
-**Tags**: intermediate, JavaScript, event handling, keyboard events
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [event handling](./theme/event_handling), [keyboard events](./theme/keyboard_events)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449671849920761120](https://www.tiktok.com/@jsmentoring/photo/7449671849920761120)

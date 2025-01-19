@@ -15,6 +15,6 @@ console.log(isPromise(Promise.resolve()));  // Output: true
 console.log(isPromise({}));  // Output: false
 ```
 
-**Tags**: intermediate, JavaScript, Promises
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Promises](./theme/promises)
 
 

@@ -24,6 +24,6 @@ function sum(...args) {
 console.log(sum(1, 2, 3)); // Output: 6
 ```
 
-**Tags**: intermediate, JavaScript, Operators
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Operators](./theme/operators)
 
 

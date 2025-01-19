@@ -11,6 +11,6 @@ let char = 'A';
 console.log(char.charCodeAt(0));  // Output: 65
 ```
 
-**Tags**: basic, JavaScript, String Manipulation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [String Manipulation](./theme/string_manipulation)
 
 

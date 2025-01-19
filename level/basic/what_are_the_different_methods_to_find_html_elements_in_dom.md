@@ -17,6 +17,6 @@ const element = document.getElementById('myElement');
 const elements = document.getElementsByClassName('myClass');
 ```
 
-**Tags**: basic, JavaScript, DOM manipulation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [DOM manipulation](./theme/dom_manipulation)
 
 

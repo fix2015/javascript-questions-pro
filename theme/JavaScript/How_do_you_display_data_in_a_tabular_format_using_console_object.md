@@ -14,6 +14,6 @@ let arr = [
 console.table(arr);
 ```
 
-**Tags**: intermediate, JavaScript, Console
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Console](./theme/console)
 
 

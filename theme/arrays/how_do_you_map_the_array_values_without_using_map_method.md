@@ -13,6 +13,6 @@ arr.forEach(item => result.push(item * 2));
 console.log(result);  // Output: [2, 4, 6]
 ```
 
-**Tags**: intermediate, JavaScript, Arrays
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 

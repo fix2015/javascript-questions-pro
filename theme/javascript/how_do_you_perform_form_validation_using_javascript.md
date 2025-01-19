@@ -17,6 +17,6 @@ form.onsubmit = function(event) {
 };
 ```
 
-**Tags**: intermediate, JavaScript, forms
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [forms](./theme/forms)
 
 

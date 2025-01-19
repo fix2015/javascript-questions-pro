@@ -11,6 +11,6 @@ let arr = [1, 2, 3, 4, 5];
 console.log(arr);  // Output: [1, 2, 3, 4, 5]
 ```
 
-**Tags**: basic, JavaScript, Arrays
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 

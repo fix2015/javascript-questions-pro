@@ -10,6 +10,6 @@ Example:
 const obj = { name: 'John', age: 30 };
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456561892916563233](https://www.tiktok.com/@jsmentoring/photo/7456561892916563233)

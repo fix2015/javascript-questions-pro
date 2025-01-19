@@ -18,6 +18,6 @@ person.fullName = 'Jane Smith';
 console.log(person.firstName); // 'Jane'
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 

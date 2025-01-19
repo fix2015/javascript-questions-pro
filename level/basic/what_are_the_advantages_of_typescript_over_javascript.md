@@ -17,6 +17,6 @@ function greet(person: string) {
 greet(42); // Error: Argument of type 'number' is not assignable to parameter of type 'string'.
 ```
 
-**Tags**: basic, TypeScript
+**Tags**: [basic](./level/basic), [TypeScript](./theme/typescript)
 
 

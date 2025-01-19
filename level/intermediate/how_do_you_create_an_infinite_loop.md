@@ -12,6 +12,6 @@ while (true) {
 }
 ```
 
-**Tags**: intermediate, JavaScript, Loops
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Loops](./theme/loops)
 
 

@@ -15,6 +15,6 @@ let obj = arr.reduce((acc, curr, index) => {
 console.log(obj);  // Output: { 0: 'apple', 1: 'banana', 2: 'cherry' }
 ```
 
-**Tags**: intermediate, JavaScript, Arrays
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 

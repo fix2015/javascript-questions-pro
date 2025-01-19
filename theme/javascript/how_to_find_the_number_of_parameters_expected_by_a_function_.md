@@ -13,6 +13,6 @@ console.log(example.length); // 3
 
 Note: Default parameters and rest parameters are not counted in the `length` property.
 
-**Tags**: intermediate, JavaScript, Functions
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Functions](./theme/functions)
 
 

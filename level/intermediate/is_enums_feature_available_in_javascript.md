@@ -16,6 +16,6 @@ console.log(Colors.RED); // 'red'
 ```
 Alternatively, TypeScript provides a native `enum` feature.
 
-**Tags**: intermediate, JavaScript, features
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [features](./theme/features)
 
 

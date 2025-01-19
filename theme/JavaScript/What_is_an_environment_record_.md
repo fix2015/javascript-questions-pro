@@ -19,6 +19,6 @@ function example() {
 }
 ```
 
-**Tags**: advanced, JavaScript, Execution Context
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Execution Context](./theme/execution_context)
 
 

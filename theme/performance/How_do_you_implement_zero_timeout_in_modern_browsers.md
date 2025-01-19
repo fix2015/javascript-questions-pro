@@ -8,6 +8,6 @@ In modern browsers, you can simulate a zero timeout by using `setTimeout` with a
 setTimeout(() => console.log('Executed after zero delay'), 0);
 ```
 
-**Tags**: intermediate, JavaScript, Performance
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Performance](./theme/performance)
 
 

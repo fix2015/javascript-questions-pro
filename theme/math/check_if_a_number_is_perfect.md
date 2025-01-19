@@ -28,6 +28,6 @@ console.log(isPerfectNumber(10)); // Output: false
 
 This method has a time complexity of O(n), where n is the number being checked.
 
-**Tags**: intermediate, JavaScript, Math, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Math](./theme/math), [Algorithm](./theme/algorithm)
 
 

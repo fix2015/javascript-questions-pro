@@ -16,6 +16,6 @@ console.log(person.name); // Dot notation
 console.log(person['age']); // Bracket notation
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 

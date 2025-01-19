@@ -17,6 +17,6 @@ console.log(isNaN('hello')); // true (coerced to NaN)
 console.log(Number.isNaN('hello')); // false (strict check)
 ```
 
-**Tags**: basic, JavaScript, Numbers
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Numbers](./theme/numbers)
 
 

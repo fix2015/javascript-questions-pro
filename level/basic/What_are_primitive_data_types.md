@@ -20,6 +20,6 @@ const age = 30; // number
 const isActive = true; // boolean
 ```
 
-**Tags**: basic, JavaScript, data types
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [data types](./theme/data_types)
 
 

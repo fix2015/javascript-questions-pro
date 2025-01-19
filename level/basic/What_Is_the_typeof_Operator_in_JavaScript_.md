@@ -9,6 +9,6 @@ console.log(typeof 'Hello'); // string
 console.log(typeof 123); // number
 ```
 
-**Tags**: basic, JavaScript, operators
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [operators](./theme/operators)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7450568773712497953](https://www.tiktok.com/@jsmentoring/photo/7450568773712497953)

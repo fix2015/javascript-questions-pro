@@ -11,6 +11,6 @@ let dynamicVar = 10;  // Number
 dynamicVar = 'Hello';  // String
 ```
 
-**Tags**: basic, JavaScript, Language features
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Language features](./theme/language_features)
 
 

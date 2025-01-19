@@ -32,6 +32,6 @@ console.log(findFirstRepeating([5, 3, 4, 1])); // Output: null
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 

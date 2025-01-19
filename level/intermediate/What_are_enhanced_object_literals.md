@@ -17,6 +17,6 @@ let person = {
 person.greet();  // Output: Hello, John
 ```
 
-**Tags**: intermediate, JavaScript, Objects
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Objects](./theme/objects)
 
 

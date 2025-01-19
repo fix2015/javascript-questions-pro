@@ -12,6 +12,6 @@ window.addEventListener('popstate', function(event) {
 });
 ```
 
-**Tags**: intermediate, JavaScript, Browser Events
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Browser Events](./theme/browser_events)
 
 

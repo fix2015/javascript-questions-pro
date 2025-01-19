@@ -12,6 +12,6 @@ let age = 25;
 console.log('Name: %s, Age: %d', name, age);  // Output: 'Name: Alice, Age: 25'
 ```
 
-**Tags**: intermediate, JavaScript, Console
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Console](./theme/console)
 
 

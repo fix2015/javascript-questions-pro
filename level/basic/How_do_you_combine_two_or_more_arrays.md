@@ -13,6 +13,6 @@ let combined = arr1.concat(arr2);
 console.log(combined);  // Output: [1, 2, 3, 4]
 ```
 
-**Tags**: basic, JavaScript, Arrays
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 

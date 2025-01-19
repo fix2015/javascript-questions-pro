@@ -4,6 +4,6 @@
 
 The same-origin policy is a security measure that restricts how a document or script loaded from one origin can interact with resources from another origin.
 
-**Tags**: intermediate, JavaScript, security
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [security](./theme/security)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7454519704300948768](https://www.tiktok.com/@jsmentoring/photo/7454519704300948768)

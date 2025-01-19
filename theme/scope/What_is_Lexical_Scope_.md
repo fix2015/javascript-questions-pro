@@ -26,6 +26,6 @@ function outer() {
 outer();
 ```
 
-**Tags**: basic, JavaScript, Scope
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Scope](./theme/scope)
 
 

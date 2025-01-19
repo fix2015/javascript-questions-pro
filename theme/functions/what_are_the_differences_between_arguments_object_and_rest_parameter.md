@@ -26,6 +26,6 @@ oldStyleFunction(1, 2, 3);
 newStyleFunction(1, 2, 3);
 ```
 
-**Tags**: intermediate, JavaScript, Functions
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Functions](./theme/functions)
 
 

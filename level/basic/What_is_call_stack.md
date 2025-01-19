@@ -17,6 +17,6 @@ a();
 // Call stack will be: [a(), b()]
 ```
 
-**Tags**: basic, JavaScript, execution context
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [execution context](./theme/execution_context)
 
 

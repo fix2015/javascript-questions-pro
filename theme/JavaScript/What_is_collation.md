@@ -12,6 +12,6 @@ let result = collator.compare('apple', 'banana');
 console.log(result);  // Output: -1
 ```
 
-**Tags**: advanced, JavaScript, Internationalization
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Internationalization](./theme/internationalization)
 
 

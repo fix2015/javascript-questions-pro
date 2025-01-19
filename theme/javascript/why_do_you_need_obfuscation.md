@@ -9,6 +9,6 @@ Example uses of obfuscation:
 - Hiding sensitive information like API keys (though not recommended as a primary security measure)
 - Preventing unauthorized modifications
 
-**Tags**: intermediate, JavaScript, security
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [security](./theme/security)
 
 

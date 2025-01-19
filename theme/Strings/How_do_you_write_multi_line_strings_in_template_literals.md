@@ -17,6 +17,6 @@ console.log(multilineString);
 // string.
 ```
 
-**Tags**: intermediate, JavaScript, Strings
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Strings](./theme/strings)
 
 

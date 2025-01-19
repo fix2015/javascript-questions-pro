@@ -9,6 +9,6 @@ const currentDate = new Date();
 console.log(currentDate); // Displays the current date and time
 ```
 
-**Tags**: basic, JavaScript, date and time
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [date and time](./theme/date_and_time)
 
 

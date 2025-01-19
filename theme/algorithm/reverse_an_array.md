@@ -30,6 +30,6 @@ console.log(reverseArray(["a", "b", "c"])); // Output: ["c", "b", "a"]
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 

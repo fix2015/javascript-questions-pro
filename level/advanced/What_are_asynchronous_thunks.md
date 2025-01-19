@@ -14,6 +14,6 @@ const fetchData = (url) => (dispatch) => {
 };
 ```
 
-**Tags**: advanced, JavaScript, Functional Programming
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Functional Programming](./theme/functional_programming)
 
 

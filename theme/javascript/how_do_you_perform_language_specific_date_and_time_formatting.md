@@ -12,6 +12,6 @@ const formatter = new Intl.DateTimeFormat('en-US', { year: 'numeric', month: 'lo
 console.log(formatter.format(date)); // 'December 21, 2024'
 ```
 
-**Tags**: basic, JavaScript, internationalization
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [internationalization](./theme/internationalization)
 
 

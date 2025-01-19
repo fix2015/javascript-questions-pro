@@ -12,6 +12,6 @@ Object.freeze(config);
 config.maxLimit = 200; // Won't work
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457632028364737825](https://www.tiktok.com/@jsmentoring/photo/7457632028364737825)

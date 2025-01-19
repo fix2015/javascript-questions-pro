@@ -10,6 +10,6 @@ Example:
 console.log(1 + 2 + '3'); // '33'
 ```
 
-**Tags**: basic, JavaScript, type coercion
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [type coercion](./theme/type_coercion)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456799873505987873](https://www.tiktok.com/@jsmentoring/photo/7456799873505987873)

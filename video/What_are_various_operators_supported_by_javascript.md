@@ -11,6 +11,6 @@ Examples:
 - Logical: `&&`, `||`
 - Assignment: `=`, `+=`, `-=`
 
-**Tags**: basic, JavaScript, operators
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [operators](./theme/operators)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457453251810561313](https://www.tiktok.com/@jsmentoring/photo/7457453251810561313)

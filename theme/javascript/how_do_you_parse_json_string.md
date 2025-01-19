@@ -9,6 +9,6 @@ const obj = JSON.parse('{"name":"John"}');
 console.log(obj.name); // John
 ```
 
-**Tags**: basic, JavaScript, data formats
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [data formats](./theme/data_formats)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457955955557403937](https://www.tiktok.com/@jsmentoring/photo/7457955955557403937)

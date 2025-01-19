@@ -12,6 +12,6 @@ const code = 'console.log("Hello")';
 eval(code); // Executes code
 ```
 
-**Tags**: basic, JavaScript, eval
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [eval](./theme/eval)
 
 

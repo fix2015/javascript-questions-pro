@@ -10,6 +10,6 @@ Example:
 let let = 5; // SyntaxError: Unexpected token 'let'
 ```
 
-**Tags**: basic, JavaScript, syntax
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [syntax](./theme/syntax)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457212868161850657](https://www.tiktok.com/@jsmentoring/photo/7457212868161850657)

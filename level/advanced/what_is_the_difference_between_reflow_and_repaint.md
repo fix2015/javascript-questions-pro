@@ -14,6 +14,6 @@ document.body.style.width = '500px';  // Triggers reflow
 document.body.style.backgroundColor = 'red';  // Triggers repaint
 ```
 
-**Tags**: advanced, JavaScript, Performance
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Performance](./theme/performance)
 
 

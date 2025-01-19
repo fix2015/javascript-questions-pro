@@ -17,6 +17,6 @@ const person = new Person('John', 30);
 console.log(person.name); // John
 ```
 
-**Tags**: basic, JavaScript, classes
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [classes](./theme/classes)
 
 

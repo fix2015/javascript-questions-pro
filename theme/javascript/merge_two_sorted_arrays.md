@@ -36,6 +36,6 @@ console.log(mergeSortedArrays([1, 3, 5], [2, 4, 6])); // Output: [1, 2, 3, 4, 5,
 
 This method has a time complexity of O(n + m), where n and m are the lengths of the two arrays.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 

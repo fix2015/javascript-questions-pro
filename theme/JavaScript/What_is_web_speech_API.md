@@ -14,6 +14,6 @@ let utterance = new SpeechSynthesisUtterance('Hello, World!');
 speechSynthesis.speak(utterance);
 ```
 
-**Tags**: advanced, JavaScript, Web APIs
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Web APIs](./theme/web_apis)
 
 

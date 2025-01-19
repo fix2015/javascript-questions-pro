@@ -15,6 +15,6 @@ let obj = Object.assign({}, mixin);
 obj.greet();  // Output: 'Hello!'
 ```
 
-**Tags**: advanced, JavaScript, Object-Oriented Programming
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Object-Oriented Programming](./theme/object_oriented_programming)
 
 

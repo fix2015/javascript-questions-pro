@@ -20,6 +20,6 @@ switch(fruit) {
 }
 ```
 
-**Tags**: basic, JavaScript, control structures
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [control structures](./theme/control_structures)
 
 

@@ -32,6 +32,6 @@ console.log(findCommonCharacters('aabb', 'abcc')); // Output: ['a', 'b']
 
 This method has a time complexity of O(n + m), where n and m are the lengths of the two strings.
 
-**Tags**: basic, JavaScript, Strings, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 

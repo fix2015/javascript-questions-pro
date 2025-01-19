@@ -13,6 +13,6 @@ const weakset = new WeakSet([obj1, obj2]);
 console.log(weakset.has(obj1)); // true
 ```
 
-**Tags**: basic, JavaScript, collections
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [collections](./theme/collections)
 
 

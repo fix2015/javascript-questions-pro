@@ -12,6 +12,6 @@ console.log(str.trimStart());  // Output: 'Hello World!   '
 console.log(str.trimEnd());    // Output: '   Hello World!'
 ```
 
-**Tags**: basic, JavaScript, String Manipulation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [String Manipulation](./theme/string_manipulation)
 
 

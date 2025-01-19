@@ -13,6 +13,6 @@ const result = Object.assign(target, source);
 console.log(result); // { name: 'John', age: 30 }
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7458036822975712544](https://www.tiktok.com/@jsmentoring/photo/7458036822975712544)

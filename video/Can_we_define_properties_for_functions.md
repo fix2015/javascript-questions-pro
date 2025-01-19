@@ -10,6 +10,6 @@ myFunc.property = 'value';
 console.log(myFunc.property); // 'value'
 ```
 
-**Tags**: basic, JavaScript, functions
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [functions](./theme/functions)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456170349391023393](https://www.tiktok.com/@jsmentoring/photo/7456170349391023393)

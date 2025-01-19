@@ -26,6 +26,6 @@ console.log(findUnique([4, 4, 5, 5, 6])); // Output: 6
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 

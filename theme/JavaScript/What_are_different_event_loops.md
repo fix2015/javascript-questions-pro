@@ -7,6 +7,6 @@ JavaScript typically uses a single event loop to manage all asynchronous tasks. 
 - **Main Event Loop**: Handles tasks in the main thread.
 - **Web Worker Event Loop**: Handles tasks in background threads.
 
-**Tags**: advanced, JavaScript, Event Loop
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Event Loop](./theme/event_loop)
 
 

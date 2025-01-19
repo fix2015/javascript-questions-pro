@@ -15,6 +15,6 @@ weakmap.set(obj, 'value');
 map.set(obj, 'value');
 ```
 
-**Tags**: basic, JavaScript, collections
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [collections](./theme/collections)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7458189087422401825](https://www.tiktok.com/@jsmentoring/photo/7458189087422401825)

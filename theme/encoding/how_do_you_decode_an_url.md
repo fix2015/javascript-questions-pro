@@ -12,6 +12,6 @@ const decodedURL = decodeURIComponent(encodedURL);
 console.log(decodedURL); // 'https://example.com/?name=John Doe'
 ```
 
-**Tags**: basic, JavaScript, encoding
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [encoding](./theme/encoding)
 
 

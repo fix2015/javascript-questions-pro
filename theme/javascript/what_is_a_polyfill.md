@@ -14,6 +14,6 @@ if (!Array.prototype.includes) {
 }
 ```
 
-**Tags**: basic, JavaScript, web development
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [web development](./theme/web_development)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456405893618437409](https://www.tiktok.com/@jsmentoring/photo/7456405893618437409)

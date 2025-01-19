@@ -21,6 +21,6 @@ console.log(a++); // 6
 console.log(a); // 7
 ```
 
-**Tags**: basic, JavaScript, operators
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [operators](./theme/operators)
 
 

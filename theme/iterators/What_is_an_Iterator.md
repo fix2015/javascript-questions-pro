@@ -13,6 +13,6 @@ console.log(iterator.next()); // { value: 1, done: false }
 console.log(iterator.next()); // { value: 2, done: false }
 ```
 
-**Tags**: basic, JavaScript, iterators
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [iterators](./theme/iterators)
 
 

@@ -14,6 +14,6 @@ Example:
 undeclaredVar = 10;  // Throws ReferenceError
 ```
 
-**Tags**: advanced, JavaScript, Strict Mode
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Strict Mode](./theme/strict_mode)
 
 

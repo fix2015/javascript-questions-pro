@@ -22,6 +22,6 @@ console.log(doubled); // [2, 4, 6]
 numbers.forEach(num => console.log(num * 2)); // Logs: 2, 4, 6
 ```
 
-**Tags**: basic, JavaScript, Array Methods
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Array Methods](./theme/array_methods)
 
 

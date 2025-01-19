@@ -22,6 +22,6 @@ const obj = {
 obj.greet(); // 'Hello, Alice'
 ```
 
-**Tags**: basic, JavaScript, Scope
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Scope](./theme/scope)
 
 

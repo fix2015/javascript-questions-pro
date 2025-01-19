@@ -13,6 +13,6 @@ function sum(...numbers) {
 console.log(sum(1, 2, 3, 4)); // 10
 ```
 
-**Tags**: basic, JavaScript, functions
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [functions](./theme/functions)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457471528330988832](https://www.tiktok.com/@jsmentoring/photo/7457471528330988832)

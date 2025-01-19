@@ -9,6 +9,6 @@ function test(a, b, c) {}
 console.log(test.length); // 3
 ```
 
-**Tags**: basic, JavaScript, functions
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [functions](./theme/functions)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456397129393704224](https://www.tiktok.com/@jsmentoring/photo/7456397129393704224)

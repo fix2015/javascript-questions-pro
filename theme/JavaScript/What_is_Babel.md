@@ -10,6 +10,6 @@ Example of a Babel transformation:
 let greet = () => console.log('Hello');  // ES6 arrow function
 ```
 
-**Tags**: intermediate, JavaScript, Tools
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Tools](./theme/tools)
 
 

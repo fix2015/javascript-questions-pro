@@ -12,6 +12,6 @@ let rounded = num.toFixed(2);
 console.log(rounded);  // Output: '5.68'
 ```
 
-**Tags**: intermediate, JavaScript, Numbers
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Numbers](./theme/numbers)
 
 

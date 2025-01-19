@@ -12,6 +12,6 @@ console.log(Object.getPrototypeOf(str)); // Works fine
 console.log(Object.getPrototypeOf('hello')); // TypeError
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 

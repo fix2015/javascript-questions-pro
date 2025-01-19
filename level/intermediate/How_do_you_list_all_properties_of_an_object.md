@@ -19,6 +19,6 @@ for (let key in person) {
 }
 ```
 
-**Tags**: intermediate, JavaScript, objects
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 

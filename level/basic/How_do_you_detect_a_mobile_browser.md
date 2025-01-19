@@ -12,6 +12,6 @@ if (/Mobi/.test(navigator.userAgent)) {
 }
 ```
 
-**Tags**: basic, JavaScript, mobile detection
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [mobile detection](./theme/mobile_detection)
 
 

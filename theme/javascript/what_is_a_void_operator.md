@@ -11,6 +11,6 @@ void(0);  // Returns undefined
 void(console.log('Hello'));  // Logs 'Hello' and returns undefined
 ```
 
-**Tags**: intermediate, JavaScript, Operators
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Operators](./theme/operators)
 
 

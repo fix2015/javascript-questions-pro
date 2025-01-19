@@ -395,7 +395,7 @@
 
 IndexedDB is a low-level API for storing large amounts of structured data, including files and blobs. It allows developers to perform advanced queries and store data persistently in a user's browser. This API is particularly useful for web applications that need to work offline or require local storage beyond simple key-value pairs.
 
-**Tags**: basic, IndexedDB, db, storage
+**Tags**: [basic](./level/basic), [IndexedDB](./theme/indexeddb), [db](./theme/db), [storage](./theme/storage)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448276165661314336](https://www.tiktok.com/@jsmentoring/photo/7448276165661314336)
 
@@ -405,7 +405,7 @@ IndexedDB is a low-level API for storing large amounts of structured data, inclu
 
 Cookies have several options to control their behavior, such as `path`, `domain`, `secure`, `HttpOnly`, and `SameSite`. These options help define the scope, security, and accessibility of the cookie.
 
-**Tags**: basic, cookie, options, storage
+**Tags**: [basic](./level/basic), [cookie](./theme/cookie), [options](./theme/options), [storage](./theme/storage)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448261980567145761](https://www.tiktok.com/@jsmentoring/photo/7448261980567145761)
 
@@ -415,7 +415,7 @@ Cookies have several options to control their behavior, such as `path`, `domain`
 
 Cookies are primarily used for server communication and have size limitations. Local storage provides persistent client-side storage with no expiration, while session storage stores data for the duration of a session.
 
-**Tags**: basic, cookie, local storage, session storage, differences
+**Tags**: [basic](./level/basic), [cookie](./theme/cookie), [local storage](./theme/local_storage), [session storage](./theme/session_storage), [differences](./theme/differences)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448258461030173985](https://www.tiktok.com/@jsmentoring/photo/7448258461030173985)
 
@@ -425,7 +425,7 @@ Cookies are primarily used for server communication and have size limitations. L
 
 To delete a cookie, set its expiration date to a past date using the `Set-Cookie` header or JavaScript's `document.cookie`. Ensure you match the path and domain attributes of the cookie.
 
-**Tags**: intermediate, cookie, delete, remove
+**Tags**: [intermediate](./level/intermediate), [cookie](./theme/cookie), [delete](./theme/delete), [remove](./theme/remove)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448236859966197025](https://www.tiktok.com/@jsmentoring/photo/7448236859966197025)
 
@@ -435,7 +435,7 @@ To delete a cookie, set its expiration date to a past date using the `Set-Cookie
 
 The `postMessage` API allows secure communication between a parent window and iframes or between different windows. It is commonly used for cross-origin communication in web applications.
 
-**Tags**: intermediate, postMessage, communication, iframe
+**Tags**: [intermediate](./level/intermediate), [postMessage](./theme/postmessage), [communication](./theme/communication), [iframe](./theme/iframe)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448205399074934049](https://www.tiktok.com/@jsmentoring/photo/7448205399074934049)
 
@@ -445,7 +445,7 @@ The `postMessage` API allows secure communication between a parent window and if
 
 Closures in JavaScript occur when a function retains access to its lexical scope even after the function in which it was defined has completed execution. They enable powerful programming patterns like encapsulation and callbacks.
 
-**Tags**: intermediate, closures, JavaScript, scope
+**Tags**: [intermediate](./level/intermediate), [closures](./theme/closures), [JavaScript](./theme/javascript), [scope](./theme/scope)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7447942704148811041](https://www.tiktok.com/@jsmentoring/photo/7447942704148811041)
 
@@ -455,7 +455,7 @@ Closures in JavaScript occur when a function retains access to its lexical scope
 
 Modules are reusable blocks of code that can be imported and exported in JavaScript. They help organize and encapsulate functionality, promoting maintainable and modular codebases.
 
-**Tags**: intermediate, modules, JavaScript, ES6
+**Tags**: [intermediate](./level/intermediate), [modules](./theme/modules), [JavaScript](./theme/javascript), [ES6](./theme/es6)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7447936859029654816](https://www.tiktok.com/@jsmentoring/photo/7447936859029654816)
 
@@ -465,7 +465,7 @@ Modules are reusable blocks of code that can be imported and exported in JavaScr
 
 Classes in ES6 provide a syntax for object-oriented programming in JavaScript. They include constructors, methods, and inheritance, making it easier to create and manage objects.
 
-**Tags**: advanced, classes, ES6, object-oriented programming
+**Tags**: [advanced](./level/advanced), [classes](./theme/classes), [ES6](./theme/es6), [object-oriented programming](./theme/object_oriented_programming)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7447909741977685280](https://www.tiktok.com/@jsmentoring/photo/7447909741977685280)
 
@@ -475,7 +475,7 @@ Classes in ES6 provide a syntax for object-oriented programming in JavaScript. T
 
 Modules help organize code into manageable pieces, improve reusability, and avoid global namespace pollution. They also make dependency management and code maintenance easier.
 
-**Tags**: intermediate, modules, benefits, organization
+**Tags**: [intermediate](./level/intermediate), [modules](./theme/modules), [benefits](./theme/benefits), [organization](./theme/organization)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7447895686626020640](https://www.tiktok.com/@jsmentoring/photo/7447895686626020640)
 
@@ -485,7 +485,7 @@ Modules help organize code into manageable pieces, improve reusability, and avoi
 
 Hoisting in JavaScript refers to the process where variable and function declarations are moved to the top of their scope during compilation. This allows variables to be used before they are declared.
 
-**Tags**: basic, hoisting, JavaScript, scope
+**Tags**: [basic](./level/basic), [hoisting](./theme/hoisting), [JavaScript](./theme/javascript), [scope](./theme/scope)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7447882385946938656](https://www.tiktok.com/@jsmentoring/photo/7447882385946938656)
 
@@ -493,7 +493,7 @@ Hoisting in JavaScript refers to the process where variable and function declara
 
 ### What is scope in JavaScript?\n\nScope determines the accessibility of variables and functions in JavaScript. There are two types of scope: global and local. Modern JavaScript also includes block scope with \`let\` and \`const\`.
 
-**Tags**: basic, scope, JavaScript, variables
+**Tags**: [basic](./level/basic), [scope](./theme/scope), [JavaScript](./theme/javascript), [variables](./theme/variables)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7447877473280265505](https://www.tiktok.com/@jsmentoring/photo/7447877473280265505)
 
@@ -503,7 +503,7 @@ Hoisting in JavaScript refers to the process where variable and function declara
 
 A service worker is a script that runs in the background, separate from the web page, enabling features like offline functionality, push notifications, and background sync. It acts as a proxy between the web app and the network.
 
-**Tags**: advanced, service worker, offline, caching
+**Tags**: [advanced](./level/advanced), [service worker](./theme/service_worker), [offline](./theme/offline), [caching](./theme/caching)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7447871707219594529](https://www.tiktok.com/@jsmentoring/photo/7447871707219594529)
 
@@ -513,7 +513,7 @@ A service worker is a script that runs in the background, separate from the web 
 
 To manipulate DOM elements, use methods like `document.getElementById`, `document.querySelector`, and properties like `.innerHTML`, `.style`, or methods like `appendChild` and `removeChild` to modify elements dynamically.
 
-**Tags**: basic, DOM manipulation, JavaScript, elements
+**Tags**: [basic](./level/basic), [DOM manipulation](./theme/dom_manipulation), [JavaScript](./theme/javascript), [elements](./theme/elements)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7447865971974475041](https://www.tiktok.com/@jsmentoring/photo/7447865971974475041)
 
@@ -523,7 +523,7 @@ To manipulate DOM elements, use methods like `document.getElementById`, `documen
 
 To reuse information across service worker restarts, store data in persistent storage mechanisms like IndexedDB or localStorage. This ensures data remains accessible even when the service worker restarts.
 
-**Tags**: advanced, service worker, persistence, IndexedDB
+**Tags**: [advanced](./level/advanced), [service worker](./theme/service_worker), [persistence](./theme/persistence), [IndexedDB](./theme/indexeddb)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7447841580880350497](https://www.tiktok.com/@jsmentoring/photo/7447841580880350497)
 
@@ -533,7 +533,7 @@ To reuse information across service worker restarts, store data in persistent st
 
 IndexedDB is a low-level API for storing large amounts of structured data, including files and blobs. It allows advanced querying and persistent storage, making it ideal for offline-capable applications.
 
-**Tags**: advanced, IndexedDB, database, storage
+**Tags**: [advanced](./level/advanced), [IndexedDB](./theme/indexeddb), [database](./theme/database), [storage](./theme/storage)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7447814335323278624](https://www.tiktok.com/@jsmentoring/photo/7447814335323278624)
 
@@ -543,7 +543,7 @@ IndexedDB is a low-level API for storing large amounts of structured data, inclu
 
 Memoization is an optimization technique where function results are cached based on input arguments, avoiding redundant computations and improving performance.
 
-**Tags**: intermediate, memoization, caching, performance
+**Tags**: [intermediate](./level/intermediate), [memoization](./theme/memoization), [caching](./theme/caching), [performance](./theme/performance)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7447658154155871520](https://www.tiktok.com/@jsmentoring/photo/7447658154155871520)
 
@@ -553,7 +553,7 @@ Memoization is an optimization technique where function results are cached based
 
 Memoization is an optimization technique where function results are cached based on input arguments, avoiding redundant computations and improving performance.
 
-**Tags**: intermediate, memoization, caching, performance
+**Tags**: [intermediate](./level/intermediate), [memoization](./theme/memoization), [caching](./theme/caching), [performance](./theme/performance)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7447658154155871520](https://www.tiktok.com/@jsmentoring/photo/7447658154155871520)
 
@@ -569,7 +569,7 @@ In JavaScript, objects can be created in various ways. The five most common meth
 4. **Class Syntax**: `class MyClass { constructor() {} }`
 5. **Factory Functions**: `function createObject() { return {}}`
 
-**Tags**: basic, objects, creation, JavaScript
+**Tags**: [basic](./level/basic), [objects](./theme/objects), [creation](./theme/creation), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7447557117344582944](https://www.tiktok.com/@jsmentoring/photo/7447557117344582944)
 
@@ -579,7 +579,7 @@ In JavaScript, objects can be created in various ways. The five most common meth
 
 The prototype chain is a fundamental concept in JavaScript's inheritance model. Every object in JavaScript has a prototype, which is another object. When you access a property of an object, JavaScript will first look for it in the object itself. If not found, it will look in the object's prototype, and then the prototype's prototype, and so on, until it reaches `null`.
 
-**Tags**: basic, prototype, inheritance, JavaScript
+**Tags**: [basic](./level/basic), [prototype](./theme/prototype), [inheritance](./theme/inheritance), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7447534074211601697](https://www.tiktok.com/@jsmentoring/photo/7447534074211601697)
 
@@ -589,7 +589,7 @@ The prototype chain is a fundamental concept in JavaScript's inheritance model. 
 
 A higher order function is a function that either takes one or more functions as arguments, returns a function, or both. This allows for more abstract and reusable code. Examples of higher order functions include `map()`, `filter()`, and `reduce()` in JavaScript.
 
-**Tags**: intermediate, higher order functions, JavaScript
+**Tags**: [intermediate](./level/intermediate), [higher order functions](./theme/higher_order_functions), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7447469800642727200](https://www.tiktok.com/@jsmentoring/photo/7447469800642727200)
 
@@ -599,7 +599,7 @@ A higher order function is a function that either takes one or more functions as
 
 Currying is a technique in functional programming where a function that takes multiple arguments is transformed into a sequence of functions, each taking a single argument. This can make the code more modular and reusable. For example, `function add(a) { return function(b) { return a + b; } }`.
 
-**Tags**: advanced, currying, functions, JavaScript
+**Tags**: [advanced](./level/advanced), [currying](./theme/currying), [functions](./theme/functions), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7447172210076208417](https://www.tiktok.com/@jsmentoring/photo/7447172210076208417)
 
@@ -613,7 +613,7 @@ Both `Object` and `Map` are key-value stores in JavaScript, but they have differ
 2. **Iteration**: `Map` preserves the order of insertion, while `Object` does not guarantee order.
 3. **Performance**: `Map` is generally more efficient for frequent additions and removals of key-value pairs.
 
-**Tags**: advanced, Object, Map, JavaScript
+**Tags**: [advanced](./level/advanced), [Object](./theme/object), [Map](./theme/map), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7447122335863147808](https://www.tiktok.com/@jsmentoring/photo/7447122335863147808)
 
@@ -623,7 +623,7 @@ Both `Object` and `Map` are key-value stores in JavaScript, but they have differ
 
 A pure function is a function that, given the same input, will always return the same output and does not have any side effects. It does not modify any external state or depend on external variables. This makes pure functions predictable and easier to test, as well as a key concept in functional programming.
 
-**Tags**: advanced, pure function, functional programming
+**Tags**: [advanced](./level/advanced), [pure function](./theme/pure_function), [functional programming](./theme/functional_programming)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7447104096424725792](https://www.tiktok.com/@jsmentoring/photo/7447104096424725792)
 
@@ -633,7 +633,7 @@ A pure function is a function that, given the same input, will always return the
 
 The prototype chain is a fundamental concept in JavaScript's inheritance model. Every object in JavaScript has a prototype, which is another object. When you access a property of an object, JavaScript will first look for it in the object itself. If not found, it will look in the object's prototype, and then the prototype's prototype, and so on, until it reaches `null`.
 
-**Tags**: basic, prototype, inheritance, JavaScript
+**Tags**: [basic](./level/basic), [prototype](./theme/prototype), [inheritance](./theme/inheritance), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7446735468848270625](https://www.tiktok.com/@jsmentoring/photo/7446735468848270625)
 
@@ -643,7 +643,7 @@ The prototype chain is a fundamental concept in JavaScript's inheritance model. 
 
 The `let` keyword in JavaScript is used to declare block-scoped variables. Unlike `var`, which declares variables globally or within a function scope, `let` restricts the variable's scope to the block, statement, or expression in which it is used. This makes `let` more predictable and avoids issues with variable hoisting.
 
-**Tags**: basic, let keyword, JavaScript
+**Tags**: [basic](./level/basic), [let keyword](./theme/let_keyword), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7446499450626772256](https://www.tiktok.com/@jsmentoring/photo/7446499450626772256)
 
@@ -653,7 +653,7 @@ The `let` keyword in JavaScript is used to declare block-scoped variables. Unlik
 
 Arrow functions in JavaScript are a shorter syntax for writing functions. They are defined using `=>` and do not have their own `this` value, which means they inherit `this` from the surrounding context. This makes them useful in situations like event handling and callbacks where `this` behavior can be tricky.
 
-**Tags**: basic, arrow functions, JavaScript
+**Tags**: [basic](./level/basic), [arrow functions](./theme/arrow_functions), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7446420047448247585](https://www.tiktok.com/@jsmentoring/photo/7446420047448247585)
 
@@ -666,7 +666,7 @@ The primary differences between `let` and `var` are their scoping rules and hois
 1. **Scope**: `let` is block-scoped, while `var` is function-scoped.
 2. **Hoisting**: Both `let` and `var` are hoisted to the top of their scope, but `let` is not initialized until the code execution reaches it, leading to a Temporal Dead Zone (TDZ).
 
-**Tags**: basic, let, var, JavaScript
+**Tags**: [basic](./level/basic), [let](./theme/let), [var](./theme/var), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7446417854699687200](https://www.tiktok.com/@jsmentoring/photo/7446417854699687200)
 
@@ -676,7 +676,7 @@ The primary differences between `let` and `var` are their scoping rules and hois
 
 The `git bisect` command is used to find the commit that introduced a bug by performing a binary search. You start by marking a known good commit and a known bad commit. Git then checks out the midpoint commit, and you test it. Based on the result, Git narrows down the range of commits until the problematic one is found.
 
-**Tags**: advanced, git, bisect, debugging
+**Tags**: [advanced](./level/advanced), [git](./theme/git), [bisect](./theme/bisect), [debugging](./theme/debugging)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7446337497484791073](https://www.tiktok.com/@jsmentoring/photo/7446337497484791073)
 
@@ -686,7 +686,7 @@ The `git bisect` command is used to find the commit that introduced a bug by per
 
 Lambda expressions, also known as arrow functions, are a concise way to write functions in JavaScript. They use the `=>` syntax and do not have their own `this` value, meaning they inherit `this` from the surrounding context. They are often used for short, anonymous functions in callbacks or array methods.
 
-**Tags**: basic, lambda expressions, arrow functions, JavaScript
+**Tags**: [basic](./level/basic), [lambda expressions](./theme/lambda_expressions), [arrow functions](./theme/arrow_functions), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7446080608989678880](https://www.tiktok.com/@jsmentoring/photo/7446080608989678880)
 
@@ -696,7 +696,7 @@ Lambda expressions, also known as arrow functions, are a concise way to write fu
 
 In JavaScript, `==` is the equality operator that compares values after performing type coercion, meaning it converts the values to a common type before comparing them. On the other hand, `===` is the strict equality operator, which compares both the value and the type without any type conversion.
 
-**Tags**: basic, JavaScript
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7446055928723508512](https://www.tiktok.com/@jsmentoring/photo/7446055928723508512)
 
@@ -706,7 +706,7 @@ In JavaScript, `==` is the equality operator that compares values after performi
 
 The `splice()` method in JavaScript is used to modify an array by adding, removing, or replacing elements. It takes at least two arguments: the index at which to start changing the array, and the number of elements to remove. Additional arguments can be provided to add new elements.
 
-**Tags**: basic, splice, array, JavaScript
+**Tags**: [basic](./level/basic), [splice](./theme/splice), [array](./theme/array), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7446035575565520160](https://www.tiktok.com/@jsmentoring/photo/7446035575565520160)
 
@@ -716,7 +716,7 @@ The `splice()` method in JavaScript is used to modify an array by adding, removi
 
 `slice()` is used to extract a shallow copy of a portion of an array without modifying the original array, while `splice()` is used to change the contents of an array by removing or replacing elements. The key difference is that `slice()` does not alter the array, while `splice()` does.
 
-**Tags**: basic, slice, splice, JavaScript
+**Tags**: [basic](./level/basic), [slice](./theme/slice), [splice](./theme/splice), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7446029933446565152](https://www.tiktok.com/@jsmentoring/photo/7446029933446565152)
 
@@ -732,7 +732,7 @@ In JavaScript, objects can be created in various ways. The five most common meth
 4. **Class Syntax**: `class MyClass { constructor() {} }`
 5. **Factory Functions**: `function createObject() { return {}}`
 
-**Tags**: basic, objects, creation, JavaScript
+**Tags**: [basic](./level/basic), [objects](./theme/objects), [creation](./theme/creation), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7445448146685136161](https://www.tiktok.com/@jsmentoring/photo/7445448146685136161)
 
@@ -742,7 +742,7 @@ In JavaScript, objects can be created in various ways. The five most common meth
 
 The `git rebase` command is used to integrate changes from one branch into another. It works by moving or 'replaying' commits from one branch onto another, creating a linear history. This is different from `git merge`, which creates a merge commit. `git rebase` can be used to keep a cleaner, more linear commit history.
 
-**Tags**: basic, git, rebase, version control
+**Tags**: [basic](./level/basic), [git](./theme/git), [rebase](./theme/rebase), [version control](./theme/version_control)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7444874869394771232](https://www.tiktok.com/@jsmentoring/photo/7444874869394771232)
 
@@ -752,7 +752,7 @@ The `git rebase` command is used to integrate changes from one branch into anoth
 
 The `git reflog` command is used to show the history of changes to the reference logs, which track updates to the branches in a repository. This can be useful for recovering lost commits or understanding the changes made to a branch, especially after actions like rebasing or resetting.
 
-**Tags**: basic, git, reflog, version control
+**Tags**: [basic](./level/basic), [git](./theme/git), [reflog](./theme/reflog), [version control](./theme/version_control)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7444873101717884192](https://www.tiktok.com/@jsmentoring/photo/7444873101717884192)
 
@@ -762,7 +762,7 @@ The `git reflog` command is used to show the history of changes to the reference
 
 The `git revert` command is used to create a new commit that undoes the changes made by a previous commit. Unlike `git reset`, which alters the commit history, `git revert` preserves the commit history and is often used in shared repositories to undo changes safely.
 
-**Tags**: basic, git, revert, version control
+**Tags**: [basic](./level/basic), [git](./theme/git), [revert](./theme/revert), [version control](./theme/version_control)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7444867368431439136](https://www.tiktok.com/@jsmentoring/photo/7444867368431439136)
 
@@ -772,7 +772,7 @@ The `git revert` command is used to create a new commit that undoes the changes 
 
 A storage event is triggered when a change is made to the `localStorage` or `sessionStorage` in the browser, such as adding, removing, or modifying a key-value pair. The event handler for this event allows you to respond to these changes, providing a way to synchronize or react to storage updates across different windows or tabs.
 
-**Tags**: intermediate, storage event, event handler, web storage
+**Tags**: [intermediate](./level/intermediate), [storage event](./theme/storage_event), [event handler](./theme/event_handler), [web storage](./theme/web_storage)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448353911720742177](https://www.tiktok.com/@jsmentoring/photo/7448353911720742177)
 
@@ -787,7 +787,7 @@ A storage event is triggered when a change is made to the `localStorage` or `ses
 - `removeItem(key)`: Removes the key-value pair.
 - `clear()`: Clears all data stored in sessionStorage.
 
-**Tags**: basic, sessionStorage, web storage
+**Tags**: [basic](./level/basic), [sessionStorage](./theme/sessionstorage), [web storage](./theme/web_storage)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448368128825888032](https://www.tiktok.com/@jsmentoring/photo/7448368128825888032)
 
@@ -797,7 +797,7 @@ A storage event is triggered when a change is made to the `localStorage` or `ses
 
 Web storage is accessed using the `localStorage` or `sessionStorage` objects in JavaScript. For example, you can use `localStorage.setItem('key', 'value')` to store data, and `localStorage.getItem('key')` to retrieve it. Both `localStorage` and `sessionStorage` are part of the Window interface and provide a simple API for storing key-value pairs.
 
-**Tags**: basic, web storage, sessionStorage, localStorage
+**Tags**: [basic](./level/basic), [web storage](./theme/web_storage), [sessionStorage](./theme/sessionstorage), [localStorage](./theme/localstorage)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448375078183587105](https://www.tiktok.com/@jsmentoring/photo/7448375078183587105)
 
@@ -809,7 +809,7 @@ The main difference is the lifespan of the stored data:
 - **`localStorage`** persists data even after the browser is closed, and the data remains available until explicitly removed.
 - **`sessionStorage`** only stores data for the duration of the page session. Once the tab or window is closed, the data is cleared.
 
-**Tags**: basic, localStorage, sessionStorage, web storage
+**Tags**: [basic](./level/basic), [localStorage](./theme/localstorage), [sessionStorage](./theme/sessionstorage), [web storage](./theme/web_storage)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448379916778851617](https://www.tiktok.com/@jsmentoring/photo/7448379916778851617)
 
@@ -819,7 +819,7 @@ The main difference is the lifespan of the stored data:
 
 Cookies are used to store data on the client-side, typically for purposes like tracking user sessions, saving preferences, or authenticating users. They are sent to the server with every HTTP request, allowing the server to remember information about the client across requests and sessions.
 
-**Tags**: intermediate, cookies, web storage, HTTP
+**Tags**: [intermediate](./level/intermediate), [cookies](./theme/cookies), [web storage](./theme/web_storage), [HTTP](./theme/http)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448385477113171233](https://www.tiktok.com/@jsmentoring/photo/7448385477113171233)
 
@@ -829,7 +829,7 @@ Cookies are used to store data on the client-side, typically for purposes like t
 
 A cookie is a small piece of data stored by the browser on the client-side. It is sent to the server with every HTTP request and is used for various purposes such as maintaining user sessions, tracking user activity, and storing preferences.
 
-**Tags**: basic, cookies, web storage, HTTP
+**Tags**: [basic](./level/basic), [cookies](./theme/cookies), [web storage](./theme/web_storage), [HTTP](./theme/http)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448395347279236384](https://www.tiktok.com/@jsmentoring/photo/7448395347279236384)
 
@@ -839,7 +839,7 @@ A cookie is a small piece of data stored by the browser on the client-side. It i
 
 Web storage provides a way to store data in the browser. It includes two types: `localStorage` and `sessionStorage`. `localStorage` stores data persistently, while `sessionStorage` stores data for the duration of a session, which is cleared when the browser or tab is closed.
 
-**Tags**: basic, web storage, localStorage, sessionStorage
+**Tags**: [basic](./level/basic), [web storage](./theme/web_storage), [localStorage](./theme/localstorage), [sessionStorage](./theme/sessionstorage)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448401312728878368](https://www.tiktok.com/@jsmentoring/photo/7448401312728878368)
 
@@ -849,7 +849,7 @@ Web storage provides a way to store data in the browser. It includes two types: 
 
 Server-Sent Events (SSE) is a technology that allows a server to push updates to the client over a single HTTP connection. This is typically used for real-time applications such as notifications, live scores, or chat apps, where the server sends updates to the client automatically.
 
-**Tags**: intermediate, SSE, real-time communication, web technologies
+**Tags**: [intermediate](./level/intermediate), [SSE](./theme/sse), [real-time communication](./theme/real_time_communication), [web technologies](./theme/web_technologies)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448434434774142240](https://www.tiktok.com/@jsmentoring/photo/7448434434774142240)
 
@@ -859,7 +859,7 @@ Server-Sent Events (SSE) is a technology that allows a server to push updates to
 
 Callback hell, also known as 'Pyramid of Doom,' refers to a situation where multiple nested callback functions in JavaScript make the code hard to read and maintain. It usually occurs in asynchronous code and can be mitigated by using Promises or async/await.
 
-**Tags**: intermediate, callback hell, asynchronous, JavaScript
+**Tags**: [intermediate](./level/intermediate), [callback hell](./theme/callback_hell), [asynchronous](./theme/asynchronous), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448549870673169696](https://www.tiktok.com/@jsmentoring/photo/7448549870673169696)
 
@@ -869,7 +869,7 @@ Callback hell, also known as 'Pyramid of Doom,' refers to a situation where mult
 
 Callbacks in JavaScript are functions passed as arguments to other functions, enabling asynchronous programming. They allow for non-blocking code execution, making it possible to handle events like user input or network requests without freezing the application.
 
-**Tags**: basic, callbacks, JavaScript, asynchronous programming
+**Tags**: [basic](./level/basic), [callbacks](./theme/callbacks), [JavaScript](./theme/javascript), [asynchronous programming](./theme/asynchronous_programming)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448582345390591265](https://www.tiktok.com/@jsmentoring/photo/7448582345390591265)
 
@@ -879,7 +879,7 @@ Callbacks in JavaScript are functions passed as arguments to other functions, en
 
 A callback function is a function passed into another function as an argument and executed after the completion of a task. Callbacks are commonly used in asynchronous programming, such as handling events or making HTTP requests.
 
-**Tags**: basic, callback function, JavaScript, asynchronous programming
+**Tags**: [basic](./level/basic), [callback function](./theme/callback_function), [JavaScript](./theme/javascript), [asynchronous programming](./theme/asynchronous_programming)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448614606278282529](https://www.tiktok.com/@jsmentoring/photo/7448614606278282529)
 
@@ -892,7 +892,7 @@ A Promise in JavaScript can be in one of three states:
 - **Fulfilled**: The operation completed successfully.
 - **Rejected**: The operation failed.
 
-**Tags**: intermediate, Promise, JavaScript, asynchronous programming
+**Tags**: [intermediate](./level/intermediate), [Promise](./theme/promise), [JavaScript](./theme/javascript), [asynchronous programming](./theme/asynchronous_programming)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448655823150058785](https://www.tiktok.com/@jsmentoring/photo/7448655823150058785)
 
@@ -902,7 +902,7 @@ A Promise in JavaScript can be in one of three states:
 
 Promises are used to handle asynchronous operations in JavaScript. They provide a cleaner way to handle asynchronous code, avoiding callback hell by chaining `.then()` and `.catch()` methods to handle success and failure, respectively.
 
-**Tags**: intermediate, Promise, asynchronous programming
+**Tags**: [intermediate](./level/intermediate), [Promise](./theme/promise), [asynchronous programming](./theme/asynchronous_programming)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448671709634235681](https://www.tiktok.com/@jsmentoring/photo/7448671709634235681)
 
@@ -912,7 +912,7 @@ Promises are used to handle asynchronous operations in JavaScript. They provide 
 
 A promise is an object in JavaScript that represents the eventual completion (or failure) of an asynchronous operation and its resulting value. It allows you to attach `.then()` and `.catch()` methods to handle the results or errors of the asynchronous task.
 
-**Tags**: intermediate, Promise, JavaScript, asynchronous programming
+**Tags**: [intermediate](./level/intermediate), [Promise](./theme/promise), [JavaScript](./theme/javascript), [asynchronous programming](./theme/asynchronous_programming)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448715825642540320](https://www.tiktok.com/@jsmentoring/photo/7448715825642540320)
 
@@ -922,7 +922,7 @@ A promise is an object in JavaScript that represents the eventual completion (or
 
 Web workers run in a separate thread and cannot directly access or modify the DOM. They are designed for heavy computations and background tasks. To interact with the DOM, workers communicate with the main thread using message passing via `postMessage()`.
 
-**Tags**: advanced, web workers, DOM, JavaScript
+**Tags**: [advanced](./level/advanced), [web workers](./theme/web_workers), [DOM](./theme/dom), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448725365574372641](https://www.tiktok.com/@jsmentoring/photo/7448725365574372641)
 
@@ -941,7 +941,7 @@ worker.onmessage = function(event) {
 ```
 In the `worker.js` file, you would handle the message with `onmessage` and use `postMessage` to send a response back.
 
-**Tags**: intermediate, web workers, JavaScript
+**Tags**: [intermediate](./level/intermediate), [web workers](./theme/web_workers), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448739040213437729](https://www.tiktok.com/@jsmentoring/photo/7448739040213437729)
 
@@ -959,7 +959,7 @@ if (typeof(Storage) !== 'undefined') {
 }
 ```
 
-**Tags**: basic, web storage, browser support, JavaScript
+**Tags**: [basic](./level/basic), [web storage](./theme/web_storage), [browser support](./theme/browser_support), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448750198848769313](https://www.tiktok.com/@jsmentoring/photo/7448750198848769313)
 
@@ -969,7 +969,7 @@ if (typeof(Storage) !== 'undefined') {
 
 Web storage allows you to store data on the client side, providing faster access to information without requiring a round-trip to the server. It helps with tasks like saving user preferences, session information, and caching data for offline use.
 
-**Tags**: basic, web storage, JavaScript
+**Tags**: [basic](./level/basic), [web storage](./theme/web_storage), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448934582965046561](https://www.tiktok.com/@jsmentoring/photo/7448934582965046561)
 
@@ -986,7 +986,7 @@ eventSource.onmessage = function(event) {
 };
 ```
 
-**Tags**: intermediate, Server-Sent Events, notifications, web technologies
+**Tags**: [intermediate](./level/intermediate), [Server-Sent Events](./theme/server_sent_events), [notifications](./theme/notifications), [web technologies](./theme/web_technologies)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448989685881376033](https://www.tiktok.com/@jsmentoring/photo/7448989685881376033)
 
@@ -996,7 +996,7 @@ eventSource.onmessage = function(event) {
 
 A 'callback in callback' refers to a situation where a function is passed as a parameter to another function, and that function in turn calls another function (callback) within it. This can lead to nested callbacks, which may result in 'callback hell' if not managed properly.
 
-**Tags**: intermediate, callbacks, asynchronous programming, JavaScript
+**Tags**: [intermediate](./level/intermediate), [callbacks](./theme/callbacks), [asynchronous programming](./theme/asynchronous_programming), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449011382449720608](https://www.tiktok.com/@jsmentoring/photo/7449011382449720608)
 
@@ -1013,7 +1013,7 @@ fetchData()
   .catch(error => console.error(error));
 ```
 
-**Tags**: intermediate, Promises, JavaScript, asynchronous programming
+**Tags**: [intermediate](./level/intermediate), [Promises](./theme/promises), [JavaScript](./theme/javascript), [asynchronous programming](./theme/asynchronous_programming)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449040289345457441](https://www.tiktok.com/@jsmentoring/photo/7449040289345457441)
 
@@ -1026,7 +1026,7 @@ The main rules of Promises in JavaScript are:
 2. A promise can only transition from pending to fulfilled or rejected, and cannot change back.
 3. You can attach `.then()` to handle success and `.catch()` for errors.
 
-**Tags**: intermediate, Promises, JavaScript
+**Tags**: [intermediate](./level/intermediate), [Promises](./theme/promises), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449057432086580513](https://www.tiktok.com/@jsmentoring/photo/7449057432086580513)
 
@@ -1039,7 +1039,7 @@ Server-Sent Events (SSE) support several event types, including:
 - `open`: Fired when the connection to the server is established.
 - `error`: Fired when there is an error with the connection.
 
-**Tags**: intermediate, Server-Sent Events, web technologies
+**Tags**: [intermediate](./level/intermediate), [Server-Sent Events](./theme/server_sent_events), [web technologies](./theme/web_technologies)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449065499603881248](https://www.tiktok.com/@jsmentoring/photo/7449065499603881248)
 
@@ -1057,7 +1057,7 @@ if (typeof(EventSource) !== 'undefined') {
 }
 ```
 
-**Tags**: basic, Server-Sent Events, browser support
+**Tags**: [basic](./level/basic), [Server-Sent Events](./theme/server_sent_events), [browser support](./theme/browser_support)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449149383142018336](https://www.tiktok.com/@jsmentoring/photo/7449149383142018336)
 
@@ -1073,7 +1073,7 @@ Promise.all([promise1, promise2, promise3])
   .catch(error => console.error(error));
 ```
 
-**Tags**: intermediate, Promises, JavaScript, asynchronous programming
+**Tags**: [intermediate](./level/intermediate), [Promises](./theme/promises), [JavaScript](./theme/javascript), [asynchronous programming](./theme/asynchronous_programming)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449321820743847200](https://www.tiktok.com/@jsmentoring/photo/7449321820743847200)
 
@@ -1089,7 +1089,7 @@ Promise.race([promise1, promise2, promise3])
   .catch(error => console.error(error));
 ```
 
-**Tags**: intermediate, Promises, JavaScript, asynchronous programming
+**Tags**: [intermediate](./level/intermediate), [Promises](./theme/promises), [JavaScript](./theme/javascript), [asynchronous programming](./theme/asynchronous_programming)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449363438461144353](https://www.tiktok.com/@jsmentoring/photo/7449363438461144353)
 
@@ -1104,7 +1104,7 @@ Strict mode is a way to opt in to a restricted version of JavaScript. It helps c
 var x = 3.14; // Error in strict mode: assignment to undeclared variable
 ```
 
-**Tags**: intermediate, JavaScript, strict mode
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [strict mode](./theme/strict_mode)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449392707455175968](https://www.tiktok.com/@jsmentoring/photo/7449392707455175968)
 
@@ -1119,7 +1119,7 @@ console.log(!!'string'); // true
 console.log(!!0); // false
 ```
 
-**Tags**: basic, JavaScript, type coercion
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [type coercion](./theme/type_coercion)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449429710985022753](https://www.tiktok.com/@jsmentoring/photo/7449429710985022753)
 
@@ -1134,7 +1134,7 @@ To declare strict mode in JavaScript, simply add `'use strict';` at the beginnin
 // Code here will be executed in strict mode
 ```
 
-**Tags**: basic, JavaScript, strict mode
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [strict mode](./theme/strict_mode)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449490448533507361](https://www.tiktok.com/@jsmentoring/photo/7449490448533507361)
 
@@ -1152,7 +1152,7 @@ document.addEventListener('keydown', function(event) {
 });
 ```
 
-**Tags**: intermediate, JavaScript, event handling, keyboard events
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [event handling](./theme/event_handling), [keyboard events](./theme/keyboard_events)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449671849920761120](https://www.tiktok.com/@jsmentoring/photo/7449671849920761120)
 
@@ -1167,7 +1167,7 @@ window.history.back(); // Go back to the previous page
 window.history.forward(); // Go forward in history
 ```
 
-**Tags**: basic, JavaScript, history API
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [history API](./theme/history_api)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449732288268487969](https://www.tiktok.com/@jsmentoring/photo/7449732288268487969)
 
@@ -1182,7 +1182,7 @@ console.log(window); // Browser window
 console.log(document); // HTML document
 ```
 
-**Tags**: basic, JavaScript, DOM
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [DOM](./theme/dom)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449755076182215968](https://www.tiktok.com/@jsmentoring/photo/7449755076182215968)
 
@@ -1197,7 +1197,7 @@ console.log(!!'text'); // true
 console.log(!!null); // false
 ```
 
-**Tags**: basic, JavaScript, type coercion
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [type coercion](./theme/type_coercion)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449813378895203617](https://www.tiktok.com/@jsmentoring/photo/7449813378895203617)
 
@@ -1211,7 +1211,7 @@ console.log(!!null); // false
 eval('console.log("Hello, World!")'); // Logs 'Hello, World!'
 ```
 
-**Tags**: intermediate, JavaScript, security
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [security](./theme/security)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449833381975559446](https://www.tiktok.com/@jsmentoring/photo/7449833381975559446)
 
@@ -1226,7 +1226,7 @@ let x = null;
 console.log(x); // null
 ```
 
-**Tags**: basic, JavaScript, data types
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [data types](./theme/data_types)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449876086793489696](https://www.tiktok.com/@jsmentoring/photo/7449876086793489696)
 
@@ -1241,7 +1241,7 @@ let x;
 console.log(x); // undefined
 ```
 
-**Tags**: basic, JavaScript, data types
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [data types](./theme/data_types)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7450179747931278624](https://www.tiktok.com/@jsmentoring/photo/7450179747931278624)
 
@@ -1257,7 +1257,7 @@ delete obj.age;
 console.log(obj); // { name: 'John' }
 ```
 
-**Tags**: intermediate, JavaScript, operators
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [operators](./theme/operators)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7450258222222560544](https://www.tiktok.com/@jsmentoring/photo/7450258222222560544)
 
@@ -1272,7 +1272,7 @@ console.log(typeof 'Hello'); // string
 console.log(typeof 123); // number
 ```
 
-**Tags**: basic, JavaScript, operators
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [operators](./theme/operators)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7450568773712497953](https://www.tiktok.com/@jsmentoring/photo/7450568773712497953)
 
@@ -1287,7 +1287,7 @@ console.log(isNaN(123)); // false
 console.log(isNaN('Hello')); // true
 ```
 
-**Tags**: basic, JavaScript, type checking
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [type checking](./theme/type_checking)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7450774214459673888](https://www.tiktok.com/@jsmentoring/photo/7450774214459673888)
 
@@ -1297,7 +1297,7 @@ console.log(isNaN('Hello')); // true
 
 An undeclared variable is one that has not been declared using `var`, `let`, or `const`. An undefined variable is one that has been declared but not assigned a value.
 
-**Tags**: basic, JavaScript, variables
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [variables](./theme/variables)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7450925531370884385](https://www.tiktok.com/@jsmentoring/photo/7450925531370884385)
 
@@ -1307,7 +1307,7 @@ An undeclared variable is one that has not been declared using `var`, `let`, or 
 
 Global variables are variables that are declared outside of any function and are accessible from any part of the code.
 
-**Tags**: basic, JavaScript, variables
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [variables](./theme/variables)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7450838618257575201](https://www.tiktok.com/@jsmentoring/photo/7450838618257575201)
 
@@ -1317,7 +1317,7 @@ Global variables are variables that are declared outside of any function and are
 
 Global variables can cause issues like name collisions, difficulty in debugging, and unintended side effects. It's recommended to limit the use of global variables.
 
-**Tags**: intermediate, JavaScript, best practices
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [best practices](./theme/best_practices)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7451163740982070561](https://www.tiktok.com/@jsmentoring/photo/7451163740982070561)
 
@@ -1327,7 +1327,7 @@ Global variables can cause issues like name collisions, difficulty in debugging,
 
 `NaN` (Not-a-Number) is a special value in JavaScript that represents an invalid or undefined numerical result, such as the result of dividing 0 by 0.
 
-**Tags**: basic, JavaScript, type checking
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [type checking](./theme/type_checking)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7451255958266760480](https://www.tiktok.com/@jsmentoring/photo/7451255958266760480)
 
@@ -1337,7 +1337,7 @@ Global variables can cause issues like name collisions, difficulty in debugging,
 
 `isFinite()` is used to check if a value is a finite number. It returns `true` if the value is a finite number, and `false` otherwise.
 
-**Tags**: intermediate, JavaScript, type checking
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [type checking](./theme/type_checking)
 
 
 
@@ -1347,7 +1347,7 @@ Global variables can cause issues like name collisions, difficulty in debugging,
 
 Event flow in JavaScript refers to the order in which events are propagated through the DOM. It consists of three phases: capturing phase, target phase, and bubbling phase.
 
-**Tags**: intermediate, JavaScript, events
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [events](./theme/events)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7451321489682468128](https://www.tiktok.com/@jsmentoring/photo/7451321489682468128)
 
@@ -1357,7 +1357,7 @@ Event flow in JavaScript refers to the order in which events are propagated thro
 
 Event bubbling is the process where an event triggered on a child element is propagated up to its parent elements. It is the default behavior for most events in JavaScript.
 
-**Tags**: basic, JavaScript, events
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [events](./theme/events)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7451597511862603040](https://www.tiktok.com/@jsmentoring/photo/7451597511862603040)
 
@@ -1379,7 +1379,7 @@ person.name = 'John';
 console.log(person.name); // 'JOHN'
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 
 
@@ -1389,7 +1389,7 @@ console.log(person.name); // 'JOHN'
 
 While `postMessage` is a useful API for cross-origin communication, alternatives like `localStorage`, `cookies`, or server-side messaging (e.g., WebSockets) can be used depending on the use case. Avoiding `postMessage` may increase security in certain scenarios.
 
-**Tags**: advanced, JavaScript, Security
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Security](./theme/security)
 
 
 
@@ -1406,7 +1406,7 @@ let x = 10;
 let x = 20;  // Error: Cannot redeclare block-scoped variable 'x'
 ```
 
-**Tags**: intermediate, JavaScript, Variables
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Variables](./theme/variables)
 
 
 
@@ -1422,7 +1422,7 @@ Example:
 let let = 5; // SyntaxError: Unexpected token 'let'
 ```
 
-**Tags**: basic, JavaScript, syntax
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [syntax](./theme/syntax)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457212868161850657](https://www.tiktok.com/@jsmentoring/photo/7457212868161850657)
 
@@ -1438,7 +1438,7 @@ myFunc.property = 'value';
 console.log(myFunc.property); // 'value'
 ```
 
-**Tags**: basic, JavaScript, functions
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [functions](./theme/functions)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456170349391023393](https://www.tiktok.com/@jsmentoring/photo/7456170349391023393)
 
@@ -1454,7 +1454,7 @@ Example:
 const result = (age >= 18) ? 'Adult' : (age >= 13) ? 'Teen' : 'Child';
 ```
 
-**Tags**: basic, JavaScript, operators
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [operators](./theme/operators)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7458016862446570785](https://www.tiktok.com/@jsmentoring/photo/7458016862446570785)
 
@@ -1470,7 +1470,7 @@ Example:
 return { key: 'value' }; // Requires semicolon
 ```
 
-**Tags**: basic, JavaScript, syntax
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [syntax](./theme/syntax)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457679188732939553](https://www.tiktok.com/@jsmentoring/photo/7457679188732939553)
 
@@ -1489,7 +1489,7 @@ function getRandomInt(min, max) {
 console.log(getRandomInt(1, 100)); // Generates a random integer between 1 and 100
 ```
 
-**Tags**: basic, JavaScript, math
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [math](./theme/math)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456920292397518112](https://www.tiktok.com/@jsmentoring/photo/7456920292397518112)
 
@@ -1542,7 +1542,7 @@ console.log(areAnagrams("hello", "world")); // Output: false
 
 This method has a time complexity of O(n), where n is the length of the strings.
 
-**Tags**: intermediate, JavaScript, Strings, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/video/7458386392272473377](https://www.tiktok.com/@jsmentoring/video/7458386392272473377)
 
@@ -1576,7 +1576,7 @@ console.log(isPerfectNumber(10)); // Output: false
 
 This method has a time complexity of O(n), where n is the number being checked.
 
-**Tags**: intermediate, JavaScript, Math, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Math](./theme/math), [Algorithm](./theme/algorithm)
 
 
 
@@ -1615,7 +1615,7 @@ console.log(isPrime(10)); // Output: false
 
 This method has a time complexity of O(sqrt(n)), where n is the number being checked.
 
-**Tags**: basic, JavaScript, Numbers, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Numbers](./theme/numbers), [Algorithm](./theme/algorithm)
 
 
 
@@ -1659,7 +1659,7 @@ console.log(isPalindrome("hello")); // Output: false
 
 This method has a time complexity of O(n), where n is the length of the string.
 
-**Tags**: basic, JavaScript, Strings, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/video/7458413373315681569](https://www.tiktok.com/@jsmentoring/video/7458413373315681569)
 
@@ -1701,7 +1701,7 @@ console.log(isPalindromicPermutation("hello")); // Output: false
 
 This method has a time complexity of O(n), where n is the length of the string.
 
-**Tags**: intermediate, JavaScript, Strings, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 
 
@@ -1730,7 +1730,7 @@ console.log(isRotated('abcde', 'abced')); // Output: false
 
 This method has a time complexity of O(n), where n is the length of the strings.
 
-**Tags**: intermediate, JavaScript, Strings, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 
 
@@ -1763,7 +1763,7 @@ console.log(isArraySorted([1, 3, 2, 4])); // Output: false
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -1791,7 +1791,7 @@ console.log(arePalindromes('abc', 'def')); // Output: false
 
 This method has a time complexity of O(n), where n is the length of the string.
 
-**Tags**: intermediate, JavaScript, Strings, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 
 
@@ -1825,7 +1825,7 @@ console.log(hammingWeight(128)); // Output: 1 (binary: 10000000)
 
 This method has a time complexity of O(k), where k is the number of 1 bits in the number.
 
-**Tags**: basic, JavaScript, Bit Manipulation, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Bit Manipulation](./theme/bit_manipulation), [Algorithm](./theme/algorithm)
 
 
 
@@ -1862,7 +1862,7 @@ console.log(countOccurrences(["apple", "banana", "apple"], "apple")); // Output:
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -1900,7 +1900,7 @@ console.log(countVowels("JavaScript is awesome!")); // Output: 8
 
 This method has a time complexity of O(n), where n is the length of the string.
 
-**Tags**: basic, JavaScript, Strings, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 
 
@@ -1928,7 +1928,7 @@ console.log(countWords('   This is a test   ')); // Output: 4
 
 This method has a time complexity of O(n), where n is the length of the string.
 
-**Tags**: basic, JavaScript, Strings, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 
 
@@ -1945,7 +1945,7 @@ let obj = {};
 console.log(Object.getPrototypeOf(obj));  // Output: [object Object]
 ```
 
-**Tags**: intermediate, JavaScript, Objects
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Objects](./theme/objects)
 
 
 
@@ -1965,7 +1965,7 @@ const MyNamespace = {
 MyNamespace.myFunction(); // 'Hello!'
 ```
 
-**Tags**: intermediate, JavaScript, namespaces
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [namespaces](./theme/namespaces)
 
 
 
@@ -1986,7 +1986,7 @@ let obj = Object.assign({}, mixin);
 obj.greet();  // Output: 'Hello!'
 ```
 
-**Tags**: advanced, JavaScript, Object-Oriented Programming
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Object-Oriented Programming](./theme/object_oriented_programming)
 
 
 
@@ -2004,7 +2004,7 @@ arr.push(4);  // Works fine
 arr = [4, 5, 6];  // Error: Assignment to constant variable
 ```
 
-**Tags**: intermediate, JavaScript, Variables
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Variables](./theme/variables)
 
 
 
@@ -2042,7 +2042,7 @@ console.log(findPairsWithSum([10, 15, 3, 7], 17)); // Output: [[10, 7]]
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -2080,7 +2080,7 @@ console.log(findPairs([1, 3, 2, 4, 5], 6)); // Output: [[1, 5], [2, 4]]
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -2119,7 +2119,7 @@ console.log(findPairs([10, 15, 3, 7], 17)); // Output: [[10, 7]]
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -2156,7 +2156,7 @@ console.log(sieveOfEratosthenes(20)); // Output: [2, 3, 5, 7, 11, 13, 17, 19]
 
 This method has a time complexity of O(n log log n), where n is the limit.
 
-**Tags**: basic, JavaScript, Math, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Math](./theme/math), [Algorithm](./theme/algorithm)
 
 
 
@@ -2192,7 +2192,7 @@ console.log(findPrimes([10, 15, 23, 30])); // Output: [23]
 
 This method has a time complexity of O(n * sqrt(m)), where n is the length of the array and m is the largest number in the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -2232,7 +2232,7 @@ console.log(getSubsets([1, 2, 3]));
 
 This method has a time complexity of O(2^n), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -2267,7 +2267,7 @@ console.log(findAllSubstrings('hello')); // Output: ['h', 'he', 'hel', 'hell', '
 
 This method has a time complexity of O(n^2), where n is the length of the string.
 
-**Tags**: intermediate, JavaScript, Strings, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 
 
@@ -2305,7 +2305,7 @@ console.log(findCommonCharacters('aabb', 'abcc')); // Output: ['a', 'b']
 
 This method has a time complexity of O(n + m), where n and m are the lengths of the two strings.
 
-**Tags**: basic, JavaScript, Strings, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 
 
@@ -2343,7 +2343,7 @@ console.log(findCommonPrefix(["dog", "racecar", "car"])); // Output: ""
 
 This method has a time complexity of O(n * m), where n is the length of the array and m is the length of the longest string.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -2382,7 +2382,7 @@ console.log(findDuplicates(["apple", "banana", "apple", "orange"])); // Output: 
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -2420,7 +2420,7 @@ console.log(findDuplicatesInPlace([1, 1, 1, 2, 2])); // Output: [1, 2]
 
 This method has a time complexity of O(n), where n is the length of the array, and does not use extra space.
 
-**Tags**: advanced, JavaScript, Arrays, Algorithm
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -2452,7 +2452,7 @@ console.log(isPrime(10)); // Output: false
 
 This method has a time complexity of O(sqrt(n)), where n is the number being checked.
 
-**Tags**: basic, JavaScript, Math, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Math](./theme/math), [Algorithm](./theme/algorithm)
 
 
 
@@ -2481,7 +2481,7 @@ console.log(isRotated('abc', 'acb')); // Output: false
 
 This method has a time complexity of O(n), where n is the length of the string.
 
-**Tags**: intermediate, JavaScript, Strings, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 
 
@@ -2519,7 +2519,7 @@ console.log(largestPalindrome(['hello', 'world', 'civic'])); // Output: 'civic'
 
 This method has a time complexity of O(n * m), where n is the length of the array and m is the average length of the strings.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -2551,7 +2551,7 @@ console.log(findMissingNumber([3, 7, 1, 2, 8, 4, 5])); // Output: 6
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -2584,7 +2584,7 @@ console.log(findAverage([10, 20, 30])); // Output: 20
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -2622,7 +2622,7 @@ console.log(findCommonElements(["a", "b", "c"], ["d", "b", "e"])); // Output: ["
 
 This method has a time complexity of O(n + m), where n and m are the lengths of the two arrays.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -2660,7 +2660,7 @@ console.log(findCommonElements(["apple", "banana"], ["banana", "orange"])); // O
 
 This method has a time complexity of O(n + m), where n and m are the lengths of the two arrays.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -2689,7 +2689,7 @@ console.log(arrayDifference([1, 2, 3, 4], [3, 4, 5])); // Output: [5]
 
 This method has a time complexity of O(n + m), where n and m are the lengths of the two arrays.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -2725,7 +2725,7 @@ console.log(findDuplicate([1, 2, 3, 4, 5])); // Output: null
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -2763,7 +2763,7 @@ console.log(findDuplicates([10, 20, 30, 40])); // Output: []
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -2799,7 +2799,7 @@ console.log(findDuplicate([1, 2, 3, 4, 5])); // Output: null
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -2827,7 +2827,7 @@ console.log(findFirstIndex(["apple", "banana", "cherry"], "banana")); // Output:
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -2863,7 +2863,7 @@ console.log(firstMissingPositive([3, 4, -1, 1])); // Output: 2
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -2906,7 +2906,7 @@ console.log(firstNonRepeatingChar("swiss")); // Output: "w"
 
 This method has a time complexity of O(n) as it involves two iterations over the string.
 
-**Tags**: intermediate, JavaScript, Strings, Algorithm, Data Structures
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm), [Data Structures](./theme/data_structures)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/video/7458383226621529376](https://www.tiktok.com/@jsmentoring/video/7458383226621529376)
 
@@ -2944,7 +2944,7 @@ console.log(findFirstRepeatedChar("abcdef")); // Output: null
 
 This method has a time complexity of O(n), where n is the length of the string.
 
-**Tags**: intermediate, JavaScript, Strings, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 
 
@@ -2978,7 +2978,7 @@ console.log(findFirstRepeatedCharacter('abcdef')); // Output: null
 
 This method has a time complexity of O(n), where n is the length of the string.
 
-**Tags**: intermediate, JavaScript, Strings, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 
 
@@ -3014,7 +3014,7 @@ console.log(firstRepeatingCharacter('abcdef')); // Output: null
 
 This method has a time complexity of O(n), where n is the length of the string.
 
-**Tags**: basic, JavaScript, Strings, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 
 
@@ -3052,7 +3052,7 @@ console.log(findFirstRepeating([5, 3, 4, 1])); // Output: null
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -3081,7 +3081,7 @@ console.log(gcd(100, 25)); // Output: 25
 
 This method has a time complexity of O(log(min(a, b))), where a and b are the two numbers.
 
-**Tags**: intermediate, JavaScript, Math, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Math](./theme/math), [Algorithm](./theme/algorithm)
 
 
 
@@ -3110,7 +3110,7 @@ console.log(findKthLargest([7, 2, 9, 4], 3)); // Output: 4
 
 This method has a time complexity of O(n log n), where n is the length of the array due to sorting.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -3141,7 +3141,7 @@ console.log(kthSmallest([12, 3, 5, 7, 19], 2)); // Output: 5
 
 This method has a time complexity of O(n log n) for sorting, where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -3178,7 +3178,7 @@ console.log(findLargestEven([7, 5, 9, 1])); // Output: null
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -3215,7 +3215,7 @@ console.log(findLargest([7, 4, 9, 2])); // Output: 9
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -3253,7 +3253,7 @@ console.log(findLargestPalindrome([123, 456, 789])); // Output: No palindrome fo
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -3290,7 +3290,7 @@ console.log(largestProduct([-10, -10, 5, 2])); // Output: 100
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -3326,7 +3326,7 @@ console.log(maxSubArraySum([-2, -3, 4, -1, -2, 1, 5, -3])); // Output: 7
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -3363,7 +3363,7 @@ console.log(maxSubArraySum([-1, -2, -3, -4])); // Output: -1
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -3399,7 +3399,7 @@ console.log(longestCommonPrefix(['dog', 'racecar', 'car'])); // Output: ''
 
 This method has a time complexity of O(n log n), where n is the number of strings.
 
-**Tags**: basic, JavaScript, Strings, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 
 
@@ -3440,7 +3440,7 @@ console.log(longestIncreasingSubarray([5, 4, 3, 2, 1])); // Output: 1
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -3476,7 +3476,7 @@ console.log(lengthOfLIS([10, 9, 2, 5, 3, 7, 101, 18])); // Output: 4
 
 This method has a time complexity of O(n^2), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -3523,7 +3523,7 @@ console.log(longestPalindrome('cbbd')); // Output: 'bb'
 
 This method has a time complexity of O(n^2), where n is the length of the string.
 
-**Tags**: intermediate, JavaScript, Strings, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 
 
@@ -3562,7 +3562,7 @@ console.log(longestSubstring('bbbbb')); // Output: 1
 
 This method has a time complexity of O(n), where n is the length of the string.
 
-**Tags**: intermediate, JavaScript, Strings, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 
 
@@ -3602,7 +3602,7 @@ console.log(findLongestWord("Hello world!")); // Output: "Hello"
 
 This method has a time complexity of O(n), where n is the total number of characters in the sentence.
 
-**Tags**: basic, JavaScript, Strings, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 
 
@@ -3639,7 +3639,7 @@ console.log(majorityElement([1, 2, 3, 4, 5])); // Output: 5 (or no majority)
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -3674,7 +3674,7 @@ console.log(majorityElement([1, 2, 3, 4])); // Output: null
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -3715,7 +3715,7 @@ console.log(findMaxNumber([-10, -20, -3, -7])); // Output: -3
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -3745,7 +3745,7 @@ console.log(findMedian([7, 1, 2, 8])); // Output: 4.5
 
 This method has a time complexity of O(n log n), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -3774,7 +3774,7 @@ console.log(findMiddleElement([10, 20, 30, 40])); // Output: 30
 
 This method has a time complexity of O(1), as it directly accesses the middle element.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -3805,7 +3805,7 @@ console.log(findMissingNumber([1, 3, 4, 5])); // Output: 2
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -3846,7 +3846,7 @@ console.log(findMode([10, 10, 10, 5, 5, 1])); // Output: 10
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -3888,7 +3888,7 @@ console.log(findMostFrequentElement(["apple", "banana", "apple", "orange", "bana
 
 This method has a time complexity of O(n) as it involves a single iteration over the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm, Data Structures
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm), [Data Structures](./theme/data_structures)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/video/7458418483282316576](https://www.tiktok.com/@jsmentoring/video/7458418483282316576)
 
@@ -3927,7 +3927,7 @@ console.log(findSecondLargest([10, 10, 9, 8])); // Output: 9
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -3966,7 +3966,7 @@ console.log(findSecondLargest([1, 1, 1])); // Output: -Infinity
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -4006,7 +4006,7 @@ console.log(findSecondSmallest([1, 1, 1])); // Output: null
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -4043,7 +4043,7 @@ console.log(findSmallest([7, 4, 9, 2])); // Output: 2
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -4084,7 +4084,7 @@ console.log(findSmallestNumber([-10, -20, -3, -7])); // Output: -20
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -4116,7 +4116,7 @@ console.log(findUnique([4, 4, 5, 5, 6])); // Output: 6
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -4146,7 +4146,7 @@ console.log(findUniqueElements([5, 6, 7, 5, 6])); // Output: [7]
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -4175,7 +4175,7 @@ console.log(findUniqueChars('hello')); // Output: 'helo'
 
 This method has a time complexity of O(n), where n is the length of the string.
 
-**Tags**: basic, JavaScript, Strings, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 
 
@@ -4203,7 +4203,7 @@ console.log(findUnique(["apple", "banana", "apple"])); // Output: ["apple", "ban
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -4238,7 +4238,7 @@ function test() {
 console.log(test()); // { key: 'value' }
 ```
 
-**Tags**: advanced, JavaScript, Syntax
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Syntax](./theme/syntax)
 
 
 
@@ -4260,7 +4260,7 @@ Example:
 </script>
 ```
 
-**Tags**: intermediate, JavaScript, DOM, validation
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [DOM](./theme/dom), [validation](./theme/validation)
 
 
 
@@ -4278,7 +4278,7 @@ const keys = Object.keys(person);
 console.log(keys); // ['name', 'age']
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 
 
@@ -4293,7 +4293,7 @@ const params = new URLSearchParams(window.location.search);
 console.log(params.get('id')); // Gets the value of the 'id' parameter
 ```
 
-**Tags**: basic, JavaScript, web navigation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [web navigation](./theme/web_navigation)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7455462347759471905](https://www.tiktok.com/@jsmentoring/photo/7455462347759471905)
 
@@ -4311,7 +4311,7 @@ const offset = date.getTimezoneOffset();
 console.log(offset); // Logs the timezone offset in minutes
 ```
 
-**Tags**: basic, JavaScript, Date
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Date](./theme/date)
 
 
 
@@ -4328,7 +4328,7 @@ history.pushState(null, '', '/new-url');
 console.log(window.location.href); // '/new-url'
 ```
 
-**Tags**: intermediate, JavaScript, URL manipulation
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [URL manipulation](./theme/url_manipulation)
 
 
 
@@ -4344,7 +4344,7 @@ console.log('%cStyled Text', 'color: red; font-size: 20px;');
 
 The second argument specifies the CSS styles to apply to the text.
 
-**Tags**: intermediate, JavaScript, Console
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Console](./theme/console)
 
 
 
@@ -4360,7 +4360,7 @@ obj.name = 'John';
 console.log(obj); // { name: 'John' }
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456001248484003104](https://www.tiktok.com/@jsmentoring/photo/7456001248484003104)
 
@@ -4374,7 +4374,7 @@ You can assign default values to variables using the `||` operator or by using d
 const name = userInput || 'Default Name';
 ```
 
-**Tags**: basic, JavaScript, variables
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [variables](./theme/variables)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456018568077937953](https://www.tiktok.com/@jsmentoring/photo/7456018568077937953)
 
@@ -4395,7 +4395,7 @@ window.addEventListener('message', (event) => {
 });
 ```
 
-**Tags**: advanced, JavaScript, Security
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Security](./theme/security)
 
 
 
@@ -4423,7 +4423,7 @@ const dog = new Dog('Rex', 'German Shepherd');
 console.log(dog.name); // Rex
 ```
 
-**Tags**: basic, JavaScript, classes
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [classes](./theme/classes)
 
 
 
@@ -4441,7 +4441,7 @@ window.addEventListener('popstate', function(event) {
 });
 ```
 
-**Tags**: intermediate, JavaScript, Browser Events
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Browser Events](./theme/browser_events)
 
 
 
@@ -4458,7 +4458,7 @@ const element = document.getElementById('myElement');
 element.style.backgroundColor = 'blue';
 ```
 
-**Tags**: basic, JavaScript, DOM manipulation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [DOM manipulation](./theme/dom_manipulation)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456849197690621217](https://www.tiktok.com/@jsmentoring/photo/7456849197690621217)
 
@@ -4479,7 +4479,7 @@ console.log(isPromise(Promise.resolve()));  // Output: true
 console.log(isPromise({}));  // Output: false
 ```
 
-**Tags**: intermediate, JavaScript, Promises
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Promises](./theme/promises)
 
 
 
@@ -4495,7 +4495,7 @@ console.log('name' in obj); // true
 console.log(obj.hasOwnProperty('name')); // true
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7455464658166680864](https://www.tiktok.com/@jsmentoring/photo/7455464658166680864)
 
@@ -4510,7 +4510,7 @@ const str = 'Hello World';
 console.log(str.startsWith('Hello')); // true
 ```
 
-**Tags**: basic, JavaScript, string manipulation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [string manipulation](./theme/string_manipulation)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7455819349048315169](https://www.tiktok.com/@jsmentoring/photo/7455819349048315169)
 
@@ -4525,7 +4525,7 @@ const str = 'Hello World';
 console.log(str.includes('World')); // true
 ```
 
-**Tags**: basic, JavaScript, string manipulation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [string manipulation](./theme/string_manipulation)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457960152197614880](https://www.tiktok.com/@jsmentoring/photo/7457960152197614880)
 
@@ -4543,7 +4543,7 @@ console.log(arr.includes(3)); // true
 console.log(arr.includes(6)); // false
 ```
 
-**Tags**: basic, JavaScript, arrays
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [arrays](./theme/arrays)
 
 
 
@@ -4562,7 +4562,7 @@ Object.preventExtensions(obj);
 console.log(Object.isExtensible(obj)); // false
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 
 
@@ -4581,7 +4581,7 @@ let combined = arr1.concat(arr2);
 console.log(combined);  // Output: [1, 2, 3, 4]
 ```
 
-**Tags**: basic, JavaScript, Arrays
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 
 
@@ -4600,7 +4600,7 @@ const areArraysEqual = arr1.length === arr2.length && arr1.every((val, index) =>
 console.log(areArraysEqual); // true
 ```
 
-**Tags**: intermediate, JavaScript, arrays
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [arrays](./theme/arrays)
 
 
 
@@ -4616,7 +4616,7 @@ const date2 = new Date('2024-12-01');
 console.log(date1.getTime() === date2.getTime()); // true
 ```
 
-**Tags**: basic, JavaScript, date and time
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [date and time](./theme/date_and_time)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7455822418272062752](https://www.tiktok.com/@jsmentoring/photo/7455822418272062752)
 
@@ -4633,7 +4633,7 @@ let char = 'A';
 console.log(char.charCodeAt(0));  // Output: 65
 ```
 
-**Tags**: basic, JavaScript, String Manipulation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [String Manipulation](./theme/string_manipulation)
 
 
 
@@ -4655,7 +4655,7 @@ const formatter = new Intl.DateTimeFormat('en-US', {
 console.log(formatter.format(date));
 ```
 
-**Tags**: basic, JavaScript, date manipulation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [date manipulation](./theme/date_manipulation)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457198473176190241](https://www.tiktok.com/@jsmentoring/photo/7457198473176190241)
 
@@ -4679,7 +4679,7 @@ const obj2 = { ...obj1 };
 console.log(obj2); // { name: 'John' }
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7458032154656673056](https://www.tiktok.com/@jsmentoring/photo/7458032154656673056)
 
@@ -4696,7 +4696,7 @@ let arr = [1, 2, 3, 4, 5];
 console.log(arr);  // Output: [1, 2, 3, 4, 5]
 ```
 
-**Tags**: basic, JavaScript, Arrays
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 
 
@@ -4714,7 +4714,7 @@ while (true) {
 }
 ```
 
-**Tags**: intermediate, JavaScript, Loops
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Loops](./theme/loops)
 
 
 
@@ -4732,7 +4732,7 @@ const student = Object.create(person);
 student.greet(); // 'Hello'
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7458574988463983904](https://www.tiktok.com/@jsmentoring/photo/7458574988463983904)
 
@@ -4755,7 +4755,7 @@ copyButton.addEventListener('click', () => {
 });
 ```
 
-**Tags**: intermediate, JavaScript, DOM
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [DOM](./theme/dom)
 
 
 
@@ -4781,7 +4781,7 @@ customElements.define('my-element', MyElement);
 
 This defines a new custom element `<my-element>` which can be used like a standard HTML tag.
 
-**Tags**: advanced, JavaScript, Web Components
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Web Components](./theme/web_components)
 
 
 
@@ -4828,7 +4828,7 @@ Array.prototype.myReduce = function(callback, initialValue) {
 };
 ```
 
-**Tags**: advanced, JavaScript, Polyfills
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Polyfills](./theme/polyfills)
 
 
 
@@ -4845,7 +4845,7 @@ let str = 'This is a string with special characters: \' \" \\ \n';
 console.log(str);
 ```
 
-**Tags**: basic, JavaScript, Strings
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Strings](./theme/strings)
 
 
 
@@ -4863,7 +4863,7 @@ let repeatedStr = str.repeat(3);
 console.log(repeatedStr);  // Output: 'Hello Hello Hello '
 ```
 
-**Tags**: basic, JavaScript, String Manipulation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [String Manipulation](./theme/string_manipulation)
 
 
 
@@ -4891,7 +4891,7 @@ const boundGreet = greet.customBind(null, 'Hello');
 boundGreet('Alice'); // 'Hello, Alice!'
 ```
 
-**Tags**: advanced, JavaScript, Functions
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Functions](./theme/functions)
 
 
 
@@ -4911,7 +4911,7 @@ const MyNamespace = {
 MyNamespace.myFunction(); // 'Hello!'
 ```
 
-**Tags**: intermediate, JavaScript, namespaces
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [namespaces](./theme/namespaces)
 
 
 
@@ -4929,7 +4929,7 @@ const decodedURL = decodeURIComponent(encodedURL);
 console.log(decodedURL); // 'https://example.com/?name=John Doe'
 ```
 
-**Tags**: basic, JavaScript, encoding
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [encoding](./theme/encoding)
 
 
 
@@ -4957,7 +4957,7 @@ class Example {
 console.log(Example.type); // Output: 'Example'
 ```
 
-**Tags**: intermediate, JavaScript, OOP
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [OOP](./theme/oop)
 
 
 
@@ -4973,7 +4973,7 @@ Example:
 ["apple", "banana", "cherry"]
 ```
 
-**Tags**: basic, JavaScript, JSON
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [JSON](./theme/json)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456895653067672864](https://www.tiktok.com/@jsmentoring/photo/7456895653067672864)
 
@@ -4990,7 +4990,7 @@ console.log(str); // 'Hello
 World'
 ```
 
-**Tags**: basic, JavaScript, string manipulation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [string manipulation](./theme/string_manipulation)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456061031811419424](https://www.tiktok.com/@jsmentoring/photo/7456061031811419424)
 
@@ -5017,7 +5017,7 @@ Object.defineProperties(person, {
 console.log(person);
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 
 
@@ -5039,7 +5039,7 @@ console.log(person.name); // 'John'
 console.log(person.age); // 30
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 
 
@@ -5055,7 +5055,7 @@ Example:
 console.log(navigator.language); // 'en-US'
 ```
 
-**Tags**: basic, JavaScript, browser features
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [browser features](./theme/browser_features)
 
 
 
@@ -5073,7 +5073,7 @@ if (/Mobi/.test(navigator.userAgent)) {
 }
 ```
 
-**Tags**: basic, JavaScript, mobile detection
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [mobile detection](./theme/mobile_detection)
 
 
 
@@ -5091,7 +5091,7 @@ if (navigator.platform.indexOf('iPhone') !== -1) {
 }
 ```
 
-**Tags**: basic, JavaScript, mobile detection
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [mobile detection](./theme/mobile_detection)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457202437292674337](https://www.tiktok.com/@jsmentoring/photo/7457202437292674337)
 
@@ -5109,7 +5109,7 @@ Example:
 </noscript>
 ```
 
-**Tags**: basic, JavaScript, page features
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [page features](./theme/page_features)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457508448763120928](https://www.tiktok.com/@jsmentoring/photo/7457508448763120928)
 
@@ -5131,7 +5131,7 @@ let obj = {};
 console.log(typeof obj);  // Output: 'object'
 ```
 
-**Tags**: intermediate, JavaScript, Data Types
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Data Types](./theme/data_types)
 
 
 
@@ -5149,7 +5149,7 @@ Object.seal(person);
 console.log(Object.isSealed(person)); // true
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 
 
@@ -5167,7 +5167,7 @@ console.log(Object.is(5, '5')); // false
 console.log(Object.is(NaN, NaN)); // true
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457684535661137185](https://www.tiktok.com/@jsmentoring/photo/7457684535661137185)
 
@@ -5185,7 +5185,7 @@ Object.freeze(person);
 console.log(Object.isFrozen(person)); // true
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457681827478785312](https://www.tiktok.com/@jsmentoring/photo/7457681827478785312)
 
@@ -5204,7 +5204,7 @@ document.addEventListener('contextmenu', function(event) {
 });
 ```
 
-**Tags**: intermediate, JavaScript, DOM
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [DOM](./theme/dom)
 
 
 
@@ -5224,7 +5224,7 @@ let arr = [
 console.table(arr);
 ```
 
-**Tags**: intermediate, JavaScript, Console
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Console](./theme/console)
 
 
 
@@ -5239,7 +5239,7 @@ const currentDate = new Date();
 console.log(currentDate); // Displays the current date and time
 ```
 
-**Tags**: basic, JavaScript, date and time
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [date and time](./theme/date_and_time)
 
 
 
@@ -5257,7 +5257,7 @@ arr.length = 0;
 console.log(arr);  // Output: []
 ```
 
-**Tags**: basic, JavaScript, Arrays
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 
 
@@ -5275,7 +5275,7 @@ const encodedURL = encodeURIComponent(url);
 console.log(encodedURL); // 'https%3A%2F%2Fexample.com%2F%3Fname%3DJohn%20Doe'
 ```
 
-**Tags**: basic, JavaScript, encoding
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [encoding](./theme/encoding)
 
 
 
@@ -5305,7 +5305,7 @@ const dog = new Dog('Buddy');
 dog.speak(); // 'Buddy barks'
 ```
 
-**Tags**: intermediate, JavaScript, classes
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [classes](./theme/classes)
 
 
 
@@ -5323,7 +5323,7 @@ console.log(Math.min(...arr)); // 1
 console.log(Math.max(...arr)); // 5
 ```
 
-**Tags**: basic, JavaScript, arrays
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [arrays](./theme/arrays)
 
 
 
@@ -5346,7 +5346,7 @@ console.log(min); // 1
 console.log(max); // 5
 ```
 
-**Tags**: basic, JavaScript, arrays
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [arrays](./theme/arrays)
 
 
 
@@ -5356,7 +5356,7 @@ console.log(max); // 5
 
 You can access the operating system details in JavaScript using `navigator.platform` or `navigator.userAgent` to detect the platform or OS of the user.
 
-**Tags**: intermediate, JavaScript, environment
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [environment](./theme/environment)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7451589366285126944](https://www.tiktok.com/@jsmentoring/photo/7451589366285126944)
 
@@ -5374,7 +5374,7 @@ let flattened = arr.flat(2);
 console.log(flattened);  // Output: [1, 2, 3, 4, 5, 6]
 ```
 
-**Tags**: intermediate, JavaScript, Arrays
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 
 
@@ -5391,7 +5391,7 @@ const randomInt = Math.floor(Math.random() * 10); // Generates a random integer 
 console.log(randomInt);
 ```
 
-**Tags**: basic, JavaScript, math
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [math](./theme/math)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456916623870512417](https://www.tiktok.com/@jsmentoring/photo/7456916623870512417)
 
@@ -5409,7 +5409,7 @@ const entries = Object.entries(person);
 console.log(entries); // [['name', 'John'], ['age', 30]]
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7458348252274920736](https://www.tiktok.com/@jsmentoring/photo/7458348252274920736)
 
@@ -5426,7 +5426,7 @@ console.log(import.meta.url);
 // Outputs the URL of the current module
 ```
 
-**Tags**: basic, JavaScript, modules
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [modules](./theme/modules)
 
 
 
@@ -5445,7 +5445,7 @@ console.log(descriptor);
 // { value: 'John', writable: true, enumerable: true, configurable: true }
 ```
 
-**Tags**: intermediate, JavaScript, objects
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 
 
@@ -5459,7 +5459,7 @@ You can get the current URL of the page using `window.location.href`.
 console.log(window.location.href); // Outputs the current URL
 ```
 
-**Tags**: basic, JavaScript, web navigation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [web navigation](./theme/web_navigation)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7458367254942502177](https://www.tiktok.com/@jsmentoring/photo/7458367254942502177)
 
@@ -5476,7 +5476,7 @@ const img = document.getElementById('myImage');
 console.log(img.width, img.height);
 ```
 
-**Tags**: basic, JavaScript, DOM manipulation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [DOM manipulation](./theme/dom_manipulation)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457292452945268000](https://www.tiktok.com/@jsmentoring/photo/7457292452945268000)
 
@@ -5494,7 +5494,7 @@ const prototype = Object.getPrototypeOf(person);
 console.log(prototype); // Outputs the prototype of the object
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 
 
@@ -5511,7 +5511,7 @@ let checkbox = document.getElementById('myCheckbox');
 console.log(checkbox.checked);  // Output: true/false
 ```
 
-**Tags**: basic, JavaScript, DOM
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [DOM](./theme/dom)
 
 
 
@@ -5529,7 +5529,7 @@ let uniqueArr = [...new Set(arr)];
 console.log(uniqueArr);  // Output: [1, 2, 3, 4, 5]
 ```
 
-**Tags**: intermediate, JavaScript, Arrays
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 
 
@@ -5556,7 +5556,7 @@ Outer Group
     Message in Inner Group
 ```
 
-**Tags**: intermediate, JavaScript, Console
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Console](./theme/console)
 
 
 
@@ -5570,7 +5570,7 @@ In modern browsers, you can simulate a zero timeout by using `setTimeout` with a
 setTimeout(() => console.log('Executed after zero delay'), 0);
 ```
 
-**Tags**: intermediate, JavaScript, Performance
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Performance](./theme/performance)
 
 
 
@@ -5588,7 +5588,7 @@ const iframeWindow = iframe.contentWindow;
 iframeWindow.someFunction(); // Calls a function in the iframe
 ```
 
-**Tags**: intermediate, JavaScript, iframe
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [iframe](./theme/iframe)
 
 
 
@@ -5613,7 +5613,7 @@ for (let key in person) {
 }
 ```
 
-**Tags**: intermediate, JavaScript, objects
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 
 
@@ -5640,7 +5640,7 @@ script.src = 'script.js';
 document.body.appendChild(script);
 ```
 
-**Tags**: intermediate, JavaScript, DOM manipulation
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [DOM manipulation](./theme/dom_manipulation)
 
 
 
@@ -5657,7 +5657,7 @@ for (let key in obj) {
 }
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7455466200588389664](https://www.tiktok.com/@jsmentoring/photo/7455466200588389664)
 
@@ -5690,7 +5690,7 @@ for (let value of iterableObject) {
 }
 ```
 
-**Tags**: advanced, JavaScript, Iterables
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Iterables](./theme/iterables)
 
 
 
@@ -5711,7 +5711,7 @@ xhr.onload = function() {
 };
 ```
 
-**Tags**: basic, JavaScript, HTTP requests
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [HTTP requests](./theme/http_requests)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457281321589656864](https://www.tiktok.com/@jsmentoring/photo/7457281321589656864)
 
@@ -5727,7 +5727,7 @@ const result = str.charAt(0).toUpperCase() + str.slice(1);
 console.log(result); // 'Hello'
 ```
 
-**Tags**: basic, JavaScript, string manipulation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [string manipulation](./theme/string_manipulation)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456035524420062497](https://www.tiktok.com/@jsmentoring/photo/7456035524420062497)
 
@@ -5746,7 +5746,7 @@ xhr.send();
 console.log(xhr.responseText);
 ```
 
-**Tags**: basic, JavaScript, HTTP requests
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [HTTP requests](./theme/http_requests)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457614380205739296](https://www.tiktok.com/@jsmentoring/photo/7457614380205739296)
 
@@ -5765,7 +5765,7 @@ arr.forEach(item => result.push(item * 2));
 console.log(result);  // Output: [2, 4, 6]
 ```
 
-**Tags**: intermediate, JavaScript, Arrays
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 
 
@@ -5780,7 +5780,7 @@ const obj = JSON.parse('{"name":"John"}');
 console.log(obj.name); // John
 ```
 
-**Tags**: basic, JavaScript, data formats
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [data formats](./theme/data_formats)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457955955557403937](https://www.tiktok.com/@jsmentoring/photo/7457955955557403937)
 
@@ -5803,7 +5803,7 @@ form.onsubmit = function(event) {
 };
 ```
 
-**Tags**: intermediate, JavaScript, forms
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [forms](./theme/forms)
 
 
 
@@ -5823,7 +5823,7 @@ Example:
 </form>
 ```
 
-**Tags**: intermediate, HTML, forms
+**Tags**: [intermediate](./level/intermediate), [HTML](./theme/html), [forms](./theme/forms)
 
 
 
@@ -5841,7 +5841,7 @@ const formatter = new Intl.DateTimeFormat('en-US', { year: 'numeric', month: 'lo
 console.log(formatter.format(date)); // 'December 21, 2024'
 ```
 
-**Tags**: basic, JavaScript, internationalization
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [internationalization](./theme/internationalization)
 
 
 
@@ -5860,7 +5860,7 @@ obj.age = 30; // Won't be added
 console.log(obj); // { name: 'John' }
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 
 
@@ -5887,7 +5887,7 @@ async function asyncFunction() {
 asyncFunction();
 ```
 
-**Tags**: advanced, JavaScript, Promises
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Promises](./theme/promises)
 
 
 
@@ -5904,7 +5904,7 @@ const number = 1234567.89;
 console.log(number.toLocaleString()); // '1,234,567.89'
 ```
 
-**Tags**: basic, JavaScript, number formatting
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [number formatting](./theme/number_formatting)
 
 
 
@@ -5920,7 +5920,7 @@ Example:
 window.print();
 ```
 
-**Tags**: basic, JavaScript, printing
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [printing](./theme/printing)
 
 
 
@@ -5934,7 +5934,7 @@ To redirect to a new page in JavaScript, you can use `window.location.href` or `
 window.location.href = 'https://example.com';
 ```
 
-**Tags**: basic, JavaScript, web navigation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [web navigation](./theme/web_navigation)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7453541079804169504](https://www.tiktok.com/@jsmentoring/photo/7453541079804169504)
 
@@ -5952,7 +5952,7 @@ let filteredArr = arr.filter(Boolean);
 console.log(filteredArr);  // Output: [1, 2, 3]
 ```
 
-**Tags**: basic, JavaScript, Arrays
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 
 
@@ -5972,7 +5972,7 @@ console.log(matches);  // Output: ['123', '456', '789']
 
 In this example, `\d+` is a regular expression that matches one or more digits, and the `g` flag ensures that all matches are returned in an array.
 
-**Tags**: intermediate, JavaScript, Regular Expressions
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Regular Expressions](./theme/regular_expressions)
 
 
 
@@ -5989,7 +5989,7 @@ console.log(originalArray); // [1, 2, 3]
 console.log(reversedArray); // [3, 2, 1]
 ```
 
-**Tags**: intermediate, JavaScript, Arrays
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 
 
@@ -6007,7 +6007,7 @@ arr.reverse();
 console.log(arr); // [3, 2, 1]
 ```
 
-**Tags**: basic, JavaScript, arrays
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [arrays](./theme/arrays)
 
 
 
@@ -6025,7 +6025,7 @@ let rounded = num.toFixed(2);
 console.log(rounded);  // Output: '5.68'
 ```
 
-**Tags**: intermediate, JavaScript, Numbers
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Numbers](./theme/numbers)
 
 
 
@@ -6042,7 +6042,7 @@ const regex = /\d+/;
 console.log(regex.test('abc123')); // true
 ```
 
-**Tags**: basic, JavaScript, regular expressions
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [regular expressions](./theme/regular_expressions)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456824435211816224](https://www.tiktok.com/@jsmentoring/photo/7456824435211816224)
 
@@ -6061,7 +6061,7 @@ Object.setPrototypeOf(dog, animal);
 dog.speak(); // Animal speaks
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 
 
@@ -6082,7 +6082,7 @@ arr.sort((a, b) => a - b);
 console.log(arr); // [1, 2, 3]
 ```
 
-**Tags**: basic, JavaScript, arrays
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [arrays](./theme/arrays)
 
 
 
@@ -6096,7 +6096,7 @@ You can submit a form in JavaScript using the `submit()` method on the form elem
 document.getElementById('myForm').submit();
 ```
 
-**Tags**: basic, JavaScript, forms
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [forms](./theme/forms)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7454702289975119136](https://www.tiktok.com/@jsmentoring/photo/7454702289975119136)
 
@@ -6114,7 +6114,7 @@ let a = 1, b = 2;
 console.log(a, b);  // Output: 2 1
 ```
 
-**Tags**: intermediate, JavaScript, Destructuring
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Destructuring](./theme/destructuring)
 
 
 
@@ -6129,7 +6129,7 @@ const obj = {};
 console.log(Object.keys(obj).length === 0); // true
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7455470039198682401](https://www.tiktok.com/@jsmentoring/photo/7455470039198682401)
 
@@ -6147,7 +6147,7 @@ console.log(str.trimStart());  // Output: 'Hello World!   '
 console.log(str.trimEnd());    // Output: '   Hello World!'
 ```
 
-**Tags**: basic, JavaScript, String Manipulation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [String Manipulation](./theme/string_manipulation)
 
 
 
@@ -6162,7 +6162,7 @@ const str = '  Hello World  ';
 console.log(str.trim()); // 'Hello World'
 ```
 
-**Tags**: basic, JavaScript, string manipulation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [string manipulation](./theme/string_manipulation)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7455853408113675552](https://www.tiktok.com/@jsmentoring/photo/7455853408113675552)
 
@@ -6178,7 +6178,7 @@ Example using `import`:
 import * as library from 'library';
 ```
 
-**Tags**: intermediate, TypeScript, JavaScript
+**Tags**: [intermediate](./level/intermediate), [TypeScript](./theme/typescript), [JavaScript](./theme/javascript)
 
 
 
@@ -6194,7 +6194,7 @@ const regex = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
 console.log(regex.test(email)); // true
 ```
 
-**Tags**: basic, JavaScript, validation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [validation](./theme/validation)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456043510161067296](https://www.tiktok.com/@jsmentoring/photo/7456043510161067296)
 
@@ -6217,7 +6217,7 @@ let value = NaN;
 console.log(Number.isNaN(value));  // Output: true
 ```
 
-**Tags**: basic, JavaScript, Data Types
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Data Types](./theme/data_types)
 
 
 
@@ -6240,7 +6240,7 @@ console.log(multilineString);
 // string.
 ```
 
-**Tags**: intermediate, JavaScript, Strings
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Strings](./theme/strings)
 
 
 
@@ -6257,7 +6257,7 @@ const arr = [1, 2, 3];
 arr.forEach(item => console.log(item)); // Output: 1, 2, 3
 ```
 
-**Tags**: basic, JavaScript, iteration
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [iteration](./theme/iteration)
 
 
 
@@ -6282,7 +6282,7 @@ fetch('https://api.example.com/data', { signal: signal })
 controller.abort();
 ```
 
-**Tags**: advanced, JavaScript, Fetch API
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Fetch API](./theme/fetch_api)
 
 
 
@@ -6301,7 +6301,7 @@ function toTitleCase(str) {
 console.log(toTitleCase('hello world')); // 'Hello World'
 ```
 
-**Tags**: basic, JavaScript, string manipulation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [string manipulation](./theme/string_manipulation)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457578972889615648](https://www.tiktok.com/@jsmentoring/photo/7457578972889615648)
 
@@ -6325,7 +6325,7 @@ new MyFunction();  // Works
 MyFunction();  // Throws error
 ```
 
-**Tags**: advanced, JavaScript, Functions
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Functions](./theme/functions)
 
 
 
@@ -6359,7 +6359,7 @@ mediaQuery.addEventListener('change', event => {
 });
 ```
 
-**Tags**: intermediate, JavaScript, Web APIs
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Web APIs](./theme/web_apis)
 
 
 
@@ -6378,7 +6378,7 @@ console.log(example.length); // 3
 
 Note: Default parameters and rest parameters are not counted in the `length` property.
 
-**Tags**: intermediate, JavaScript, Functions
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Functions](./theme/functions)
 
 
 
@@ -6396,7 +6396,7 @@ const value = urlParams.get('param');
 console.log(value); // Logs the value of 'param' from the URL
 ```
 
-**Tags**: intermediate, JavaScript, URL manipulation
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [URL manipulation](./theme/url_manipulation)
 
 
 
@@ -6418,7 +6418,7 @@ Example:
 }();
 ```
 
-**Tags**: advanced, JavaScript, Functions
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Functions](./theme/functions)
 
 
 
@@ -6440,7 +6440,7 @@ let cleanedStr = str.replace(/[
 console.log(cleanedStr);  // Output: 'Hello World !'
 ```
 
-**Tags**: basic, JavaScript, Strings
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Strings](./theme/strings)
 
 
 
@@ -6458,7 +6458,7 @@ document.body.style.cursor = 'wait';  // Changes cursor to wait
 document.body.style.cursor = 'default';  // Changes cursor back to default
 ```
 
-**Tags**: basic, JavaScript, UI manipulation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [UI manipulation](./theme/ui_manipulation)
 
 
 
@@ -6485,7 +6485,7 @@ Before ES2022, `await` could only be used inside `async` functions. To achieve s
 
 With ES2022, `await` can be used in top-level code in modules.
 
-**Tags**: advanced, JavaScript, Asynchronous Programming
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Asynchronous Programming](./theme/asynchronous_programming)
 
 
 
@@ -6505,7 +6505,7 @@ const obj = { key: 'value' };
 console.log(Array.isArray(obj)); // false
 ```
 
-**Tags**: basic, JavaScript, Data Types
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Data Types](./theme/data_types)
 
 
 
@@ -6527,7 +6527,7 @@ console.log(Colors.RED); // 'red'
 ```
 Alternatively, TypeScript provides a native `enum` feature.
 
-**Tags**: intermediate, JavaScript, features
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [features](./theme/features)
 
 
 
@@ -6543,7 +6543,7 @@ Example:
 console.log('%cHello, world!', 'color: red; font-size: 20px;');
 ```
 
-**Tags**: intermediate, JavaScript, Console
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Console](./theme/console)
 
 
 
@@ -6560,7 +6560,7 @@ let element = document.querySelector('div');
 console.dir(element);
 ```
 
-**Tags**: intermediate, JavaScript, Debugging
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Debugging](./theme/debugging)
 
 
 
@@ -6570,7 +6570,7 @@ console.dir(element);
 
 It is generally not recommended to use `eval()` in JavaScript due to security risks and performance concerns. `eval()` executes code passed as a string, which can be exploited by attackers.
 
-**Tags**: basic, JavaScript, security
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [security](./theme/security)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456751494948293920](https://www.tiktok.com/@jsmentoring/photo/7456751494948293920)
 
@@ -6580,7 +6580,7 @@ It is generally not recommended to use `eval()` in JavaScript due to security ri
 
 Yes, JavaScript is a case-sensitive language. For example, `variable` and `Variable` would be considered two different identifiers.
 
-**Tags**: basic, JavaScript, language concepts
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [language concepts](./theme/language_concepts)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7454353440626445601](https://www.tiktok.com/@jsmentoring/photo/7454353440626445601)
 
@@ -6590,7 +6590,7 @@ Yes, JavaScript is a case-sensitive language. For example, `variable` and `Varia
 
 JavaScript is an interpreted language. It is executed line by line by the JavaScript engine in the browser, rather than being compiled beforehand like C or Java.
 
-**Tags**: basic, JavaScript, language concepts
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [language concepts](./theme/language_concepts)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7454351953959652640](https://www.tiktok.com/@jsmentoring/photo/7454351953959652640)
 
@@ -6600,7 +6600,7 @@ JavaScript is an interpreted language. It is executed line by line by the JavaSc
 
 JavaScript runs in the browser and is typically faster for client-side operations, especially for DOM manipulation and interactions. However, server-side scripts (e.g., PHP, Node.js) can be faster for processing large datasets or performing complex operations due to server-side resources.
 
-**Tags**: intermediate, JavaScript, Performance
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Performance](./theme/performance)
 
 
 
@@ -6612,7 +6612,7 @@ No, Node.js is not completely single-threaded. While the event loop and most of 
 
 However, JavaScript code execution in Node.js runs on a single thread, making it lightweight and efficient for handling I/O-bound tasks.
 
-**Tags**: intermediate, Node.js, JavaScript
+**Tags**: [intermediate](./level/intermediate), [Node.js](./theme/node_js), [JavaScript](./theme/javascript)
 
 
 
@@ -6628,7 +6628,7 @@ Example:
 window.postMessage('message', 'https://example.com');
 ```
 
-**Tags**: advanced, JavaScript, Security
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Security](./theme/security)
 
 
 
@@ -6645,7 +6645,7 @@ window.postMessage('message', 'https://example.com');
 console.log('Message sent');  // Output: Message sent
 ```
 
-**Tags**: intermediate, JavaScript, Web APIs
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Web APIs](./theme/web_apis)
 
 
 
@@ -6668,7 +6668,7 @@ switch (value) {
 }
 ```
 
-**Tags**: basic, JavaScript, Control Flow
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Control Flow](./theme/control_flow)
 
 
 
@@ -6678,7 +6678,7 @@ switch (value) {
 
 The `!--` notation is not a special operator in JavaScript. It is often a typo or part of HTML comments (`<!-- -->`). In JavaScript, `!` is the logical NOT operator, and `--` is the decrement operator.
 
-**Tags**: basic, JavaScript, operators
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [operators](./theme/operators)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456013855827791137](https://www.tiktok.com/@jsmentoring/photo/7456013855827791137)
 
@@ -6688,7 +6688,7 @@ The `!--` notation is not a special operator in JavaScript. It is often a typo o
 
 Despite the similar names, Java and JavaScript are not directly related. Java is a class-based, object-oriented programming language, while JavaScript is a lightweight, interpreted scripting language primarily used for web development.
 
-**Tags**: basic, JavaScript, general knowledge
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [general knowledge](./theme/general_knowledge)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7454554999335537952](https://www.tiktok.com/@jsmentoring/photo/7454554999335537952)
 
@@ -6710,7 +6710,7 @@ const [first, second] = [1, 2];
 console.log(first, second);  // Output: 1 2
 ```
 
-**Tags**: intermediate, JavaScript, ES6
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [ES6](./theme/es6)
 
 
 
@@ -6734,7 +6734,7 @@ weakmap.set(obj, 'value');
 console.log(weakmap.get(obj)); // 'value'
 ```
 
-**Tags**: basic, JavaScript, collections
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [collections](./theme/collections)
 
 
 
@@ -6759,7 +6759,7 @@ weakset.delete(obj);
 console.log(weakset.has(obj)); // false
 ```
 
-**Tags**: basic, JavaScript, collections
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [collections](./theme/collections)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7458291433980579105](https://www.tiktok.com/@jsmentoring/photo/7458291433980579105)
 
@@ -6801,7 +6801,7 @@ console.log(mergeSortedArrays([1, 3, 5], [2, 4, 6])); // Output: [1, 2, 3, 4, 5,
 
 This method has a time complexity of O(n + m), where n and m are the lengths of the two arrays.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -6842,7 +6842,7 @@ function mergeLists(l1, l2) {
 
 This method has a time complexity of O(n + m), where n and m are the lengths of the two linked lists.
 
-**Tags**: intermediate, JavaScript, Linked Lists, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Linked Lists](./theme/linked_lists), [Algorithm](./theme/algorithm)
 
 
 
@@ -6870,7 +6870,7 @@ console.log(removeDuplicates("hello")); // Output: "helo"
 
 This method has a time complexity of O(n), where n is the length of the string.
 
-**Tags**: basic, JavaScript, Strings, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 
 
@@ -6898,7 +6898,7 @@ console.log(removeDuplicates(["apple", "banana", "apple", "orange"])); // Output
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -6926,7 +6926,7 @@ console.log(removeElement(["apple", "banana", "orange"], "banana")); // Output: 
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -6955,7 +6955,7 @@ console.log(reverseString("JavaScript")); // Output: "tpircSavaJ"
 
 This method has a time complexity of O(n), where n is the length of the string.
 
-**Tags**: basic, JavaScript, Strings, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 
 
@@ -6991,7 +6991,7 @@ console.log(reverseArray(["a", "b", "c"])); // Output: ["c", "b", "a"]
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -7027,7 +7027,7 @@ console.log(reverseArray([10, 20, 30])); // Output: [30, 20, 10]
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -7057,7 +7057,7 @@ console.log(rotateArray([1, 2, 3], 4)); // Output: [2, 3, 1]
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -7085,7 +7085,7 @@ console.log(sortArray([3, 1, 4, 2])); // Output: [1, 2, 3, 4]
 
 This method has a time complexity of O(n log n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -7120,7 +7120,7 @@ console.log(sumEvenNumbers([10, 15, 20, 25])); // Output: 30
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -7149,7 +7149,7 @@ console.log(sumOfOdds([6, 7, 8, 9])); // Output: 16
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 
 
@@ -7169,7 +7169,7 @@ const fetchData = (url) => (dispatch) => {
 };
 ```
 
-**Tags**: advanced, JavaScript, Functional Programming
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Functional Programming](./theme/functional_programming)
 
 
 
@@ -7189,7 +7189,7 @@ for (let i = 0; i < 5; i++) {
 }
 ```
 
-**Tags**: basic, JavaScript, control flow
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [control flow](./theme/control_flow)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456440125774433569](https://www.tiktok.com/@jsmentoring/photo/7456440125774433569)
 
@@ -7222,7 +7222,7 @@ const piped = pipe(add, multiply);
 console.log(piped(5)); // 12
 ```
 
-**Tags**: advanced, JavaScript, Functional Programming
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Functional Programming](./theme/functional_programming)
 
 
 
@@ -7242,7 +7242,7 @@ greet();  // Output: Hello, Guest
 greet('John');  // Output: Hello, John
 ```
 
-**Tags**: intermediate, JavaScript, Functions
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Functions](./theme/functions)
 
 
 
@@ -7265,7 +7265,7 @@ let { name = 'Guest', age = 25 } = { name: 'John' };
 console.log(name, age);  // Output: John 25
 ```
 
-**Tags**: intermediate, JavaScript, Destructuring
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Destructuring](./theme/destructuring)
 
 
 
@@ -7278,7 +7278,7 @@ JavaScript typically uses a single event loop to manage all asynchronous tasks. 
 - **Main Event Loop**: Handles tasks in the main thread.
 - **Web Worker Event Loop**: Handles tasks in background threads.
 
-**Tags**: advanced, JavaScript, Event Loop
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Event Loop](./theme/event_loop)
 
 
 
@@ -7296,7 +7296,7 @@ import('module').then(module => {
 });
 ```
 
-**Tags**: advanced, JavaScript, Modules
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Modules](./theme/modules)
 
 
 
@@ -7319,7 +7319,7 @@ let person = {
 person.greet();  // Output: Hello, John
 ```
 
-**Tags**: intermediate, JavaScript, Objects
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Objects](./theme/objects)
 
 
 
@@ -7329,7 +7329,7 @@ person.greet();  // Output: Hello, John
 
 In JavaScript, events are actions that occur in the browser, such as user interactions like clicks, keypresses, or page loading. JavaScript allows you to handle these events using event listeners.
 
-**Tags**: basic, JavaScript, events
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [events](./theme/events)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7454560520000113952](https://www.tiktok.com/@jsmentoring/photo/7454560520000113952)
 
@@ -7362,7 +7362,7 @@ const obj2 = new Example();
 // Both obj1 and obj2 share the same hidden class.
 ```
 
-**Tags**: advanced, JavaScript, V8 Engine
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [V8 Engine](./theme/v8_engine)
 
 
 
@@ -7386,7 +7386,7 @@ person.fullName = 'Jane Smith';
 console.log(person.firstName); // 'Jane'
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 
 
@@ -7406,7 +7406,7 @@ outerLoop: for (let i = 0; i < 5; i++) {
 }
 ```
 
-**Tags**: basic, JavaScript, control flow
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [control flow](./theme/control_flow)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456494402261798177](https://www.tiktok.com/@jsmentoring/photo/7456494402261798177)
 
@@ -7420,7 +7420,7 @@ Modifiers are flags that alter the behavior of regular expressions. Common modif
 - `i` (ignore case): Ignores case when matching.
 - `m` (multiline): Treats beginning and end characters (^ and $) as working across multiple lines.
 
-**Tags**: basic, JavaScript, regular expressions
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [regular expressions](./theme/regular_expressions)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456586559056268576](https://www.tiktok.com/@jsmentoring/photo/7456586559056268576)
 
@@ -7438,7 +7438,7 @@ let message = `Hello, ${`Mr. ${name}`}!`;
 console.log(message);  // Output: Hello, Mr. John!
 ```
 
-**Tags**: intermediate, JavaScript, Strings
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Strings](./theme/strings)
 
 
 
@@ -7464,7 +7464,7 @@ const age = 30; // number
 const isActive = true; // boolean
 ```
 
-**Tags**: basic, JavaScript, data types
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [data types](./theme/data_types)
 
 
 
@@ -7474,7 +7474,7 @@ const isActive = true; // boolean
 
 Progressive Web Apps (PWAs) are web applications that use modern web capabilities to deliver an app-like experience to users. They are reliable, fast, and engaging, offering offline capabilities, push notifications, and the ability to be installed on the user's device.
 
-**Tags**: basic, JavaScript, web technologies
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [web technologies](./theme/web_technologies)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7453553728059215136](https://www.tiktok.com/@jsmentoring/photo/7453553728059215136)
 
@@ -7493,7 +7493,7 @@ World`;
 console.log(rawStr);  // Output: Hello\nWorld
 ```
 
-**Tags**: advanced, JavaScript, Strings
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Strings](./theme/strings)
 
 
 
@@ -7510,7 +7510,7 @@ const regex = /\d+/; // Matches one or more digits
 console.log('123abc'.match(regex)); // ['123']
 ```
 
-**Tags**: basic, JavaScript, regular expressions
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [regular expressions](./theme/regular_expressions)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456908944020196641](https://www.tiktok.com/@jsmentoring/photo/7456908944020196641)
 
@@ -7530,7 +7530,7 @@ let name = 'John';
 tag`Hello, ${name}!`;  // Output: ['Hello, ', '!'] ['John']
 ```
 
-**Tags**: advanced, JavaScript, Strings
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Strings](./theme/strings)
 
 
 
@@ -7542,7 +7542,7 @@ In JavaScript, tasks (also called 'macrotasks') refer to operations in the event
 
 Tasks are processed in the event loop, and when one task completes, the next one in the queue is executed.
 
-**Tags**: advanced, JavaScript, Event Loop
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Event Loop](./theme/event_loop)
 
 
 
@@ -7560,7 +7560,7 @@ let greeting = `Hello, ${name}!`;
 console.log(greeting);  // Output: Hello, John!
 ```
 
-**Tags**: intermediate, JavaScript, Strings
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Strings](./theme/strings)
 
 
 
@@ -7582,7 +7582,7 @@ person.name = 'Jane';
 console.log(person.name); // 'JANE'
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 
 
@@ -7597,7 +7597,7 @@ Minification provides several benefits:
 
 Tools like UglifyJS, Terser, and Google Closure Compiler can be used for minification.
 
-**Tags**: intermediate, JavaScript, optimization
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [optimization](./theme/optimization)
 
 
 
@@ -7609,7 +7609,7 @@ Module loaders allow you to load JavaScript files and dependencies asynchronousl
 
 Example: Tools like Webpack, RequireJS, and SystemJS are popular module loaders.
 
-**Tags**: advanced, JavaScript, Modules
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Modules](./theme/modules)
 
 
 
@@ -7632,7 +7632,7 @@ function greet(person: string) {
 greet(42); // Error: Argument of type 'number' is not assignable to parameter of type 'string'.
 ```
 
-**Tags**: basic, TypeScript
+**Tags**: [basic](./level/basic), [TypeScript](./theme/typescript)
 
 
 
@@ -7651,7 +7651,7 @@ const result = Object.assign(target, source);
 console.log(result); // { name: 'John', age: 30 }
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7458036822975712544](https://www.tiktok.com/@jsmentoring/photo/7458036822975712544)
 
@@ -7670,7 +7670,7 @@ person.name = 'Jane'; // Allowed
 person.city = 'New York'; // Not allowed
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 
 
@@ -7693,7 +7693,7 @@ arr.push(4); // [1, 2, 3, 4]
 arr.pop();  // [1, 2, 3]
 ```
 
-**Tags**: basic, JavaScript, Arrays
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 
 
@@ -7717,7 +7717,7 @@ console.log(descriptor);
 // { value: 'John', writable: true, enumerable: true, configurable: true }
 ```
 
-**Tags**: intermediate, JavaScript, objects
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 
 
@@ -7740,7 +7740,7 @@ const input = document.querySelector('input');
 console.log(input.validity.rangeUnderflow); // true or false
 ```
 
-**Tags**: intermediate, JavaScript, DOM, validation
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [DOM](./theme/dom), [validation](./theme/validation)
 
 
 
@@ -7771,7 +7771,7 @@ const squared = applyOperation(numbers, num => num * num);
 console.log(squared); // [1, 4, 9]
 ```
 
-**Tags**: basic, JavaScript, Functional Programming
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Functional Programming](./theme/functional_programming)
 
 
 
@@ -7781,7 +7781,7 @@ console.log(squared); // [1, 4, 9]
 
 Initializing variables ensures that they have a defined value when accessed, which helps avoid bugs caused by undefined variables and improves code reliability.
 
-**Tags**: basic, JavaScript, best practices
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [best practices](./theme/best_practices)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456552071349751073](https://www.tiktok.com/@jsmentoring/photo/7456552071349751073)
 
@@ -7791,7 +7791,7 @@ Initializing variables ensures that they have a defined value when accessed, whi
 
 Declaring variables at the top of the scope helps avoid confusion and ensures that the variables are hoisted properly. This practice can also improve code readability and debugging.
 
-**Tags**: basic, JavaScript, best practices
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [best practices](./theme/best_practices)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456506923873996065](https://www.tiktok.com/@jsmentoring/photo/7456506923873996065)
 
@@ -7809,7 +7809,7 @@ const b = 3; // 0011
 console.log(a & b); // 1 (0101 & 0011 = 0001)
 ```
 
-**Tags**: basic, JavaScript, operators
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [operators](./theme/operators)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/video/7457690353714433312](https://www.tiktok.com/@jsmentoring/video/7457690353714433312)
 
@@ -7843,7 +7843,7 @@ Built-in iterables in JavaScript include:
 
 4. **Typed Arrays** and **NodeLists**.
 
-**Tags**: intermediate, JavaScript, Iterables
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Iterables](./theme/iterables)
 
 
 
@@ -7859,7 +7859,7 @@ There are several tools available for minifying JavaScript code:
 
 These tools remove unnecessary characters, such as spaces, comments, and newlines, to reduce the file size.
 
-**Tags**: intermediate, JavaScript, optimization
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [optimization](./theme/optimization)
 
 
 
@@ -7881,7 +7881,7 @@ import { of } from 'rxjs';
 of('Data loaded').subscribe(data => console.log(data));
 ```
 
-**Tags**: advanced, JavaScript, RxJS
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [RxJS](./theme/rxjs)
 
 
 
@@ -7911,7 +7911,7 @@ switch(number) {
 }
 ```
 
-**Tags**: basic, JavaScript, control structures
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [control structures](./theme/control_structures)
 
 
 
@@ -7943,7 +7943,7 @@ oldStyleFunction(1, 2, 3);
 newStyleFunction(1, 2, 3);
 ```
 
-**Tags**: intermediate, JavaScript, Functions
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Functions](./theme/functions)
 
 
 
@@ -7969,7 +7969,7 @@ newStyleFunction(1, 2, 3);
     }
     ```
 
-**Tags**: basic, JavaScript, Loops
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Loops](./theme/loops)
 
 
 
@@ -7996,7 +7996,7 @@ obj2.name = 'Jane'; // Allowed
 obj2.age = 30; // Not allowed
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 
 
@@ -8016,7 +8016,7 @@ let age: number = 30; // TypeScript
 let name = 'John'; // JavaScript
 ```
 
-**Tags**: basic, JavaScript, TypeScript
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [TypeScript](./theme/typescript)
 
 
 
@@ -8032,7 +8032,7 @@ Example:
 - Obfuscation might involve renaming variables in a script.
 - Encryption involves transforming data into a coded format using an encryption algorithm.
 
-**Tags**: intermediate, JavaScript, security
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [security](./theme/security)
 
 
 
@@ -8062,7 +8062,7 @@ ref.key = 'newValue';
 console.log(obj.key); // 'newValue' (reference changed)
 ```
 
-**Tags**: basic, JavaScript, Data Types
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Data Types](./theme/data_types)
 
 
 
@@ -8081,7 +8081,7 @@ Example of Promise:
 let promise = new Promise((resolve, reject) => { resolve('Resolved'); });
 ```
 
-**Tags**: advanced, JavaScript, Promises, Observables
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Promises](./theme/promises), [Observables](./theme/observables)
 
 
 
@@ -8113,7 +8113,7 @@ function increment() {
 }
 ```
 
-**Tags**: intermediate, JavaScript, Functional Programming
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Functional Programming](./theme/functional_programming)
 
 
 
@@ -8143,7 +8143,7 @@ function sum(...args) {
 console.log(sum(1, 2, 3)); // Output: 6
 ```
 
-**Tags**: intermediate, JavaScript, Operators
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Operators](./theme/operators)
 
 
 
@@ -8164,7 +8164,7 @@ weakmap.set(obj, 'value');
 map.set(obj, 'value');
 ```
 
-**Tags**: basic, JavaScript, collections
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [collections](./theme/collections)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7458189087422401825](https://www.tiktok.com/@jsmentoring/photo/7458189087422401825)
 
@@ -8184,7 +8184,7 @@ const weakset = new WeakSet([obj1]);
 const set = new Set([obj1]);
 ```
 
-**Tags**: basic, JavaScript, collections
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [collections](./theme/collections)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7458240152905846048](https://www.tiktok.com/@jsmentoring/photo/7458240152905846048)
 
@@ -8211,7 +8211,7 @@ try {
 }
 ```
 
-**Tags**: basic, JavaScript, errors
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [errors](./theme/errors)
 
 
 
@@ -8244,7 +8244,7 @@ Generators can be categorized based on their usage:
    }
    ```
 
-**Tags**: advanced, JavaScript, Generators
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Generators](./theme/generators)
 
 
 
@@ -8267,7 +8267,7 @@ const element = document.getElementById('myElement');
 const elements = document.getElementsByClassName('myClass');
 ```
 
-**Tags**: basic, JavaScript, DOM manipulation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [DOM manipulation](./theme/dom_manipulation)
 
 
 
@@ -8289,7 +8289,7 @@ console.log(person.name); // Dot notation
 console.log(person['age']); // Bracket notation
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 
 
@@ -8313,7 +8313,7 @@ console.log(person['age']); // Bracket notation
    delete array[1]; // Creates [1, <1 empty item>, 3]
    ```
 
-**Tags**: advanced, JavaScript, Arrays
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 
 
@@ -8338,7 +8338,7 @@ async function fetchData() {
 fetchData();
 ```
 
-**Tags**: advanced, JavaScript, Asynchronous Programming
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Asynchronous Programming](./theme/asynchronous_programming)
 
 
 
@@ -8374,7 +8374,7 @@ fetchData();
    module.myFunction();
    ```
 
-**Tags**: basic, JavaScript, HTML
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [HTML](./theme/html)
 
 
 
@@ -8395,7 +8395,7 @@ Object.preventExtensions(obj);
 console.log(Object.isExtensible(obj)); // false
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 
 
@@ -8418,7 +8418,7 @@ if (!input.checkValidity()) {
 }
 ```
 
-**Tags**: intermediate, JavaScript, DOM, validation
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [DOM](./theme/dom), [validation](./theme/validation)
 
 
 
@@ -8448,7 +8448,7 @@ document.getElementById('myDiv').addEventListener('click', event => {
 });
 ```
 
-**Tags**: intermediate, JavaScript, Events
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Events](./theme/events)
 
 
 
@@ -8492,7 +8492,7 @@ Higher-order functions are functions that can accept other functions as argument
    console.log(names); // ['Alice', 'Bob', 'Charlie']
    ```
 
-**Tags**: basic, JavaScript, Functional Programming
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Functional Programming](./theme/functional_programming)
 
 
 
@@ -8515,7 +8515,7 @@ greet(); // 'Hello, Guest'
 greet('John'); // 'Hello, John'
 ```
 
-**Tags**: basic, JavaScript, functions
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [functions](./theme/functions)
 
 
 
@@ -8535,7 +8535,7 @@ Example:
 undeclaredVar = 10;  // Throws ReferenceError
 ```
 
-**Tags**: advanced, JavaScript, Strict Mode
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Strict Mode](./theme/strict_mode)
 
 
 
@@ -8556,7 +8556,7 @@ Here is a list of validity properties that you can access through the `validity`
 - **badInput**: If the input value is not valid for the input type.
 - **customError**: If a custom validation error has been set using `setCustomValidity`.
 
-**Tags**: intermediate, JavaScript, DOM, validation
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [DOM](./theme/dom), [validation](./theme/validation)
 
 
 
@@ -8583,7 +8583,7 @@ const obj = { a: 1, b: 2 };
 console.log(obj.a); // Inline caching used after first lookup
 ```
 
-**Tags**: advanced, JavaScript, Engines
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Engines](./theme/engines)
 
 
 
@@ -8612,7 +8612,7 @@ function test() {
 test();
 ```
 
-**Tags**: intermediate, JavaScript, Execution Context
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Execution Context](./theme/execution_context)
 
 
 
@@ -8630,7 +8630,7 @@ let age = 25;
 console.log('Name: %s, Age: %d', name, age);  // Output: 'Name: Alice, Age: 25'
 ```
 
-**Tags**: intermediate, JavaScript, Console
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Console](./theme/console)
 
 
 
@@ -8664,7 +8664,7 @@ console.log('Name: %s, Age: %d', name, age);  // Output: 'Name: Alice, Age: 25'
    }
    ```
 
-**Tags**: advanced, JavaScript, Performance
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Performance](./theme/performance)
 
 
 
@@ -8694,7 +8694,7 @@ function logMessage(message) {
 }
 ```
 
-**Tags**: intermediate, JavaScript, Functional Programming
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Functional Programming](./theme/functional_programming)
 
 
 
@@ -8710,7 +8710,7 @@ Example:
 window.postMessage('message', '*');  // Insecure
 ```
 
-**Tags**: advanced, JavaScript, Security
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Security](./theme/security)
 
 
 
@@ -8735,7 +8735,7 @@ const formatter = new Intl.NumberFormat('en-US', { style: 'currency', currency: 
 console.log(formatter.format(1000)); // '$1,000.00'
 ```
 
-**Tags**: basic, JavaScript, internationalization
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [internationalization](./theme/internationalization)
 
 
 
@@ -8751,7 +8751,7 @@ Example:
 console.log(window.innerWidth, window.innerHeight);
 ```
 
-**Tags**: basic, JavaScript, window properties
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [window properties](./theme/window_properties)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456924943062715680](https://www.tiktok.com/@jsmentoring/photo/7456924943062715680)
 
@@ -8763,7 +8763,7 @@ console.log(window.innerWidth, window.innerHeight);
 
 **Cons**: Can be error-prone, especially with complex conditions or manual index management.
 
-**Tags**: basic, JavaScript, loops
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [loops](./theme/loops)
 
 
 
@@ -8773,7 +8773,7 @@ console.log(window.innerWidth, window.innerHeight);
 
 Promises provide cleaner, more readable code with `.then()` and `.catch()` methods. They avoid callback hell, but can introduce complexity with chaining and error handling.
 
-**Tags**: advanced, JavaScript, promises
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [promises](./theme/promises)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7453226425227726112](https://www.tiktok.com/@jsmentoring/photo/7453226425227726112)
 
@@ -8811,7 +8811,7 @@ Promises provide cleaner, more readable code with `.then()` and `.catch()` metho
 3. **Performance Optimization:**
    - Proxy can be used to lazy-load properties or cache data dynamically.
 
-**Tags**: advanced, JavaScript, Proxy
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Proxy](./theme/proxy)
 
 
 
@@ -8827,7 +8827,7 @@ Example:
 const obj = { name: 'John', age: 30 };
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456561892916563233](https://www.tiktok.com/@jsmentoring/photo/7456561892916563233)
 
@@ -8837,7 +8837,7 @@ const obj = { name: 'John', age: 30 };
 
 `return false` is used to prevent both the default behavior and the event propagation in one step. It can be used in an event handler to stop the event from bubbling and cancel the default action.
 
-**Tags**: intermediate, JavaScript, events
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [events](./theme/events)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456163504303787297](https://www.tiktok.com/@jsmentoring/photo/7456163504303787297)
 
@@ -8847,7 +8847,7 @@ const obj = { name: 'John', age: 30 };
 
 String methods like `match()`, `replace()`, `search()`, and `split()` accept regular expressions to perform pattern matching and replacement in strings.
 
-**Tags**: basic, JavaScript, regular expressions
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [regular expressions](./theme/regular_expressions)
 
 
 
@@ -8857,7 +8857,7 @@ String methods like `match()`, `replace()`, `search()`, and `split()` accept reg
 
 JSON syntax rules include using double quotes for keys and string values, no trailing commas, and values can be strings, numbers, objects, arrays, true, false, or null.
 
-**Tags**: basic, JavaScript, data formats
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [data formats](./theme/data_formats)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7453777976652467489](https://www.tiktok.com/@jsmentoring/photo/7453777976652467489)
 
@@ -8867,7 +8867,7 @@ JSON syntax rules include using double quotes for keys and string values, no tra
 
 Common debugging techniques include using `console.log()`, browser developer tools (F12), breakpoints, and using debuggers like Chrome DevTools or Visual Studio Code.
 
-**Tags**: intermediate, JavaScript, debugging
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [debugging](./theme/debugging)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7454541000824917281](https://www.tiktok.com/@jsmentoring/photo/7454541000824917281)
 
@@ -8894,7 +8894,7 @@ while (j < 5) {
 }
 ```
 
-**Tags**: basic, JavaScript, loops
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [loops](./theme/loops)
 
 
 
@@ -8914,7 +8914,7 @@ if (userWantsFeature) {
 }
 ```
 
-**Tags**: advanced, JavaScript, Modules
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Modules](./theme/modules)
 
 
 
@@ -8948,7 +8948,7 @@ Closures allow a function to retain access to its outer scope, even after the ou
    setupEventListener();
    ```
 
-**Tags**: intermediate, JavaScript, Closures
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Closures](./theme/closures)
 
 
 
@@ -8974,7 +8974,7 @@ try {
 }
 ```
 
-**Tags**: basic, JavaScript, errors
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [errors](./theme/errors)
 
 
 
@@ -8984,7 +8984,7 @@ try {
 
 The `location` object has several properties, including `href`, `protocol`, `hostname`, `pathname`, `search`, and `hash`, which allow you to get and manipulate different parts of the current URL.
 
-**Tags**: basic, JavaScript, web navigation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [web navigation](./theme/web_navigation)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7455459948529487136](https://www.tiktok.com/@jsmentoring/photo/7455459948529487136)
 
@@ -9002,7 +9002,7 @@ window.onload = function() {
 };
 ```
 
-**Tags**: basic, JavaScript, page load
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [page load](./theme/page_load)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457929884061469985](https://www.tiktok.com/@jsmentoring/photo/7457929884061469985)
 
@@ -9021,7 +9021,7 @@ int32View[0] = 42;
 console.log(int32View[0]);  // Output: 42
 ```
 
-**Tags**: advanced, JavaScript, Arrays
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 
 
@@ -9038,7 +9038,7 @@ Examples:
 - Logical: `&&`, `||`
 - Assignment: `=`, `+=`, `-=`
 
-**Tags**: basic, JavaScript, operators
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [operators](./theme/operators)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457453251810561313](https://www.tiktok.com/@jsmentoring/photo/7457453251810561313)
 
@@ -9056,7 +9056,7 @@ let strObj = new String(str);
 console.log(strObj.toUpperCase());  // Output: 'HELLO'
 ```
 
-**Tags**: intermediate, JavaScript, Data Types
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Data Types](./theme/data_types)
 
 
 
@@ -9074,7 +9074,7 @@ console.log(Object.getPrototypeOf(str)); // Works fine
 console.log(Object.getPrototypeOf('hello')); // TypeError
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 
 
@@ -9092,7 +9092,7 @@ let arr2 = [4, 5, 6];
 console.log(arr1 + arr2);  // Output: '1,2,34,5,6'
 ```
 
-**Tags**: intermediate, JavaScript, Arrays
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 
 
@@ -9109,7 +9109,7 @@ function myFunction(a, ...rest, b) { // SyntaxError
 }
 ```
 
-**Tags**: basic, JavaScript, functions
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [functions](./theme/functions)
 
 
 
@@ -9132,7 +9132,7 @@ const person = new Person();
 console.log(person.name); // John
 ```
 
-**Tags**: basic, JavaScript, classes
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [classes](./theme/classes)
 
 
 
@@ -9151,7 +9151,7 @@ arr = [];
 console.log(!arr);  // Output: true
 ```
 
-**Tags**: intermediate, JavaScript, Arrays
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 
 
@@ -9168,7 +9168,7 @@ let a = (1, 2, 3);
 console.log(a); // 3
 ```
 
-**Tags**: basic, JavaScript, operators
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [operators](./theme/operators)
 
 
 
@@ -9184,7 +9184,7 @@ Example:
 const result = (age >= 18) ? 'Adult' : 'Minor';
 ```
 
-**Tags**: basic, JavaScript, operators
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [operators](./theme/operators)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457925912974216481](https://www.tiktok.com/@jsmentoring/photo/7457925912974216481)
 
@@ -9207,7 +9207,7 @@ const person = new Person('John', 30);
 console.log(person.name); // John
 ```
 
-**Tags**: basic, JavaScript, classes
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [classes](./theme/classes)
 
 
 
@@ -9224,7 +9224,7 @@ debugger;
 console.log('This will pause execution');
 ```
 
-**Tags**: basic, JavaScript, debugging
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [debugging](./theme/debugging)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457945315644165408](https://www.tiktok.com/@jsmentoring/photo/7457945315644165408)
 
@@ -9255,7 +9255,7 @@ const obj = new MyClass();
 obj.myMethod(); // Logs: 'Calling myMethod' and 'Method executed'
 ```
 
-**Tags**: basic, JavaScript, design patterns
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [design patterns](./theme/design_patterns)
 
 
 
@@ -9273,7 +9273,7 @@ Object.freeze(obj);
 obj.name = 'Jane'; // This won't change the name
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457554518977285408](https://www.tiktok.com/@jsmentoring/photo/7457554518977285408)
 
@@ -9290,7 +9290,7 @@ Example:
 ```javascript
 Promise.resolve().then(() => console.log('Microtask executed'));
 
-**Tags**: advanced, JavaScript, Event Loop
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Event Loop](./theme/event_loop)
 
 
 
@@ -9310,7 +9310,7 @@ if (!Array.prototype.includes) {
 }
 ```
 
-**Tags**: basic, JavaScript, web development
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [web development](./theme/web_development)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456405893618437409](https://www.tiktok.com/@jsmentoring/photo/7456405893618437409)
 
@@ -9330,7 +9330,7 @@ function factorial(n, acc = 1) {
 console.log(factorial(5));  // Output: 120
 ```
 
-**Tags**: advanced, JavaScript, Optimization
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Optimization](./theme/optimization)
 
 
 
@@ -9358,7 +9358,7 @@ const proxyPerson = new Proxy(person, handler);
 console.log(proxyPerson.name); // 'Jane'
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7458050469735320865](https://www.tiktok.com/@jsmentoring/photo/7458050469735320865)
 
@@ -9375,7 +9375,7 @@ const regex = new RegExp('\d+');
 console.log(regex.test('123')); // true
 ```
 
-**Tags**: basic, JavaScript, regular expressions
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [regular expressions](./theme/regular_expressions)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456579932475362592](https://www.tiktok.com/@jsmentoring/photo/7456579932475362592)
 
@@ -9392,7 +9392,7 @@ const regex = /\d+/;
 console.log(regex.test('123')); // true
 ```
 
-**Tags**: basic, JavaScript, regular expressions
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [regular expressions](./theme/regular_expressions)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456774238825925920](https://www.tiktok.com/@jsmentoring/photo/7456774238825925920)
 
@@ -9411,7 +9411,7 @@ function sum(...numbers) {
 console.log(sum(1, 2, 3, 4)); // 10
 ```
 
-**Tags**: basic, JavaScript, functions
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [functions](./theme/functions)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457471528330988832](https://www.tiktok.com/@jsmentoring/photo/7457471528330988832)
 
@@ -9431,7 +9431,7 @@ let a = false;
 let b = true;
 console.log(a && b);  // 'false', 'b' is not evaluated
 
-**Tags**: intermediate, JavaScript, Logical Operators
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Logical Operators](./theme/logical_operators)
 
 
 
@@ -9456,7 +9456,7 @@ const obj2 = { ...obj1, city: 'New York' };
 console.log(obj2); // { name: 'John', age: 30, city: 'New York' }
 ```
 
-**Tags**: basic, JavaScript, operators
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [operators](./theme/operators)
 
 
 
@@ -9474,7 +9474,7 @@ const thunk = (a, b) => () => add(a, b);
 const result = thunk(2, 3)();  // Output: 5
 ```
 
-**Tags**: advanced, JavaScript, Functional Programming
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Functional Programming](./theme/functional_programming)
 
 
 
@@ -9491,7 +9491,7 @@ void(0);  // Returns undefined
 void(console.log('Hello'));  // Logs 'Hello' and returns undefined
 ```
 
-**Tags**: intermediate, JavaScript, Operators
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Operators](./theme/operators)
 
 
 
@@ -9510,7 +9510,7 @@ weakmap.set(obj1, 'value');
 console.log(weakmap.get(obj1)); // 'value'
 ```
 
-**Tags**: basic, JavaScript, collections
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [collections](./theme/collections)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7458221758114516256](https://www.tiktok.com/@jsmentoring/photo/7458221758114516256)
 
@@ -9529,7 +9529,7 @@ const weakset = new WeakSet([obj1, obj2]);
 console.log(weakset.has(obj1)); // true
 ```
 
-**Tags**: basic, JavaScript, collections
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [collections](./theme/collections)
 
 
 
@@ -9547,7 +9547,7 @@ fetch('https://api.example.com/data')
   .then(data => console.log(data));
 ```
 
-**Tags**: intermediate, JavaScript, AJAX
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [AJAX](./theme/ajax)
 
 
 
@@ -9564,7 +9564,7 @@ const greet = function() { console.log('Hello'); };
 greet(); // 'Hello'
 ```
 
-**Tags**: basic, JavaScript, functions
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [functions](./theme/functions)
 
 
 
@@ -9574,7 +9574,7 @@ greet(); // 'Hello'
 
 The app shell model is a design approach where the static structure of a web app (such as HTML, CSS, and JavaScript) is cached and loaded first, followed by dynamic content. This approach is used in Progressive Web Apps (PWAs).
 
-**Tags**: basic, JavaScript, web development
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [web development](./theme/web_development)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456136059966049568](https://www.tiktok.com/@jsmentoring/photo/7456136059966049568)
 
@@ -9591,7 +9591,7 @@ function test() {
 test(1, 2, 3); // { '0': 1, '1': 2, '2': 3 }
 ```
 
-**Tags**: basic, JavaScript, functions
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [functions](./theme/functions)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7455473337897061664](https://www.tiktok.com/@jsmentoring/photo/7455473337897061664)
 
@@ -9612,7 +9612,7 @@ async function fetchData() {
 fetchData();
 ```
 
-**Tags**: basic, JavaScript, Asynchronous Programming
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Asynchronous Programming](./theme/asynchronous_programming)
 
 
 
@@ -9629,7 +9629,7 @@ for (let i = 0; i < 5; i++) { ; }
 // No operation happens in the loop, but the loop is still valid
 ```
 
-**Tags**: basic, JavaScript, statements
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [statements](./theme/statements)
 
 
 
@@ -9651,7 +9651,7 @@ let color: Color = Color.Red;
 console.log(color); // 'RED'
 ```
 
-**Tags**: intermediate, JavaScript, TypeScript
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [TypeScript](./theme/typescript)
 
 
 
@@ -9676,7 +9676,7 @@ function example() {
 }
 ```
 
-**Tags**: advanced, JavaScript, Execution Context
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Execution Context](./theme/execution_context)
 
 
 
@@ -9697,7 +9697,7 @@ try {
 }
 ```
 
-**Tags**: basic, JavaScript, errors
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [errors](./theme/errors)
 
 
 
@@ -9707,7 +9707,7 @@ try {
 
 Event delegation is a technique where you attach a single event listener to a parent element, which handles events for its child elements. This is more efficient than adding event listeners to each child element individually.
 
-**Tags**: intermediate, JavaScript, events
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [events](./theme/events)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7455085016050060576](https://www.tiktok.com/@jsmentoring/photo/7455085016050060576)
 
@@ -9726,7 +9726,7 @@ console.log('End');
 // Output: 'Start', 'End', 'Timeout'
 ```
 
-**Tags**: basic, JavaScript, concurrency model
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [concurrency model](./theme/concurrency_model)
 
 
 
@@ -9744,7 +9744,7 @@ console.log('Start');
 // Output: 'Start', 'Event'
 ```
 
-**Tags**: basic, JavaScript, concurrency model
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [concurrency model](./theme/concurrency_model)
 
 
 
@@ -9754,7 +9754,7 @@ console.log('Start');
 
 An event table is a structure used by the JavaScript engine to manage event handling. It tracks which event listeners are registered for specific events, ensuring that when an event occurs, the appropriate listener is invoked.
 
-**Tags**: advanced, JavaScript, Event Loop
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Event Loop](./theme/event_loop)
 
 
 
@@ -9772,7 +9772,7 @@ const formatter = new Intl.NumberFormat('en-US');
 console.log(formatter.format(number)); // '123,456.789'
 ```
 
-**Tags**: basic, JavaScript, internationalization
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [internationalization](./theme/internationalization)
 
 
 
@@ -9791,7 +9791,7 @@ console.log(iterator.next()); // { value: 1, done: false }
 console.log(iterator.next()); // { value: 2, done: false }
 ```
 
-**Tags**: basic, JavaScript, iterators
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [iterators](./theme/iterators)
 
 
 
@@ -9808,7 +9808,7 @@ const person = { name: 'John', age: 30 };
 console.log(person.name); // John
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 
 
@@ -9831,7 +9831,7 @@ let observable = new Observable(observer => {
 });
 observable.subscribe(value => console.log(value));
 
-**Tags**: advanced, JavaScript, RxJS
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [RxJS](./theme/rxjs)
 
 
 
@@ -9858,7 +9858,7 @@ console.log(a++); // 6
 console.log(a); // 7
 ```
 
-**Tags**: basic, JavaScript, operators
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [operators](./theme/operators)
 
 
 
@@ -9877,7 +9877,7 @@ view[0] = 255;
 console.log(view[0]);  // Output: 255
 ```
 
-**Tags**: intermediate, JavaScript, Binary Data
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Binary Data](./theme/binary_data)
 
 
 
@@ -9893,7 +9893,7 @@ Example of a Babel transformation:
 let greet = () => console.log('Hello');  // ES6 arrow function
 ```
 
-**Tags**: intermediate, JavaScript, Tools
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Tools](./theme/tools)
 
 
 
@@ -9903,7 +9903,7 @@ let greet = () => console.log('Hello');  // ES6 arrow function
 
 The Browser Object Model (BOM) allows JavaScript to interact with the browser outside of the DOM. It includes objects like `window`, `navigator`, `screen`, and `location`, enabling you to control browser-related functions.
 
-**Tags**: intermediate, JavaScript, browser
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [browser](./theme/browser)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7454626475623468320](https://www.tiktok.com/@jsmentoring/photo/7454626475623468320)
 
@@ -9926,7 +9926,7 @@ a();
 // Call stack will be: [a(), b()]
 ```
 
-**Tags**: basic, JavaScript, execution context
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [execution context](./theme/execution_context)
 
 
 
@@ -9944,7 +9944,7 @@ let result = collator.compare('apple', 'banana');
 console.log(result);  // Output: -1
 ```
 
-**Tags**: advanced, JavaScript, Internationalization
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Internationalization](./theme/internationalization)
 
 
 
@@ -9969,7 +9969,7 @@ const log = debounce(() => console.log('Debounced!'), 300);
 window.addEventListener('resize', log);
 ```
 
-**Tags**: intermediate, JavaScript, Performance
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Performance](./theme/performance)
 
 
 
@@ -9991,7 +9991,7 @@ Example:
 console.log('Hello, Deno!');
 ```
 
-**Tags**: intermediate, JavaScript, Runtime
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Runtime](./theme/runtime)
 
 
 
@@ -10010,7 +10010,7 @@ console.log(fullName);  // Output: 'Alice'
 console.log(yearsOld);  // Output: 25
 ```
 
-**Tags**: intermediate, JavaScript, Destructuring
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Destructuring](./theme/destructuring)
 
 
 
@@ -10033,7 +10033,7 @@ let { name, age } = { name: 'John', age: 30 };
 console.log(name, age);  // Output: John 30
 ```
 
-**Tags**: intermediate, JavaScript, Destructuring
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Destructuring](./theme/destructuring)
 
 
 
@@ -10043,7 +10043,7 @@ console.log(name, age);  // Output: John 30
 
 ECMAScript is the standard specification that JavaScript is based on. It defines the core features and behavior of JavaScript, and different versions of ECMAScript introduce new features to the language.
 
-**Tags**: basic, JavaScript, standards
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [standards](./theme/standards)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7453531864133815584](https://www.tiktok.com/@jsmentoring/photo/7453531864133815584)
 
@@ -10053,7 +10053,7 @@ ECMAScript is the standard specification that JavaScript is based on. It defines
 
 ES6 (ECMAScript 2015) is the sixth version of the ECMAScript standard, which defines the scripting language that JavaScript is based on. ES6 introduced many new features, such as `let`, `const`, arrow functions, promises, and modules, making JavaScript more powerful and easier to work with.
 
-**Tags**: intermediate, JavaScript, ES6
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [ES6](./theme/es6)
 
 
 
@@ -10063,7 +10063,7 @@ ES6 (ECMAScript 2015) is the sixth version of the ECMAScript standard, which def
 
 Event capturing is the process where an event is first captured by the outermost element before it reaches the target element. This is the opposite of event bubbling.
 
-**Tags**: intermediate, JavaScript, events
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [events](./theme/events)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7451534594895056160](https://www.tiktok.com/@jsmentoring/photo/7451534594895056160)
 
@@ -10083,7 +10083,7 @@ for (let value of arr) {
 // Output: 10 20 30
 ```
 
-**Tags**: intermediate, JavaScript, Loops
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Loops](./theme/loops)
 
 
 
@@ -10105,7 +10105,7 @@ const composed = compose(multiply, add);
 console.log(composed(5)); // 12
 ```
 
-**Tags**: advanced, JavaScript, Functional Programming
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Functional Programming](./theme/functional_programming)
 
 
 
@@ -10134,7 +10134,7 @@ function example() {
 example();
 ```
 
-**Tags**: intermediate, JavaScript, Execution Context
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Execution Context](./theme/execution_context)
 
 
 
@@ -10160,7 +10160,7 @@ console.log(this); // window in browsers
 var a = 10; // Part of global execution context
 ```
 
-**Tags**: intermediate, JavaScript, Execution Context
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Execution Context](./theme/execution_context)
 
 
 
@@ -10179,7 +10179,7 @@ var a = 10; // Part of global execution context
    console.log(globalThis); // In browsers, equivalent to window.
    ```
 
-**Tags**: basic, JavaScript, Global Objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Global Objects](./theme/global_objects)
 
 
 
@@ -10191,7 +10191,7 @@ The heap is a region of memory used for dynamic memory allocation in JavaScript.
 
 When an object is created, it is stored in the heap, while primitive types are stored in the stack.
 
-**Tags**: intermediate, JavaScript, Memory
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Memory](./theme/memory)
 
 
 
@@ -10221,7 +10221,7 @@ const obj2 = { value: 20 };
 console.log(add(obj1, obj2)); // Inline caching optimizes property access.
 ```
 
-**Tags**: advanced, JavaScript, V8 Engine
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [V8 Engine](./theme/v8_engine)
 
 
 
@@ -10239,7 +10239,7 @@ $(document).ready(function() {
 });
 ```
 
-**Tags**: basic, JavaScript, libraries
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [libraries](./theme/libraries)
 
 
 
@@ -10249,7 +10249,7 @@ $(document).ready(function() {
 
 JSON (JavaScript Object Notation) is a lightweight data-interchange format that is easy for humans to read and write, and easy for machines to parse and generate. It is often used to exchange data between a client and server.
 
-**Tags**: basic, JavaScript, data formats
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [data formats](./theme/data_formats)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456025885263629601](https://www.tiktok.com/@jsmentoring/photo/7456025885263629601)
 
@@ -10281,7 +10281,7 @@ function outer() {
 outer();
 ```
 
-**Tags**: basic, JavaScript, Scope
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Scope](./theme/scope)
 
 
 
@@ -10297,7 +10297,7 @@ MEAN is an acronym for a stack of technologies used for building web application
 
 The MEAN stack provides a full-stack JavaScript solution for both client-side and server-side development.
 
-**Tags**: basic, JavaScript, frameworks
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [frameworks](./theme/frameworks)
 
 
 
@@ -10314,7 +10314,7 @@ Example of a microtask:
 ```javascript
 Promise.resolve().then(() => console.log('Microtask executed'));
 
-**Tags**: advanced, JavaScript, Event Loop
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Event Loop](./theme/event_loop)
 
 
 
@@ -10336,7 +10336,7 @@ function sum(a, b) {
 function sum(a,b){return a+b;}
 ```
 
-**Tags**: intermediate, JavaScript, optimization
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [optimization](./theme/optimization)
 
 
 
@@ -10352,7 +10352,7 @@ For example, in modern browsers, the minimum delay is typically 4ms for backgrou
 setTimeout(() => console.log('Executed after delay'), 0);
 ```
 
-**Tags**: advanced, JavaScript, Performance
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Performance](./theme/performance)
 
 
 
@@ -10383,7 +10383,7 @@ myModule.publicMethod(); // 'I am private'
 console.log(myModule.privateVar); // undefined
 ```
 
-**Tags**: intermediate, JavaScript, Design Patterns
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Design Patterns](./theme/design_patterns)
 
 
 
@@ -10405,7 +10405,7 @@ const server = http.createServer((req, res) => {
 server.listen(3000);
 ```
 
-**Tags**: basic, JavaScript, runtime
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [runtime](./theme/runtime)
 
 
 
@@ -10425,7 +10425,7 @@ const number = 0;
 console.log(number ?? 42); // Output: 0
 ```
 
-**Tags**: basic, JavaScript, Operators
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Operators](./theme/operators)
 
 
 
@@ -10445,7 +10445,7 @@ function add(a, b) { return a + b; }
 var _0x1234 = function(_0x5678, _0x9abc) { return _0x5678 + _0x9abc; };
 ```
 
-**Tags**: intermediate, JavaScript, security
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [security](./theme/security)
 
 
 
@@ -10463,7 +10463,7 @@ console.log(user.profile?.name); // 'Alice'
 console.log(user.address?.street); // undefined
 ```
 
-**Tags**: basic, JavaScript, Operators
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Operators](./theme/operators)
 
 
 
@@ -10495,7 +10495,7 @@ obj2.key = 'newValue';
 console.log(obj1.key); // 'newValue' (pass by reference)
 ```
 
-**Tags**: intermediate, JavaScript, Memory Management
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Memory Management](./theme/memory_management)
 
 
 
@@ -10523,7 +10523,7 @@ function increment() {
 }
 ```
 
-**Tags**: advanced, JavaScript, Functional Programming
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Functional Programming](./theme/functional_programming)
 
 
 
@@ -10542,7 +10542,7 @@ import { from } from 'rxjs';
 from([1, 2, 3]).subscribe(x => console.log(x));
 ```
 
-**Tags**: advanced, JavaScript, RxJS
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [RxJS](./theme/rxjs)
 
 
 
@@ -10552,7 +10552,7 @@ from([1, 2, 3]).subscribe(x => console.log(x));
 
 The same-origin policy is a security measure that restricts how a document or script loaded from one origin can interact with resources from another origin.
 
-**Tags**: intermediate, JavaScript, security
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [security](./theme/security)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7454519704300948768](https://www.tiktok.com/@jsmentoring/photo/7454519704300948768)
 
@@ -10569,7 +10569,7 @@ let x = (a = 1, b = 2, a + b);
 console.log(x); // 3
 ```
 
-**Tags**: basic, JavaScript, operators
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [operators](./theme/operators)
 
 
 
@@ -10588,7 +10588,7 @@ function greet(name) {  // 'name' is the parameter
 greet('John');  // 'John' is the argument
 ```
 
-**Tags**: basic, JavaScript, Functions
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Functions](./theme/functions)
 
 
 
@@ -10598,7 +10598,7 @@ greet('John');  // 'John' is the argument
 
 An attribute is a value set in the HTML (e.g., `src` in an `img` tag), while a property is a value associated with the element in JavaScript (e.g., `element.src`).
 
-**Tags**: basic, JavaScript, DOM
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [DOM](./theme/dom)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7453198212661382432](https://www.tiktok.com/@jsmentoring/photo/7453198212661382432)
 
@@ -10623,7 +10623,7 @@ An attribute is a value set in the HTML (e.g., `src` in an `img` tag), while a p
     console.log(sparseArray[1]); // undefined
     ```
 
-**Tags**: intermediate, JavaScript, Arrays
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 
 
@@ -10633,7 +10633,7 @@ An attribute is a value set in the HTML (e.g., `src` in an `img` tag), while a p
 
 The `DOMContentLoaded` event fires when the HTML is completely loaded and parsed, while the `load` event waits for all resources (including images and stylesheets) to load.
 
-**Tags**: intermediate, JavaScript, events
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [events](./theme/events)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7451559472939437344](https://www.tiktok.com/@jsmentoring/photo/7451559472939437344)
 
@@ -10659,7 +10659,7 @@ function foo() { return 'Hello'; }
 class Bar { constructor() { console.log('Bar created'); } }
 ```
 
-**Tags**: intermediate, JavaScript, Declarations
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Declarations](./theme/declarations)
 
 
 
@@ -10679,7 +10679,7 @@ function greet() { console.log('Hello'); }
 let greet = new Function('console.log("Hello")');
 ```
 
-**Tags**: intermediate, JavaScript, Functions
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Functions](./theme/functions)
 
 
 
@@ -10701,7 +10701,7 @@ const person = {
 console.log(person.fullName); // 'John Doe'
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 
 
@@ -10724,7 +10724,7 @@ Example of external JavaScript:
 <script src='script.js'></script>
 ```
 
-**Tags**: basic, JavaScript, Script Tag
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Script Tag](./theme/script_tag)
 
 
 
@@ -10747,7 +10747,7 @@ console.log(isNaN('hello')); // true (coerced to NaN)
 console.log(Number.isNaN('hello')); // false (strict check)
 ```
 
-**Tags**: basic, JavaScript, Numbers
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Numbers](./theme/numbers)
 
 
 
@@ -10762,7 +10762,7 @@ Java and JavaScript are two distinct programming languages with different use ca
 
 Despite the similar names, they are unrelated in terms of syntax and functionality.
 
-**Tags**: basic, JavaScript, comparison
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [comparison](./theme/comparison)
 
 
 
@@ -10790,7 +10790,7 @@ console.log(doubled); // [2, 4, 6]
 numbers.forEach(num => console.log(num * 2)); // Logs: 2, 4, 6
 ```
 
-**Tags**: basic, JavaScript, Array Methods
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Array Methods](./theme/array_methods)
 
 
 
@@ -10800,7 +10800,7 @@ numbers.forEach(num => console.log(num * 2)); // Logs: 2, 4, 6
 
 Native objects are built-in objects like `Object` and `Array`. Host objects are provided by the environment (e.g., browser or Node.js), like `window` or `document`. User objects are those defined by the developer.
 
-**Tags**: advanced, JavaScript, objects
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7451546871723576608](https://www.tiktok.com/@jsmentoring/photo/7451546871723576608)
 
@@ -10821,7 +10821,7 @@ Person.prototype.greet = function() {
 };
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 
 
@@ -10841,7 +10841,7 @@ document.body.style.width = '500px';  // Triggers reflow
 document.body.style.backgroundColor = 'red';  // Triggers repaint
 ```
 
-**Tags**: advanced, JavaScript, Performance
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Performance](./theme/performance)
 
 
 
@@ -10870,7 +10870,7 @@ document.body.style.backgroundColor = 'red';  // Triggers repaint
      process.nextTick(() => console.log('Next Tick'));
      ```
 
-**Tags**: advanced, Node.js, Timers
+**Tags**: [advanced](./level/advanced), [Node.js](./theme/node_js), [Timers](./theme/timers)
 
 
 
@@ -10898,7 +10898,7 @@ console.log(arr);  // Output: [1, [99, 3]]
 console.log(deepCopy);  // Output: [1, [100, 3]]
 ```
 
-**Tags**: intermediate, JavaScript, Objects
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Objects](./theme/objects)
 
 
 
@@ -10920,7 +10920,7 @@ if (!Array.prototype.includes) {
 }
 ```
 
-**Tags**: intermediate, JavaScript, Compatibility
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Compatibility](./theme/compatibility)
 
 
 
@@ -10942,7 +10942,7 @@ console.log(str.substring(0, 4)); // 'Java'
 console.log(str.substr(0, 4));    // 'Java'
 ```
 
-**Tags**: basic, JavaScript, String Methods
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [String Methods](./theme/string_methods)
 
 
 
@@ -10960,7 +10960,7 @@ const code = 'console.log("Hello")';
 eval(code); // Executes code
 ```
 
-**Tags**: basic, JavaScript, eval
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [eval](./theme/eval)
 
 
 
@@ -10987,7 +10987,7 @@ if (x > 0 || y > 5) {
 }
 ```
 
-**Tags**: basic, JavaScript, Conditionals
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Conditionals](./theme/conditionals)
 
 
 
@@ -11008,7 +11008,7 @@ let obj = arr.reduce((acc, curr, index) => {
 console.log(obj);  // Output: { 0: 'apple', 1: 'banana', 2: 'cherry' }
 ```
 
-**Tags**: intermediate, JavaScript, Arrays
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 
 
@@ -11034,7 +11034,7 @@ async function fetchData() {
 }
 ```
 
-**Tags**: basic, JavaScript, Promises
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Promises](./theme/promises)
 
 
 
@@ -11053,7 +11053,7 @@ console.log(arr);  // Output: [1, 2]
 arr.length = 5;  // Expand the array
 console.log(arr);  // Output: [1, 2, <3 empty slots>]
 
-**Tags**: intermediate, JavaScript, Arrays
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 
 
@@ -11072,7 +11072,7 @@ console.log(Object.values(person)); // ['John', 30]
 console.log(Object.entries(person)); // [['name', 'John'], ['age', 30]]
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7458282098579737889](https://www.tiktok.com/@jsmentoring/photo/7458282098579737889)
 
@@ -11082,7 +11082,7 @@ console.log(Object.entries(person)); // [['name', 'John'], ['age', 30]]
 
 Tree shaking is necessary to eliminate dead code, improve the performance of web applications, and reduce the size of JavaScript bundles, leading to faster load times and better user experiences.
 
-**Tags**: basic, JavaScript, optimization
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [optimization](./theme/optimization)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456574498947599648](https://www.tiktok.com/@jsmentoring/photo/7456574498947599648)
 
@@ -11099,7 +11099,7 @@ let num = '5';
 console.log(+num);  // Output: 5
 ```
 
-**Tags**: intermediate, JavaScript, Operators
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Operators](./theme/operators)
 
 
 
@@ -11118,7 +11118,7 @@ function foo() {
 console.log(foo());  // Output: 'Hello, World!'
 ```
 
-**Tags**: intermediate, JavaScript, Functions
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Functions](./theme/functions)
 
 
 
@@ -11136,7 +11136,7 @@ let arr2 = [...arr1, 4, 5];
 console.log(arr2);  // Output: [1, 2, 3, 4, 5]
 ```
 
-**Tags**: intermediate, JavaScript, Spread Operator
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Spread Operator](./theme/spread_operator)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457941742650789152](https://www.tiktok.com/@jsmentoring/photo/7457941742650789152)
 
@@ -11153,7 +11153,7 @@ let str = 'Hello' + ' ' + 'World';
 console.log(str);  // Output: 'Hello World'
 ```
 
-**Tags**: intermediate, JavaScript, String Manipulation
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [String Manipulation](./theme/string_manipulation)
 
 
 
@@ -11173,7 +11173,7 @@ console.log(+undefined);  // Output: NaN
 console.log(+NaN);  // Output: NaN
 ```
 
-**Tags**: intermediate, JavaScript, Operators
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Operators](./theme/operators)
 
 
 
@@ -11197,7 +11197,7 @@ for (let i = 0; i < 3; i++) {
 2
 ```
 
-**Tags**: basic, JavaScript, Loops
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Loops](./theme/loops)
 
 
 
@@ -11219,7 +11219,7 @@ greet();
 console.log(name); // 'Global'
 ```
 
-**Tags**: basic, JavaScript, variables
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [variables](./theme/variables)
 
 
 
@@ -11229,7 +11229,7 @@ console.log(name); // 'Global'
 
 `JSON.stringify()` is used to convert a JavaScript object into a JSON string, which can be sent to a server or stored for later use.
 
-**Tags**: basic, JavaScript, data formats
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [data formats](./theme/data_formats)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7458382016141200673](https://www.tiktok.com/@jsmentoring/photo/7458382016141200673)
 
@@ -11241,7 +11241,7 @@ Breakpoints are used in debugging to pause the execution of JavaScript at a spec
 
 Example: You can set a breakpoint in the browser's developer tools to pause execution at a specific line.
 
-**Tags**: basic, JavaScript, debugging
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [debugging](./theme/debugging)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457249779840486688](https://www.tiktok.com/@jsmentoring/photo/7457249779840486688)
 
@@ -11251,7 +11251,7 @@ Example: You can set a breakpoint in the browser's developer tools to pause exec
 
 The `clearInterval()` method is used to cancel a timeout set by `setInterval()`. It stops the function from being called repeatedly after the specified interval.
 
-**Tags**: basic, JavaScript, timing
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [timing](./theme/timing)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457687525340089633](https://www.tiktok.com/@jsmentoring/photo/7457687525340089633)
 
@@ -11261,7 +11261,7 @@ The `clearInterval()` method is used to cancel a timeout set by `setInterval()`.
 
 The `clearTimeout()` method is used to cancel a timeout that was previously established by calling `setTimeout()`. It prevents the function from being executed after the specified delay.
 
-**Tags**: basic, JavaScript, timing
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [timing](./theme/timing)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7453583130859949344](https://www.tiktok.com/@jsmentoring/photo/7453583130859949344)
 
@@ -11279,7 +11279,7 @@ arr.sort((a, b) => a - b);
 console.log(arr); // [1, 2, 3]
 ```
 
-**Tags**: basic, JavaScript, arrays
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [arrays](./theme/arrays)
 
 
 
@@ -11296,7 +11296,7 @@ let obj = { name: 'Alice', age: 25 };
 console.dir(obj);
 ```
 
-**Tags**: intermediate, JavaScript, Console
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Console](./theme/console)
 
 
 
@@ -11313,7 +11313,7 @@ let num = 4.7;
 console.log(~~num);  // Output: 4
 ```
 
-**Tags**: intermediate, JavaScript, Operators
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Operators](./theme/operators)
 
 
 
@@ -11333,7 +11333,7 @@ try {
 }
 ```
 
-**Tags**: basic, JavaScript, Error Handling
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Error Handling](./theme/error_handling)
 
 
 
@@ -11353,7 +11353,7 @@ try {
 }
 ```
 
-**Tags**: intermediate, JavaScript, Error Handling
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Error Handling](./theme/error_handling)
 
 
 
@@ -11370,7 +11370,7 @@ const regex = /\d+/;
 console.log(regex.exec('abc123')); // ['123']
 ```
 
-**Tags**: basic, JavaScript, regular expressions
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [regular expressions](./theme/regular_expressions)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456816176019082529](https://www.tiktok.com/@jsmentoring/photo/7456816176019082529)
 
@@ -11388,7 +11388,7 @@ Object.freeze(obj);
 obj.key = 'new value'; // Won't work
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 
 
@@ -11403,7 +11403,7 @@ Example:
 ```javascript
 queueMicrotask(() => console.log('Microtask executed'));
 
-**Tags**: advanced, JavaScript, Event Loop
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Event Loop](./theme/event_loop)
 
 
 
@@ -11431,7 +11431,7 @@ function animate() {
 requestAnimationFrame(animate);
 ```
 
-**Tags**: intermediate, JavaScript, Web APIs
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Web APIs](./theme/web_apis)
 
 
 
@@ -11451,7 +11451,7 @@ console.log(person.name); // 'Jane'
 person.age = 30; // This won't work
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7458057057950895392](https://www.tiktok.com/@jsmentoring/photo/7458057057950895392)
 
@@ -11469,7 +11469,7 @@ let hasEven = numbers.some(num => num % 2 === 0);
 console.log(hasEven);  // Output: true
 ```
 
-**Tags**: basic, JavaScript, Arrays
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 
 
@@ -11495,7 +11495,7 @@ switch(fruit) {
 }
 ```
 
-**Tags**: basic, JavaScript, control structures
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [control structures](./theme/control_structures)
 
 
 
@@ -11523,7 +11523,7 @@ const obj = {
 obj.greet(); // 'Hello, Alice'
 ```
 
-**Tags**: basic, JavaScript, Scope
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Scope](./theme/scope)
 
 
 
@@ -11540,7 +11540,7 @@ const obj = { name: 'John' };
 console.log(uneval(obj)); // '({ name: "John" })'
 ```
 
-**Tags**: basic, JavaScript, eval
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [eval](./theme/eval)
 
 
 
@@ -11557,7 +11557,7 @@ console.log(Object.is(-0, +0)); // false
 console.log(Object.is(NaN, NaN)); // true
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 
 
@@ -11567,7 +11567,7 @@ console.log(Object.is(NaN, NaN)); // true
 
 `void 0` is used to return `undefined` in JavaScript. It's a more reliable method than using `undefined` directly, which can be overwritten in some cases.
 
-**Tags**: advanced, JavaScript, operators
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [operators](./theme/operators)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/video/7454350834697080096](https://www.tiktok.com/@jsmentoring/video/7454350834697080096)
 
@@ -11584,7 +11584,7 @@ let timestamp = Date.now();
 console.log(timestamp);  // Output: current timestamp in milliseconds
 ```
 
-**Tags**: basic, JavaScript, Date
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Date](./theme/date)
 
 
 
@@ -11594,7 +11594,7 @@ console.log(timestamp);  // Output: current timestamp in milliseconds
 
 The `preventDefault()` method is used to cancel the default behavior of an event. For example, you can prevent the form from submitting or a link from navigating to a new page.
 
-**Tags**: basic, JavaScript, events
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [events](./theme/events)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7454611976598113568](https://www.tiktok.com/@jsmentoring/photo/7454611976598113568)
 
@@ -11608,7 +11608,7 @@ The `setInterval()` method calls a function or code snippet repeatedly, with a f
 setInterval(function(){ console.log('Hello!'); }, 1000);
 ```
 
-**Tags**: basic, JavaScript, timing
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [timing](./theme/timing)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7455059689315896609](https://www.tiktok.com/@jsmentoring/photo/7455059689315896609)
 
@@ -11622,7 +11622,7 @@ The `setTimeout()` method is used to execute a function or code snippet after a 
 setTimeout(function(){ alert('Hello!'); }, 2000);
 ```
 
-**Tags**: basic, JavaScript, timing
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [timing](./theme/timing)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7453766380433722656](https://www.tiktok.com/@jsmentoring/photo/7453766380433722656)
 
@@ -11632,7 +11632,7 @@ setTimeout(function(){ alert('Hello!'); }, 2000);
 
 The `stopPropagation()` method prevents the event from propagating (bubbling) up or down the DOM tree. This is useful for preventing parent elements from handling events triggered by child elements.
 
-**Tags**: basic, JavaScript, events
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [events](./theme/events)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7454613743649951008](https://www.tiktok.com/@jsmentoring/photo/7454613743649951008)
 
@@ -11647,7 +11647,7 @@ function test(a, b, c) {}
 console.log(test.length); // 3
 ```
 
-**Tags**: basic, JavaScript, functions
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [functions](./theme/functions)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456397129393704224](https://www.tiktok.com/@jsmentoring/photo/7456397129393704224)
 
@@ -11675,7 +11675,7 @@ const log = throttle(() => console.log('Throttled!'), 1000);
 window.addEventListener('scroll', log);
 ```
 
-**Tags**: intermediate, JavaScript, Performance
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Performance](./theme/performance)
 
 
 
@@ -11685,7 +11685,7 @@ window.addEventListener('scroll', log);
 
 Tree shaking is a process used in JavaScript bundlers (like Webpack) to remove unused code from the final bundle. It helps reduce the size of the final output and improves performance.
 
-**Tags**: basic, JavaScript, optimization
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [optimization](./theme/optimization)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456569241815354657](https://www.tiktok.com/@jsmentoring/photo/7456569241815354657)
 
@@ -11702,7 +11702,7 @@ let num: number = 10;
 let str: string = 'Hello';
 ```
 
-**Tags**: basic, TypeScript
+**Tags**: [basic](./level/basic), [TypeScript](./theme/typescript)
 
 
 
@@ -11714,7 +11714,7 @@ V8 is an open-source JavaScript engine developed by Google. It is used in Chrome
 
 V8 optimizes JavaScript performance through techniques like Just-In-Time (JIT) compilation and garbage collection.
 
-**Tags**: intermediate, JavaScript, engines
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [engines](./theme/engines)
 
 
 
@@ -11734,7 +11734,7 @@ let utterance = new SpeechSynthesisUtterance('Hello, World!');
 speechSynthesis.speak(utterance);
 ```
 
-**Tags**: advanced, JavaScript, Web APIs
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Web APIs](./theme/web_apis)
 
 
 
@@ -11751,7 +11751,7 @@ let add = (a, b) => a + b;
 console.log(add(2, 3));  // Output: 5
 ```
 
-**Tags**: intermediate, JavaScript, Programming Paradigms
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Programming Paradigms](./theme/programming_paradigms)
 
 
 
@@ -11767,7 +11767,7 @@ Example:
 console.log(1 + 2 + '3'); // '33'
 ```
 
-**Tags**: basic, JavaScript, type coercion
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [type coercion](./theme/type_coercion)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456799873505987873](https://www.tiktok.com/@jsmentoring/photo/7456799873505987873)
 
@@ -11785,7 +11785,7 @@ if (true) {
   console.log('Hello');
 ```
 
-**Tags**: basic, JavaScript, errors
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [errors](./theme/errors)
 
 
 
@@ -11795,7 +11795,7 @@ if (true) {
 
 JavaScript was created by Brendan Eich in 1995 while working at Netscape Communications Corporation. It was originally called Mocha, then renamed to LiveScript, and finally to JavaScript.
 
-**Tags**: basic, JavaScript, history
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [history](./theme/history)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7454609808038153504](https://www.tiktok.com/@jsmentoring/photo/7454609808038153504)
 
@@ -11813,7 +11813,7 @@ Object.freeze(config);
 config.maxLimit = 200; // Won't work
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457632028364737825](https://www.tiktok.com/@jsmentoring/photo/7457632028364737825)
 
@@ -11830,7 +11830,7 @@ let dynamicVar = 10;  // Number
 dynamicVar = 'Hello';  // String
 ```
 
-**Tags**: basic, JavaScript, Language features
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Language features](./theme/language_features)
 
 
 
@@ -11840,7 +11840,7 @@ dynamicVar = 'Hello';  // String
 
 JSON is used for exchanging data between a client and server, especially in web applications. It is lightweight, easy to parse, and widely supported by many programming languages.
 
-**Tags**: basic, JavaScript, data formats
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [data formats](./theme/data_formats)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7453770486993014049](https://www.tiktok.com/@jsmentoring/photo/7453770486993014049)
 
@@ -11855,7 +11855,7 @@ Example uses of obfuscation:
 - Hiding sensitive information like API keys (though not recommended as a primary security measure)
 - Preventing unauthorized modifications
 
-**Tags**: intermediate, JavaScript, security
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [security](./theme/security)
 
 
 
@@ -11875,7 +11875,7 @@ with (Math) {
 }
 ```
 
-**Tags**: intermediate, JavaScript, Best Practices
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Best Practices](./theme/best_practices)
 
 
 
@@ -11885,7 +11885,7 @@ with (Math) {
 
 JavaScript is single-threaded because it executes code in one thread, meaning only one operation can be performed at a time. This simplifies development, but asynchronous programming techniques like callbacks, promises, and async/await are used to handle concurrency.
 
-**Tags**: intermediate, JavaScript, concurrency
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [concurrency](./theme/concurrency)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7455079370881879329](https://www.tiktok.com/@jsmentoring/photo/7455079370881879329)
 

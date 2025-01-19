@@ -20,6 +20,6 @@ console.log(this); // window in browsers
 var a = 10; // Part of global execution context
 ```
 
-**Tags**: intermediate, JavaScript, Execution Context
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Execution Context](./theme/execution_context)
 
 

@@ -33,6 +33,6 @@ console.log(longestSubstring('bbbbb')); // Output: 1
 
 This method has a time complexity of O(n), where n is the length of the string.
 
-**Tags**: intermediate, JavaScript, Strings, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 

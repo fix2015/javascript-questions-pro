@@ -9,6 +9,6 @@ Minification provides several benefits:
 
 Tools like UglifyJS, Terser, and Google Closure Compiler can be used for minification.
 
-**Tags**: intermediate, JavaScript, optimization
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [optimization](./theme/optimization)
 
 

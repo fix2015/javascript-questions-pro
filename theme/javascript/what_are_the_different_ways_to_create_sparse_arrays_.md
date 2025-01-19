@@ -18,6 +18,6 @@
    delete array[1]; // Creates [1, <1 empty item>, 3]
    ```
 
-**Tags**: advanced, JavaScript, Arrays
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 

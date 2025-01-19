@@ -22,6 +22,6 @@ function animate() {
 requestAnimationFrame(animate);
 ```
 
-**Tags**: intermediate, JavaScript, Web APIs
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Web APIs](./theme/web_apis)
 
 

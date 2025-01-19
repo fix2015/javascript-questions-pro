@@ -20,6 +20,6 @@ async function fetchData() {
 }
 ```
 
-**Tags**: basic, JavaScript, Promises
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Promises](./theme/promises)
 
 

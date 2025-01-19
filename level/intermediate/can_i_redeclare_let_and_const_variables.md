@@ -11,6 +11,6 @@ let x = 10;
 let x = 20;  // Error: Cannot redeclare block-scoped variable 'x'
 ```
 
-**Tags**: intermediate, JavaScript, Variables
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Variables](./theme/variables)
 
 

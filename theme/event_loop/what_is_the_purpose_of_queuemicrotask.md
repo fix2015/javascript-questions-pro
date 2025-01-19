@@ -9,6 +9,6 @@ Example:
 ```javascript
 queueMicrotask(() => console.log('Microtask executed'));
 
-**Tags**: advanced, JavaScript, Event Loop
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Event Loop](./theme/event_loop)
 
 

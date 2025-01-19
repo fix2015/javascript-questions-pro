@@ -16,6 +16,6 @@ if (!Array.prototype.includes) {
 }
 ```
 
-**Tags**: intermediate, JavaScript, Compatibility
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Compatibility](./theme/compatibility)
 
 

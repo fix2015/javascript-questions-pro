@@ -8,6 +8,6 @@ You can submit a form in JavaScript using the `submit()` method on the form elem
 document.getElementById('myForm').submit();
 ```
 
-**Tags**: basic, JavaScript, forms
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [forms](./theme/forms)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7454702289975119136](https://www.tiktok.com/@jsmentoring/photo/7454702289975119136)

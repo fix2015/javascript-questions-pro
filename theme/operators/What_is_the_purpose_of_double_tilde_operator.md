@@ -11,6 +11,6 @@ let num = 4.7;
 console.log(~~num);  // Output: 4
 ```
 
-**Tags**: intermediate, JavaScript, Operators
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Operators](./theme/operators)
 
 

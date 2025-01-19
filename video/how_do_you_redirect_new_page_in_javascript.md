@@ -8,6 +8,6 @@ To redirect to a new page in JavaScript, you can use `window.location.href` or `
 window.location.href = 'https://example.com';
 ```
 
-**Tags**: basic, JavaScript, web navigation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [web navigation](./theme/web_navigation)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7453541079804169504](https://www.tiktok.com/@jsmentoring/photo/7453541079804169504)

@@ -22,6 +22,6 @@ class Example {
 console.log(Example.type); // Output: 'Example'
 ```
 
-**Tags**: intermediate, JavaScript, OOP
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [OOP](./theme/oop)
 
 

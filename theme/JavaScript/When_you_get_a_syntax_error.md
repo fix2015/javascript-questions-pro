@@ -12,6 +12,6 @@ if (true) {
   console.log('Hello');
 ```
 
-**Tags**: basic, JavaScript, errors
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [errors](./theme/errors)
 
 

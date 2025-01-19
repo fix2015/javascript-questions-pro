@@ -24,6 +24,6 @@ console.log(findMedian([7, 1, 2, 8])); // Output: 4.5
 
 This method has a time complexity of O(n log n), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 

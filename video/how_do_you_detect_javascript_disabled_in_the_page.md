@@ -12,6 +12,6 @@ Example:
 </noscript>
 ```
 
-**Tags**: basic, JavaScript, page features
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [page features](./theme/page_features)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457508448763120928](https://www.tiktok.com/@jsmentoring/photo/7457508448763120928)

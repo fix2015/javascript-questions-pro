@@ -11,6 +11,6 @@ let a = (1, 2, 3);
 console.log(a); // 3
 ```
 
-**Tags**: basic, JavaScript, operators
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [operators](./theme/operators)
 
 

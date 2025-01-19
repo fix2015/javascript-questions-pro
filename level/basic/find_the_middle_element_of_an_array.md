@@ -23,6 +23,6 @@ console.log(findMiddleElement([10, 20, 30, 40])); // Output: 30
 
 This method has a time complexity of O(1), as it directly accesses the middle element.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 

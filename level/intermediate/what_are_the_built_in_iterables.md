@@ -28,6 +28,6 @@ Built-in iterables in JavaScript include:
 
 4. **Typed Arrays** and **NodeLists**.
 
-**Tags**: intermediate, JavaScript, Iterables
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Iterables](./theme/iterables)
 
 

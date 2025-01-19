@@ -11,6 +11,6 @@ const obj = { name: 'John' };
 console.log(uneval(obj)); // '({ name: "John" })'
 ```
 
-**Tags**: basic, JavaScript, eval
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [eval](./theme/eval)
 
 

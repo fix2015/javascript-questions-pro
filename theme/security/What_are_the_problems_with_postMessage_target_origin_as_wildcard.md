@@ -10,6 +10,6 @@ Example:
 window.postMessage('message', '*');  // Insecure
 ```
 
-**Tags**: advanced, JavaScript, Security
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Security](./theme/security)
 
 

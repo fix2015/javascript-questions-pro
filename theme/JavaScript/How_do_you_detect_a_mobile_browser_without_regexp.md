@@ -12,6 +12,6 @@ if (navigator.platform.indexOf('iPhone') !== -1) {
 }
 ```
 
-**Tags**: basic, JavaScript, mobile detection
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [mobile detection](./theme/mobile_detection)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457202437292674337](https://www.tiktok.com/@jsmentoring/photo/7457202437292674337)

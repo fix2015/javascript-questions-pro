@@ -14,6 +14,6 @@ console.log(matches);  // Output: ['123', '456', '789']
 
 In this example, `\d+` is a regular expression that matches one or more digits, and the `g` flag ensures that all matches are returned in an array.
 
-**Tags**: intermediate, JavaScript, Regular Expressions
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Regular Expressions](./theme/regular_expressions)
 
 

@@ -19,6 +19,6 @@ weakset.delete(obj);
 console.log(weakset.has(obj)); // false
 ```
 
-**Tags**: basic, JavaScript, collections
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [collections](./theme/collections)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7458291433980579105](https://www.tiktok.com/@jsmentoring/photo/7458291433980579105)

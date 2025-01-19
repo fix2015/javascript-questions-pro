@@ -14,6 +14,6 @@ console.log(+undefined);  // Output: NaN
 console.log(+NaN);  // Output: NaN
 ```
 
-**Tags**: intermediate, JavaScript, Operators
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Operators](./theme/operators)
 
 

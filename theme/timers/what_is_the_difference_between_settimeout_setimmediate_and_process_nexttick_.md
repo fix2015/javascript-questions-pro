@@ -23,6 +23,6 @@
      process.nextTick(() => console.log('Next Tick'));
      ```
 
-**Tags**: advanced, Node.js, Timers
+**Tags**: [advanced](./level/advanced), [Node.js](./theme/node_js), [Timers](./theme/timers)
 
 

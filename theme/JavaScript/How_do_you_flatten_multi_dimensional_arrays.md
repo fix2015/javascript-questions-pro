@@ -12,6 +12,6 @@ let flattened = arr.flat(2);
 console.log(flattened);  // Output: [1, 2, 3, 4, 5, 6]
 ```
 
-**Tags**: intermediate, JavaScript, Arrays
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 

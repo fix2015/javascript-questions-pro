@@ -18,6 +18,6 @@ for (let i = 0; i < 3; i++) {
 2
 ```
 
-**Tags**: basic, JavaScript, Loops
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Loops](./theme/loops)
 
 

@@ -23,6 +23,6 @@ console.log(findKthLargest([7, 2, 9, 4], 3)); // Output: 4
 
 This method has a time complexity of O(n log n), where n is the length of the array due to sorting.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 

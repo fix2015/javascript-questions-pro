@@ -11,6 +11,6 @@ let element = document.querySelector('div');
 console.dir(element);
 ```
 
-**Tags**: intermediate, JavaScript, Debugging
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Debugging](./theme/debugging)
 
 

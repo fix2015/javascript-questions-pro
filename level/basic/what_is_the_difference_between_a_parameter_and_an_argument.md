@@ -13,6 +13,6 @@ function greet(name) {  // 'name' is the parameter
 greet('John');  // 'John' is the argument
 ```
 
-**Tags**: basic, JavaScript, Functions
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Functions](./theme/functions)
 
 

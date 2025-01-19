@@ -4,6 +4,6 @@
 
 Cookies are used to store data on the client-side, typically for purposes like tracking user sessions, saving preferences, or authenticating users. They are sent to the server with every HTTP request, allowing the server to remember information about the client across requests and sessions.
 
-**Tags**: intermediate, cookies, web storage, HTTP
+**Tags**: [intermediate](./level/intermediate), [cookies](./theme/cookies), [web storage](./theme/web_storage), [HTTP](./theme/http)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448385477113171233](https://www.tiktok.com/@jsmentoring/photo/7448385477113171233)

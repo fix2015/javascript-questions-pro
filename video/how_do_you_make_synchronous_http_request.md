@@ -13,6 +13,6 @@ xhr.send();
 console.log(xhr.responseText);
 ```
 
-**Tags**: basic, JavaScript, HTTP requests
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [HTTP requests](./theme/http_requests)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457614380205739296](https://www.tiktok.com/@jsmentoring/photo/7457614380205739296)

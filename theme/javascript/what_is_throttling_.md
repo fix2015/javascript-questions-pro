@@ -22,6 +22,6 @@ const log = throttle(() => console.log('Throttled!'), 1000);
 window.addEventListener('scroll', log);
 ```
 
-**Tags**: intermediate, JavaScript, Performance
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Performance](./theme/performance)
 
 

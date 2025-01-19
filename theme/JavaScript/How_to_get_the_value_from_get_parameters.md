@@ -12,6 +12,6 @@ const value = urlParams.get('param');
 console.log(value); // Logs the value of 'param' from the URL
 ```
 
-**Tags**: intermediate, JavaScript, URL manipulation
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [URL manipulation](./theme/url_manipulation)
 
 

@@ -10,6 +10,6 @@ Example:
 console.log(navigator.language); // 'en-US'
 ```
 
-**Tags**: basic, JavaScript, browser features
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [browser features](./theme/browser_features)
 
 

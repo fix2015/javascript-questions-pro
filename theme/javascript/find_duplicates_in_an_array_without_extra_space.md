@@ -32,6 +32,6 @@ console.log(findDuplicatesInPlace([1, 1, 1, 2, 2])); // Output: [1, 2]
 
 This method has a time complexity of O(n), where n is the length of the array, and does not use extra space.
 
-**Tags**: advanced, JavaScript, Arrays, Algorithm
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 

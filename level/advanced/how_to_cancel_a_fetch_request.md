@@ -19,6 +19,6 @@ fetch('https://api.example.com/data', { signal: signal })
 controller.abort();
 ```
 
-**Tags**: advanced, JavaScript, Fetch API
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Fetch API](./theme/fetch_api)
 
 

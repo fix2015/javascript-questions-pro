@@ -8,6 +8,6 @@ The `setTimeout()` method is used to execute a function or code snippet after a 
 setTimeout(function(){ alert('Hello!'); }, 2000);
 ```
 
-**Tags**: basic, JavaScript, timing
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [timing](./theme/timing)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7453766380433722656](https://www.tiktok.com/@jsmentoring/photo/7453766380433722656)

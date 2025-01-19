@@ -11,6 +11,6 @@ let num = '5';
 console.log(+num);  // Output: 5
 ```
 
-**Tags**: intermediate, JavaScript, Operators
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Operators](./theme/operators)
 
 

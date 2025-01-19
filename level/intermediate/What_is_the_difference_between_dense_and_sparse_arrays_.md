@@ -19,6 +19,6 @@
     console.log(sparseArray[1]); // undefined
     ```
 
-**Tags**: intermediate, JavaScript, Arrays
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 

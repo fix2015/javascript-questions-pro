@@ -26,6 +26,6 @@ function increment() {
 }
 ```
 
-**Tags**: intermediate, JavaScript, Functional Programming
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Functional Programming](./theme/functional_programming)
 
 

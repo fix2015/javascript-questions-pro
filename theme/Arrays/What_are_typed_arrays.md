@@ -13,6 +13,6 @@ int32View[0] = 42;
 console.log(int32View[0]);  // Output: 42
 ```
 
-**Tags**: advanced, JavaScript, Arrays
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 

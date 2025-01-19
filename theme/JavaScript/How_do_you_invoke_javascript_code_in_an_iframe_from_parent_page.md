@@ -12,6 +12,6 @@ const iframeWindow = iframe.contentWindow;
 iframeWindow.someFunction(); // Calls a function in the iframe
 ```
 
-**Tags**: intermediate, JavaScript, iframe
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [iframe](./theme/iframe)
 
 

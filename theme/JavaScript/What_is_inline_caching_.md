@@ -24,6 +24,6 @@ const obj2 = { value: 20 };
 console.log(add(obj1, obj2)); // Inline caching optimizes property access.
 ```
 
-**Tags**: advanced, JavaScript, V8 Engine
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [V8 Engine](./theme/v8_engine)
 
 

@@ -13,6 +13,6 @@ console.log(descriptor);
 // { value: 'John', writable: true, enumerable: true, configurable: true }
 ```
 
-**Tags**: intermediate, JavaScript, objects
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 

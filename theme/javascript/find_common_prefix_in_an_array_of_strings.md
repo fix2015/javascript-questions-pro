@@ -32,6 +32,6 @@ console.log(findCommonPrefix(["dog", "racecar", "car"])); // Output: ""
 
 This method has a time complexity of O(n * m), where n is the length of the array and m is the length of the longest string.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 

@@ -26,6 +26,6 @@ console.log(isPrime(10)); // Output: false
 
 This method has a time complexity of O(sqrt(n)), where n is the number being checked.
 
-**Tags**: basic, JavaScript, Math, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Math](./theme/math), [Algorithm](./theme/algorithm)
 
 

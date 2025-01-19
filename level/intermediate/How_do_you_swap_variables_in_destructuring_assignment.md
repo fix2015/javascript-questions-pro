@@ -12,6 +12,6 @@ let a = 1, b = 2;
 console.log(a, b);  // Output: 2 1
 ```
 
-**Tags**: intermediate, JavaScript, Destructuring
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Destructuring](./theme/destructuring)
 
 

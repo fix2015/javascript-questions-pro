@@ -11,6 +11,6 @@ const regex = /\d+/;
 console.log(regex.exec('abc123')); // ['123']
 ```
 
-**Tags**: basic, JavaScript, regular expressions
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [regular expressions](./theme/regular_expressions)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456816176019082529](https://www.tiktok.com/@jsmentoring/photo/7456816176019082529)

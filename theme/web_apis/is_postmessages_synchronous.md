@@ -11,6 +11,6 @@ window.postMessage('message', 'https://example.com');
 console.log('Message sent');  // Output: Message sent
 ```
 
-**Tags**: intermediate, JavaScript, Web APIs
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Web APIs](./theme/web_apis)
 
 

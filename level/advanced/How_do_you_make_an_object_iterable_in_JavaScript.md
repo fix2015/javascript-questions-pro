@@ -27,6 +27,6 @@ for (let value of iterableObject) {
 }
 ```
 
-**Tags**: advanced, JavaScript, Iterables
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Iterables](./theme/iterables)
 
 

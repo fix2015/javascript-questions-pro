@@ -13,6 +13,6 @@ arr = [];
 console.log(!arr);  // Output: true
 ```
 
-**Tags**: intermediate, JavaScript, Arrays
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 

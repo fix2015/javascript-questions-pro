@@ -13,6 +13,6 @@ worker.onmessage = function(event) {
 ```
 In the `worker.js` file, you would handle the message with `onmessage` and use `postMessage` to send a response back.
 
-**Tags**: intermediate, web workers, JavaScript
+**Tags**: [intermediate](./level/intermediate), [web workers](./theme/web_workers), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448739040213437729](https://www.tiktok.com/@jsmentoring/photo/7448739040213437729)

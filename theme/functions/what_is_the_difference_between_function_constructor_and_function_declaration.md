@@ -14,6 +14,6 @@ function greet() { console.log('Hello'); }
 let greet = new Function('console.log("Hello")');
 ```
 
-**Tags**: intermediate, JavaScript, Functions
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Functions](./theme/functions)
 
 

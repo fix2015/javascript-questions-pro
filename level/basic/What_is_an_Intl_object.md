@@ -12,6 +12,6 @@ const formatter = new Intl.NumberFormat('en-US');
 console.log(formatter.format(number)); // '123,456.789'
 ```
 
-**Tags**: basic, JavaScript, internationalization
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [internationalization](./theme/internationalization)
 
 

@@ -23,6 +23,6 @@ console.log(gcd(100, 25)); // Output: 25
 
 This method has a time complexity of O(log(min(a, b))), where a and b are the two numbers.
 
-**Tags**: intermediate, JavaScript, Math, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Math](./theme/math), [Algorithm](./theme/algorithm)
 
 

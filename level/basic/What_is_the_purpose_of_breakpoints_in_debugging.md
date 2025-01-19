@@ -6,6 +6,6 @@ Breakpoints are used in debugging to pause the execution of JavaScript at a spec
 
 Example: You can set a breakpoint in the browser's developer tools to pause execution at a specific line.
 
-**Tags**: basic, JavaScript, debugging
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [debugging](./theme/debugging)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457249779840486688](https://www.tiktok.com/@jsmentoring/photo/7457249779840486688)

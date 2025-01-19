@@ -16,6 +16,6 @@ function sum(a, b) {
 function sum(a,b){return a+b;}
 ```
 
-**Tags**: intermediate, JavaScript, optimization
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [optimization](./theme/optimization)
 
 

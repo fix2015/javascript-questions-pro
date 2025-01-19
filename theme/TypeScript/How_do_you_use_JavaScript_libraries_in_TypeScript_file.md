@@ -10,6 +10,6 @@ Example using `import`:
 import * as library from 'library';
 ```
 
-**Tags**: intermediate, TypeScript, JavaScript
+**Tags**: [intermediate](./level/intermediate), [TypeScript](./theme/typescript), [JavaScript](./theme/javascript)
 
 

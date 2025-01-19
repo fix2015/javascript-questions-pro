@@ -10,6 +10,6 @@ Example:
 window.print();
 ```
 
-**Tags**: basic, JavaScript, printing
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [printing](./theme/printing)
 
 

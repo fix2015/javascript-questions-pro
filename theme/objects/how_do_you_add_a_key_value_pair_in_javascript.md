@@ -10,6 +10,6 @@ obj.name = 'John';
 console.log(obj); // { name: 'John' }
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456001248484003104](https://www.tiktok.com/@jsmentoring/photo/7456001248484003104)

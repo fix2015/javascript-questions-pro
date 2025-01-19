@@ -11,6 +11,6 @@ console.log(originalArray); // [1, 2, 3]
 console.log(reversedArray); // [3, 2, 1]
 ```
 
-**Tags**: intermediate, JavaScript, Arrays
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 

@@ -10,6 +10,6 @@ Promise.all([promise1, promise2, promise3])
   .catch(error => console.error(error));
 ```
 
-**Tags**: intermediate, Promises, JavaScript, asynchronous programming
+**Tags**: [intermediate](./level/intermediate), [Promises](./theme/promises), [JavaScript](./theme/javascript), [asynchronous programming](./theme/asynchronous_programming)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449321820743847200](https://www.tiktok.com/@jsmentoring/photo/7449321820743847200)

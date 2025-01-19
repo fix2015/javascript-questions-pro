@@ -11,6 +11,6 @@ console.log(Object.is(-0, +0)); // false
 console.log(Object.is(NaN, NaN)); // true
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 

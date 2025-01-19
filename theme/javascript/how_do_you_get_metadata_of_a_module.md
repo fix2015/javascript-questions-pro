@@ -11,6 +11,6 @@ console.log(import.meta.url);
 // Outputs the URL of the current module
 ```
 
-**Tags**: basic, JavaScript, modules
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [modules](./theme/modules)
 
 

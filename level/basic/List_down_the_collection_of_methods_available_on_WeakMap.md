@@ -18,6 +18,6 @@ weakmap.set(obj, 'value');
 console.log(weakmap.get(obj)); // 'value'
 ```
 
-**Tags**: basic, JavaScript, collections
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [collections](./theme/collections)
 
 

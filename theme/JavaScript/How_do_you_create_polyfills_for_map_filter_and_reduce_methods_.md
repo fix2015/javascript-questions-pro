@@ -41,6 +41,6 @@ Array.prototype.myReduce = function(callback, initialValue) {
 };
 ```
 
-**Tags**: advanced, JavaScript, Polyfills
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Polyfills](./theme/polyfills)
 
 

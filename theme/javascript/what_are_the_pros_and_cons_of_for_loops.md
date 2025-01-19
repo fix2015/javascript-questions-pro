@@ -6,6 +6,6 @@
 
 **Cons**: Can be error-prone, especially with complex conditions or manual index management.
 
-**Tags**: basic, JavaScript, loops
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [loops](./theme/loops)
 
 

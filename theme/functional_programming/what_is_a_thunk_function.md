@@ -12,6 +12,6 @@ const thunk = (a, b) => () => add(a, b);
 const result = thunk(2, 3)();  // Output: 5
 ```
 
-**Tags**: advanced, JavaScript, Functional Programming
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Functional Programming](./theme/functional_programming)
 
 

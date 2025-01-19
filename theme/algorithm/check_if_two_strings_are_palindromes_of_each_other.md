@@ -22,6 +22,6 @@ console.log(arePalindromes('abc', 'def')); // Output: false
 
 This method has a time complexity of O(n), where n is the length of the string.
 
-**Tags**: intermediate, JavaScript, Strings, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 

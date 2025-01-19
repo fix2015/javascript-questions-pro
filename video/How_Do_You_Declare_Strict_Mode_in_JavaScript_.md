@@ -9,6 +9,6 @@ To declare strict mode in JavaScript, simply add `'use strict';` at the beginnin
 // Code here will be executed in strict mode
 ```
 
-**Tags**: basic, JavaScript, strict mode
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [strict mode](./theme/strict_mode)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449490448533507361](https://www.tiktok.com/@jsmentoring/photo/7449490448533507361)

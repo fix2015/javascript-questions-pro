@@ -10,6 +10,6 @@ delete obj.age;
 console.log(obj); // { name: 'John' }
 ```
 
-**Tags**: intermediate, JavaScript, operators
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [operators](./theme/operators)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7450258222222560544](https://www.tiktok.com/@jsmentoring/photo/7450258222222560544)

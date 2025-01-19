@@ -15,6 +15,6 @@ xhr.onload = function() {
 };
 ```
 
-**Tags**: basic, JavaScript, HTTP requests
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [HTTP requests](./theme/http_requests)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457281321589656864](https://www.tiktok.com/@jsmentoring/photo/7457281321589656864)

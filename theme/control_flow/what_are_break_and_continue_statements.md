@@ -14,6 +14,6 @@ for (let i = 0; i < 5; i++) {
 }
 ```
 
-**Tags**: basic, JavaScript, control flow
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [control flow](./theme/control_flow)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456440125774433569](https://www.tiktok.com/@jsmentoring/photo/7456440125774433569)

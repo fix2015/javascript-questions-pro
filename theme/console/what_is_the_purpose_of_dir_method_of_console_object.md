@@ -11,6 +11,6 @@ let obj = { name: 'Alice', age: 25 };
 console.dir(obj);
 ```
 
-**Tags**: intermediate, JavaScript, Console
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Console](./theme/console)
 
 

@@ -6,6 +6,6 @@ The heap is a region of memory used for dynamic memory allocation in JavaScript.
 
 When an object is created, it is stored in the heap, while primitive types are stored in the stack.
 
-**Tags**: intermediate, JavaScript, Memory
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Memory](./theme/memory)
 
 

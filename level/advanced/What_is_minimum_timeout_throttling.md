@@ -10,6 +10,6 @@ For example, in modern browsers, the minimum delay is typically 4ms for backgrou
 setTimeout(() => console.log('Executed after delay'), 0);
 ```
 
-**Tags**: advanced, JavaScript, Performance
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Performance](./theme/performance)
 
 

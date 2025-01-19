@@ -14,6 +14,6 @@ with (Math) {
 }
 ```
 
-**Tags**: intermediate, JavaScript, Best Practices
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Best Practices](./theme/best_practices)
 
 

@@ -11,6 +11,6 @@ function myFunction(a, ...rest, b) { // SyntaxError
 }
 ```
 
-**Tags**: basic, JavaScript, functions
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [functions](./theme/functions)
 
 

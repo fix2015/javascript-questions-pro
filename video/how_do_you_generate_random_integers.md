@@ -11,6 +11,6 @@ const randomInt = Math.floor(Math.random() * 10); // Generates a random integer 
 console.log(randomInt);
 ```
 
-**Tags**: basic, JavaScript, math
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [math](./theme/math)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456916623870512417](https://www.tiktok.com/@jsmentoring/photo/7456916623870512417)

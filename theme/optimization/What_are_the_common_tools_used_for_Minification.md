@@ -10,6 +10,6 @@ There are several tools available for minifying JavaScript code:
 
 These tools remove unnecessary characters, such as spaces, comments, and newlines, to reduce the file size.
 
-**Tags**: intermediate, JavaScript, optimization
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [optimization](./theme/optimization)
 
 

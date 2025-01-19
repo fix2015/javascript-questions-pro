@@ -12,6 +12,6 @@ if (typeof(Storage) !== 'undefined') {
 }
 ```
 
-**Tags**: basic, web storage, browser support, JavaScript
+**Tags**: [basic](./level/basic), [web storage](./theme/web_storage), [browser support](./theme/browser_support), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448750198848769313](https://www.tiktok.com/@jsmentoring/photo/7448750198848769313)

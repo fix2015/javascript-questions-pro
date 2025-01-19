@@ -13,6 +13,6 @@ function toTitleCase(str) {
 console.log(toTitleCase('hello world')); // 'Hello World'
 ```
 
-**Tags**: basic, JavaScript, string manipulation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [string manipulation](./theme/string_manipulation)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457578972889615648](https://www.tiktok.com/@jsmentoring/photo/7457578972889615648)

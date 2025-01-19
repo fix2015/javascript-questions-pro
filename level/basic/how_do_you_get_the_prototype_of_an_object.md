@@ -12,6 +12,6 @@ const prototype = Object.getPrototypeOf(person);
 console.log(prototype); // Outputs the prototype of the object
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 

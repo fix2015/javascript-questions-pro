@@ -30,6 +30,6 @@ console.log(longestCommonPrefix(['dog', 'racecar', 'car'])); // Output: ''
 
 This method has a time complexity of O(n log n), where n is the number of strings.
 
-**Tags**: basic, JavaScript, Strings, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 

@@ -12,6 +12,6 @@ Object.seal(person);
 console.log(Object.isSealed(person)); // true
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 

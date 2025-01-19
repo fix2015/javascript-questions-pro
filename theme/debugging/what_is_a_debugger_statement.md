@@ -11,6 +11,6 @@ debugger;
 console.log('This will pause execution');
 ```
 
-**Tags**: basic, JavaScript, debugging
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [debugging](./theme/debugging)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457945315644165408](https://www.tiktok.com/@jsmentoring/photo/7457945315644165408)

@@ -12,6 +12,6 @@ arr.length = 0;
 console.log(arr);  // Output: []
 ```
 
-**Tags**: basic, JavaScript, Arrays
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 

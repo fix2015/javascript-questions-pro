@@ -14,6 +14,6 @@ for (let value of arr) {
 // Output: 10 20 30
 ```
 
-**Tags**: intermediate, JavaScript, Loops
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Loops](./theme/loops)
 
 

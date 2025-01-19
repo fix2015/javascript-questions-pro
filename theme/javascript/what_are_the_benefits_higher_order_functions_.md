@@ -25,6 +25,6 @@ const squared = applyOperation(numbers, num => num * num);
 console.log(squared); // [1, 4, 9]
 ```
 
-**Tags**: basic, JavaScript, Functional Programming
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Functional Programming](./theme/functional_programming)
 
 

@@ -28,6 +28,6 @@ console.log(hammingWeight(128)); // Output: 1 (binary: 10000000)
 
 This method has a time complexity of O(k), where k is the number of 1 bits in the number.
 
-**Tags**: basic, JavaScript, Bit Manipulation, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Bit Manipulation](./theme/bit_manipulation), [Algorithm](./theme/algorithm)
 
 

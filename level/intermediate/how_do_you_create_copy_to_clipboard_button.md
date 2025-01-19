@@ -17,6 +17,6 @@ copyButton.addEventListener('click', () => {
 });
 ```
 
-**Tags**: intermediate, JavaScript, DOM
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [DOM](./theme/dom)
 
 

@@ -16,6 +16,6 @@ Example:
 console.log('Hello, Deno!');
 ```
 
-**Tags**: intermediate, JavaScript, Runtime
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Runtime](./theme/runtime)
 
 

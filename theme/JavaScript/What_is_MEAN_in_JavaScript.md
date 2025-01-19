@@ -10,6 +10,6 @@ MEAN is an acronym for a stack of technologies used for building web application
 
 The MEAN stack provides a full-stack JavaScript solution for both client-side and server-side development.
 
-**Tags**: basic, JavaScript, frameworks
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [frameworks](./theme/frameworks)
 
 

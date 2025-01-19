@@ -38,6 +38,6 @@ Higher-order functions are functions that can accept other functions as argument
    console.log(names); // ['Alice', 'Bob', 'Charlie']
    ```
 
-**Tags**: basic, JavaScript, Functional Programming
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Functional Programming](./theme/functional_programming)
 
 

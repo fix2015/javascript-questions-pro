@@ -23,6 +23,6 @@ function test() {
 test();
 ```
 
-**Tags**: intermediate, JavaScript, Execution Context
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Execution Context](./theme/execution_context)
 
 

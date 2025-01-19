@@ -30,6 +30,6 @@ console.log(lengthOfLIS([10, 9, 2, 5, 3, 7, 101, 18])); // Output: 4
 
 This method has a time complexity of O(n^2), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 

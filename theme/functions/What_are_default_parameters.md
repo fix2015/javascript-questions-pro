@@ -14,6 +14,6 @@ greet();  // Output: Hello, Guest
 greet('John');  // Output: Hello, John
 ```
 
-**Tags**: intermediate, JavaScript, Functions
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Functions](./theme/functions)
 
 

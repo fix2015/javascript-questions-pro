@@ -14,6 +14,6 @@ try {
 }
 ```
 
-**Tags**: basic, JavaScript, Error Handling
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Error Handling](./theme/error_handling)
 
 

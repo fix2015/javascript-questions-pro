@@ -17,6 +17,6 @@ let observable = new Observable(observer => {
 });
 observable.subscribe(value => console.log(value));
 
-**Tags**: advanced, JavaScript, RxJS
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [RxJS](./theme/rxjs)
 
 

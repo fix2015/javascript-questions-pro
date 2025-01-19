@@ -9,6 +9,6 @@ console.log(window); // Browser window
 console.log(document); // HTML document
 ```
 
-**Tags**: basic, JavaScript, DOM
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [DOM](./theme/dom)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449755076182215968](https://www.tiktok.com/@jsmentoring/photo/7449755076182215968)

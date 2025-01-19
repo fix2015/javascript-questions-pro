@@ -22,6 +22,6 @@ const proxyPerson = new Proxy(person, handler);
 console.log(proxyPerson.name); // 'Jane'
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7458050469735320865](https://www.tiktok.com/@jsmentoring/photo/7458050469735320865)

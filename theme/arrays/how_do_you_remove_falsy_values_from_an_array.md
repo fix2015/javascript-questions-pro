@@ -12,6 +12,6 @@ let filteredArr = arr.filter(Boolean);
 console.log(filteredArr);  // Output: [1, 2, 3]
 ```
 
-**Tags**: basic, JavaScript, Arrays
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 

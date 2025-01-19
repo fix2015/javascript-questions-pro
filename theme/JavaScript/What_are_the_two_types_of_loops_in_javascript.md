@@ -21,6 +21,6 @@ while (j < 5) {
 }
 ```
 
-**Tags**: basic, JavaScript, loops
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [loops](./theme/loops)
 
 

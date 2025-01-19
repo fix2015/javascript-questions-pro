@@ -22,6 +22,6 @@ const boundGreet = greet.customBind(null, 'Hello');
 boundGreet('Alice'); // 'Hello, Alice!'
 ```
 
-**Tags**: advanced, JavaScript, Functions
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Functions](./theme/functions)
 
 

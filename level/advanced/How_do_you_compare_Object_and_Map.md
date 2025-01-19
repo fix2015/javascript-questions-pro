@@ -8,6 +8,6 @@ Both `Object` and `Map` are key-value stores in JavaScript, but they have differ
 2. **Iteration**: `Map` preserves the order of insertion, while `Object` does not guarantee order.
 3. **Performance**: `Map` is generally more efficient for frequent additions and removals of key-value pairs.
 
-**Tags**: advanced, Object, Map, JavaScript
+**Tags**: [advanced](./level/advanced), [Object](./theme/object), [Map](./theme/map), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7447122335863147808](https://www.tiktok.com/@jsmentoring/photo/7447122335863147808)

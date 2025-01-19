@@ -25,6 +25,6 @@ console.log(kthSmallest([12, 3, 5, 7, 19], 2)); // Output: 5
 
 This method has a time complexity of O(n log n) for sorting, where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 

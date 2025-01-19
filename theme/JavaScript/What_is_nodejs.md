@@ -16,6 +16,6 @@ const server = http.createServer((req, res) => {
 server.listen(3000);
 ```
 
-**Tags**: basic, JavaScript, runtime
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [runtime](./theme/runtime)
 
 

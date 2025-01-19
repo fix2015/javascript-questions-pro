@@ -4,6 +4,6 @@
 
 Modules help organize code into manageable pieces, improve reusability, and avoid global namespace pollution. They also make dependency management and code maintenance easier.
 
-**Tags**: intermediate, modules, benefits, organization
+**Tags**: [intermediate](./level/intermediate), [modules](./theme/modules), [benefits](./theme/benefits), [organization](./theme/organization)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7447895686626020640](https://www.tiktok.com/@jsmentoring/photo/7447895686626020640)

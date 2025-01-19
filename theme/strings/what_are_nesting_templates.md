@@ -12,6 +12,6 @@ let message = `Hello, ${`Mr. ${name}`}!`;
 console.log(message);  // Output: Hello, Mr. John!
 ```
 
-**Tags**: intermediate, JavaScript, Strings
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Strings](./theme/strings)
 
 

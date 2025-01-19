@@ -15,6 +15,6 @@ Here is a list of validity properties that you can access through the `validity`
 - **badInput**: If the input value is not valid for the input type.
 - **customError**: If a custom validation error has been set using `setCustomValidity`.
 
-**Tags**: intermediate, JavaScript, DOM, validation
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [DOM](./theme/dom), [validation](./theme/validation)
 
 

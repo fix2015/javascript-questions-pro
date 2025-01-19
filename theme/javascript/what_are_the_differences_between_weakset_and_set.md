@@ -14,6 +14,6 @@ const weakset = new WeakSet([obj1]);
 const set = new Set([obj1]);
 ```
 
-**Tags**: basic, JavaScript, collections
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [collections](./theme/collections)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7458240152905846048](https://www.tiktok.com/@jsmentoring/photo/7458240152905846048)

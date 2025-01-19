@@ -11,6 +11,6 @@ const number = 1234567.89;
 console.log(number.toLocaleString()); // '1,234,567.89'
 ```
 
-**Tags**: basic, JavaScript, number formatting
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [number formatting](./theme/number_formatting)
 
 

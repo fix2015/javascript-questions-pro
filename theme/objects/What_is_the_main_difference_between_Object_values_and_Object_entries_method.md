@@ -13,6 +13,6 @@ console.log(Object.values(person)); // ['John', 30]
 console.log(Object.entries(person)); // [['name', 'John'], ['age', 30]]
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7458282098579737889](https://www.tiktok.com/@jsmentoring/photo/7458282098579737889)

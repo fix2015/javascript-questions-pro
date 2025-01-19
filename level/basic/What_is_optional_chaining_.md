@@ -12,6 +12,6 @@ console.log(user.profile?.name); // 'Alice'
 console.log(user.address?.street); // undefined
 ```
 
-**Tags**: basic, JavaScript, Operators
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Operators](./theme/operators)
 
 

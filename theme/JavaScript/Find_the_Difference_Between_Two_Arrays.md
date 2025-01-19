@@ -23,6 +23,6 @@ console.log(arrayDifference([1, 2, 3, 4], [3, 4, 5])); // Output: [5]
 
 This method has a time complexity of O(n + m), where n and m are the lengths of the two arrays.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 

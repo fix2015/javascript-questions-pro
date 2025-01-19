@@ -12,6 +12,6 @@ arr.reverse();
 console.log(arr); // [3, 2, 1]
 ```
 
-**Tags**: basic, JavaScript, arrays
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [arrays](./theme/arrays)
 
 

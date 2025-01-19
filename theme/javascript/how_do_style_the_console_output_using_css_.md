@@ -10,6 +10,6 @@ console.log('%cStyled Text', 'color: red; font-size: 20px;');
 
 The second argument specifies the CSS styles to apply to the text.
 
-**Tags**: intermediate, JavaScript, Console
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Console](./theme/console)
 
 

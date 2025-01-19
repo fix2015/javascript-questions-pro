@@ -11,6 +11,6 @@ let str = 'Hello' + ' ' + 'World';
 console.log(str);  // Output: 'Hello World'
 ```
 
-**Tags**: intermediate, JavaScript, String Manipulation
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [String Manipulation](./theme/string_manipulation)
 
 

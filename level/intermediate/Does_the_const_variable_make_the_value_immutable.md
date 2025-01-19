@@ -12,6 +12,6 @@ arr.push(4);  // Works fine
 arr = [4, 5, 6];  // Error: Assignment to constant variable
 ```
 
-**Tags**: intermediate, JavaScript, Variables
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Variables](./theme/variables)
 
 

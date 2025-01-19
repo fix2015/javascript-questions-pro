@@ -16,6 +16,6 @@ console.log(str.substring(0, 4)); // 'Java'
 console.log(str.substr(0, 4));    // 'Java'
 ```
 
-**Tags**: basic, JavaScript, String Methods
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [String Methods](./theme/string_methods)
 
 

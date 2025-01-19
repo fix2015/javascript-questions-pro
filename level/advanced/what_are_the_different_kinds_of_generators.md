@@ -27,6 +27,6 @@ Generators can be categorized based on their usage:
    }
    ```
 
-**Tags**: advanced, JavaScript, Generators
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Generators](./theme/generators)
 
 

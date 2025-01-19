@@ -9,6 +9,6 @@ window.history.back(); // Go back to the previous page
 window.history.forward(); // Go forward in history
 ```
 
-**Tags**: basic, JavaScript, history API
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [history API](./theme/history_api)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449732288268487969](https://www.tiktok.com/@jsmentoring/photo/7449732288268487969)

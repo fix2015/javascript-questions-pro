@@ -21,6 +21,6 @@ async function asyncFunction() {
 asyncFunction();
 ```
 
-**Tags**: advanced, JavaScript, Promises
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Promises](./theme/promises)
 
 

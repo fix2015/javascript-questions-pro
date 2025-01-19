@@ -4,6 +4,6 @@
 
 String methods like `match()`, `replace()`, `search()`, and `split()` accept regular expressions to perform pattern matching and replacement in strings.
 
-**Tags**: basic, JavaScript, regular expressions
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [regular expressions](./theme/regular_expressions)
 
 

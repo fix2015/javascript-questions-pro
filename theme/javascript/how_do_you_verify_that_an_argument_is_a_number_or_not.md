@@ -17,6 +17,6 @@ let value = NaN;
 console.log(Number.isNaN(value));  // Output: true
 ```
 
-**Tags**: basic, JavaScript, Data Types
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Data Types](./theme/data_types)
 
 

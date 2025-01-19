@@ -9,6 +9,6 @@
 - `removeItem(key)`: Removes the key-value pair.
 - `clear()`: Clears all data stored in sessionStorage.
 
-**Tags**: basic, sessionStorage, web storage
+**Tags**: [basic](./level/basic), [sessionStorage](./theme/sessionstorage), [web storage](./theme/web_storage)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448368128825888032](https://www.tiktok.com/@jsmentoring/photo/7448368128825888032)

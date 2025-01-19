@@ -30,6 +30,6 @@
    module.myFunction();
    ```
 
-**Tags**: basic, JavaScript, HTML
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [HTML](./theme/html)
 
 

@@ -12,6 +12,6 @@ const offset = date.getTimezoneOffset();
 console.log(offset); // Logs the timezone offset in minutes
 ```
 
-**Tags**: basic, JavaScript, Date
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Date](./theme/date)
 
 

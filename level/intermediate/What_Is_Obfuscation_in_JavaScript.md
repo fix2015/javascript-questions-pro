@@ -14,6 +14,6 @@ function add(a, b) { return a + b; }
 var _0x1234 = function(_0x5678, _0x9abc) { return _0x5678 + _0x9abc; };
 ```
 
-**Tags**: intermediate, JavaScript, security
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [security](./theme/security)
 
 

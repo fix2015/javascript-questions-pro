@@ -29,6 +29,6 @@ console.log(findAllSubstrings('hello')); // Output: ['h', 'he', 'hel', 'hell', '
 
 This method has a time complexity of O(n^2), where n is the length of the string.
 
-**Tags**: intermediate, JavaScript, Strings, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 

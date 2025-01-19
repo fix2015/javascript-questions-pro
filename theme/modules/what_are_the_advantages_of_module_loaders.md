@@ -6,6 +6,6 @@ Module loaders allow you to load JavaScript files and dependencies asynchronousl
 
 Example: Tools like Webpack, RequireJS, and SystemJS are popular module loaders.
 
-**Tags**: advanced, JavaScript, Modules
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Modules](./theme/modules)
 
 

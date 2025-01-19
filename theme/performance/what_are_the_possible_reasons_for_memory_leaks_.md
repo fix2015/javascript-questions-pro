@@ -28,6 +28,6 @@
    }
    ```
 
-**Tags**: advanced, JavaScript, Performance
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Performance](./theme/performance)
 
 

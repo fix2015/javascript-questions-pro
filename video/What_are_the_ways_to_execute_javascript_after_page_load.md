@@ -12,6 +12,6 @@ window.onload = function() {
 };
 ```
 
-**Tags**: basic, JavaScript, page load
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [page load](./theme/page_load)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457929884061469985](https://www.tiktok.com/@jsmentoring/photo/7457929884061469985)

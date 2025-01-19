@@ -22,6 +22,6 @@ console.log(sortArray([3, 1, 4, 2])); // Output: [1, 2, 3, 4]
 
 This method has a time complexity of O(n log n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 

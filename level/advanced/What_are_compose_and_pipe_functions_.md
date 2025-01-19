@@ -27,6 +27,6 @@ const piped = pipe(add, multiply);
 console.log(piped(5)); // 12
 ```
 
-**Tags**: advanced, JavaScript, Functional Programming
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Functional Programming](./theme/functional_programming)
 
 

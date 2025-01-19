@@ -11,6 +11,6 @@ let timestamp = Date.now();
 console.log(timestamp);  // Output: current timestamp in milliseconds
 ```
 
-**Tags**: basic, JavaScript, Date
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Date](./theme/date)
 
 

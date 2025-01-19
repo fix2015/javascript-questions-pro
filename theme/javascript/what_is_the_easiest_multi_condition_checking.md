@@ -21,6 +21,6 @@ if (x > 0 || y > 5) {
 }
 ```
 
-**Tags**: basic, JavaScript, Conditionals
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Conditionals](./theme/conditionals)
 
 

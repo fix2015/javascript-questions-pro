@@ -13,6 +13,6 @@ person.name = 'Jane'; // Allowed
 person.city = 'New York'; // Not allowed
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 

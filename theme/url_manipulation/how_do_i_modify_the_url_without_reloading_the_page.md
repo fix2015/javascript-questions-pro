@@ -11,6 +11,6 @@ history.pushState(null, '', '/new-url');
 console.log(window.location.href); // '/new-url'
 ```
 
-**Tags**: intermediate, JavaScript, URL manipulation
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [URL manipulation](./theme/url_manipulation)
 
 

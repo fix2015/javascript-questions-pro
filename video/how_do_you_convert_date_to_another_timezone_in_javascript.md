@@ -16,6 +16,6 @@ const formatter = new Intl.DateTimeFormat('en-US', {
 console.log(formatter.format(date));
 ```
 
-**Tags**: basic, JavaScript, date manipulation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [date manipulation](./theme/date_manipulation)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457198473176190241](https://www.tiktok.com/@jsmentoring/photo/7457198473176190241)

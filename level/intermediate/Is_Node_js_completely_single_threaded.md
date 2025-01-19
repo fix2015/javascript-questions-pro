@@ -6,6 +6,6 @@ No, Node.js is not completely single-threaded. While the event loop and most of 
 
 However, JavaScript code execution in Node.js runs on a single thread, making it lightweight and efficient for handling I/O-bound tasks.
 
-**Tags**: intermediate, Node.js, JavaScript
+**Tags**: [intermediate](./level/intermediate), [Node.js](./theme/node_js), [JavaScript](./theme/javascript)
 
 

@@ -12,6 +12,6 @@ const student = Object.create(person);
 student.greet(); // 'Hello'
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7458574988463983904](https://www.tiktok.com/@jsmentoring/photo/7458574988463983904)

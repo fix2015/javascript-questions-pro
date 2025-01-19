@@ -13,6 +13,6 @@ const areArraysEqual = arr1.length === arr2.length && arr1.every((val, index) =>
 console.log(areArraysEqual); // true
 ```
 
-**Tags**: intermediate, JavaScript, arrays
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [arrays](./theme/arrays)
 
 

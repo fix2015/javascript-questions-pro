@@ -10,6 +10,6 @@ In JavaScript, objects can be created in various ways. The five most common meth
 4. **Class Syntax**: `class MyClass { constructor() {} }`
 5. **Factory Functions**: `function createObject() { return {}}`
 
-**Tags**: basic, objects, creation, JavaScript
+**Tags**: [basic](./level/basic), [objects](./theme/objects), [creation](./theme/creation), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7447557117344582944](https://www.tiktok.com/@jsmentoring/photo/7447557117344582944)

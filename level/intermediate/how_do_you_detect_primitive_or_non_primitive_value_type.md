@@ -16,6 +16,6 @@ let obj = {};
 console.log(typeof obj);  // Output: 'object'
 ```
 
-**Tags**: intermediate, JavaScript, Data Types
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Data Types](./theme/data_types)
 
 

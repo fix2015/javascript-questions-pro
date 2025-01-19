@@ -14,6 +14,6 @@ try {
 }
 ```
 
-**Tags**: intermediate, JavaScript, Error Handling
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Error Handling](./theme/error_handling)
 
 

@@ -20,6 +20,6 @@
     }
     ```
 
-**Tags**: basic, JavaScript, Loops
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Loops](./theme/loops)
 
 

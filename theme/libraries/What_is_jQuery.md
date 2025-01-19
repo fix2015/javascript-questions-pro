@@ -12,6 +12,6 @@ $(document).ready(function() {
 });
 ```
 
-**Tags**: basic, JavaScript, libraries
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [libraries](./theme/libraries)
 
 

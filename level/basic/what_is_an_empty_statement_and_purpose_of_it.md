@@ -11,6 +11,6 @@ for (let i = 0; i < 5; i++) { ; }
 // No operation happens in the loop, but the loop is still valid
 ```
 
-**Tags**: basic, JavaScript, statements
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [statements](./theme/statements)
 
 

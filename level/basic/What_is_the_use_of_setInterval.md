@@ -8,6 +8,6 @@ The `setInterval()` method calls a function or code snippet repeatedly, with a f
 setInterval(function(){ console.log('Hello!'); }, 1000);
 ```
 
-**Tags**: basic, JavaScript, timing
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [timing](./theme/timing)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7455059689315896609](https://www.tiktok.com/@jsmentoring/photo/7455059689315896609)

@@ -11,6 +11,6 @@ let x = (a = 1, b = 2, a + b);
 console.log(x); // 3
 ```
 
-**Tags**: basic, JavaScript, operators
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [operators](./theme/operators)
 
 

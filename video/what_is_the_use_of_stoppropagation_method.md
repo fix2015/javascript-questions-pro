@@ -4,6 +4,6 @@
 
 The `stopPropagation()` method prevents the event from propagating (bubbling) up or down the DOM tree. This is useful for preventing parent elements from handling events triggered by child elements.
 
-**Tags**: basic, JavaScript, events
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [events](./theme/events)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7454613743649951008](https://www.tiktok.com/@jsmentoring/photo/7454613743649951008)

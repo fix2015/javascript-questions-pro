@@ -14,6 +14,6 @@ const obj = { key: 'value' };
 console.log(Array.isArray(obj)); // false
 ```
 
-**Tags**: basic, JavaScript, Data Types
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Data Types](./theme/data_types)
 
 

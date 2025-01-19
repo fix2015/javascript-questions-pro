@@ -10,6 +10,6 @@ Example:
 const result = (age >= 18) ? 'Adult' : 'Minor';
 ```
 
-**Tags**: basic, JavaScript, operators
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [operators](./theme/operators)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457925912974216481](https://www.tiktok.com/@jsmentoring/photo/7457925912974216481)

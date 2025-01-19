@@ -9,6 +9,6 @@ Java and JavaScript are two distinct programming languages with different use ca
 
 Despite the similar names, they are unrelated in terms of syntax and functionality.
 
-**Tags**: basic, JavaScript, comparison
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [comparison](./theme/comparison)
 
 

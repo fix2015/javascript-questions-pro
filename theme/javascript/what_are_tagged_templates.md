@@ -14,6 +14,6 @@ let name = 'John';
 tag`Hello, ${name}!`;  // Output: ['Hello, ', '!'] ['John']
 ```
 
-**Tags**: advanced, JavaScript, Strings
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Strings](./theme/strings)
 
 

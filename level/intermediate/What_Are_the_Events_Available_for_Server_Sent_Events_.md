@@ -7,6 +7,6 @@ Server-Sent Events (SSE) support several event types, including:
 - `open`: Fired when the connection to the server is established.
 - `error`: Fired when there is an error with the connection.
 
-**Tags**: intermediate, Server-Sent Events, web technologies
+**Tags**: [intermediate](./level/intermediate), [Server-Sent Events](./theme/server_sent_events), [web technologies](./theme/web_technologies)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449065499603881248](https://www.tiktok.com/@jsmentoring/photo/7449065499603881248)

@@ -12,6 +12,6 @@ const b = 3; // 0011
 console.log(a & b); // 1 (0101 & 0011 = 0001)
 ```
 
-**Tags**: basic, JavaScript, operators
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [operators](./theme/operators)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/video/7457690353714433312](https://www.tiktok.com/@jsmentoring/video/7457690353714433312)

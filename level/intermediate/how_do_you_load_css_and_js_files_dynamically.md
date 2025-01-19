@@ -21,6 +21,6 @@ script.src = 'script.js';
 document.body.appendChild(script);
 ```
 
-**Tags**: intermediate, JavaScript, DOM manipulation
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [DOM manipulation](./theme/dom_manipulation)
 
 

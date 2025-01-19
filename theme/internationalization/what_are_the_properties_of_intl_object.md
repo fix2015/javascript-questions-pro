@@ -19,6 +19,6 @@ const formatter = new Intl.NumberFormat('en-US', { style: 'currency', currency: 
 console.log(formatter.format(1000)); // '$1,000.00'
 ```
 
-**Tags**: basic, JavaScript, internationalization
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [internationalization](./theme/internationalization)
 
 

@@ -16,6 +16,6 @@ greet();
 console.log(name); // 'Global'
 ```
 
-**Tags**: basic, JavaScript, variables
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [variables](./theme/variables)
 
 

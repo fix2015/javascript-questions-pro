@@ -9,6 +9,6 @@ console.log(isNaN(123)); // false
 console.log(isNaN('Hello')); // true
 ```
 
-**Tags**: basic, JavaScript, type checking
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [type checking](./theme/type_checking)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7450774214459673888](https://www.tiktok.com/@jsmentoring/photo/7450774214459673888)

@@ -11,6 +11,6 @@ eventSource.onmessage = function(event) {
 };
 ```
 
-**Tags**: intermediate, Server-Sent Events, notifications, web technologies
+**Tags**: [intermediate](./level/intermediate), [Server-Sent Events](./theme/server_sent_events), [notifications](./theme/notifications), [web technologies](./theme/web_technologies)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448989685881376033](https://www.tiktok.com/@jsmentoring/photo/7448989685881376033)

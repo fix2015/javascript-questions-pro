@@ -16,6 +16,6 @@ let color: Color = Color.Red;
 console.log(color); // 'RED'
 ```
 
-**Tags**: intermediate, JavaScript, TypeScript
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [TypeScript](./theme/typescript)
 
 

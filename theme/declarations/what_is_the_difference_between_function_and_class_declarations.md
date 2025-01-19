@@ -20,6 +20,6 @@ function foo() { return 'Hello'; }
 class Bar { constructor() { console.log('Bar created'); } }
 ```
 
-**Tags**: intermediate, JavaScript, Declarations
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Declarations](./theme/declarations)
 
 

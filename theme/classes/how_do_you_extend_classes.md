@@ -24,6 +24,6 @@ const dog = new Dog('Buddy');
 dog.speak(); // 'Buddy barks'
 ```
 
-**Tags**: intermediate, JavaScript, classes
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [classes](./theme/classes)
 
 

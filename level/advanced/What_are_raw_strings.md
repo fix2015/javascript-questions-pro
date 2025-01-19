@@ -13,6 +13,6 @@ World`;
 console.log(rawStr);  // Output: Hello\nWorld
 ```
 
-**Tags**: advanced, JavaScript, Strings
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Strings](./theme/strings)
 
 

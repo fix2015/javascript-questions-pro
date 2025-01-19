@@ -25,6 +25,6 @@ const obj = new MyClass();
 obj.myMethod(); // Logs: 'Calling myMethod' and 'Method executed'
 ```
 
-**Tags**: basic, JavaScript, design patterns
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [design patterns](./theme/design_patterns)
 
 

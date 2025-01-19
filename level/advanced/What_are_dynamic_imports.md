@@ -12,6 +12,6 @@ import('module').then(module => {
 });
 ```
 
-**Tags**: advanced, JavaScript, Modules
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Modules](./theme/modules)
 
 

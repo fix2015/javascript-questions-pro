@@ -13,6 +13,6 @@ console.log(fullName);  // Output: 'Alice'
 console.log(yearsOld);  // Output: 25
 ```
 
-**Tags**: intermediate, JavaScript, Destructuring
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Destructuring](./theme/destructuring)
 
 

@@ -10,6 +10,6 @@ Example:
 console.log('%cHello, world!', 'color: red; font-size: 20px;');
 ```
 
-**Tags**: intermediate, JavaScript, Console
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Console](./theme/console)
 
 

@@ -13,6 +13,6 @@ console.log(arr);  // Output: [1, 2]
 arr.length = 5;  // Expand the array
 console.log(arr);  // Output: [1, 2, <3 empty slots>]
 
-**Tags**: intermediate, JavaScript, Arrays
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 

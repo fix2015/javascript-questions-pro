@@ -9,6 +9,6 @@ let x;
 console.log(x); // undefined
 ```
 
-**Tags**: basic, JavaScript, data types
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [data types](./theme/data_types)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7450179747931278624](https://www.tiktok.com/@jsmentoring/photo/7450179747931278624)

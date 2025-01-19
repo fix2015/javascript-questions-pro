@@ -15,6 +15,6 @@ async function fetchData() {
 fetchData();
 ```
 
-**Tags**: basic, JavaScript, Asynchronous Programming
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Asynchronous Programming](./theme/asynchronous_programming)
 
 

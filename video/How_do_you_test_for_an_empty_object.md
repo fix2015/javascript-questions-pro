@@ -9,6 +9,6 @@ const obj = {};
 console.log(Object.keys(obj).length === 0); // true
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7455470039198682401](https://www.tiktok.com/@jsmentoring/photo/7455470039198682401)

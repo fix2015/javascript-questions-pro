@@ -16,6 +16,6 @@ const person = {
 console.log(person.fullName); // 'John Doe'
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 

@@ -16,6 +16,6 @@ Example:
 </script>
 ```
 
-**Tags**: intermediate, JavaScript, DOM, validation
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [DOM](./theme/dom), [validation](./theme/validation)
 
 

@@ -11,6 +11,6 @@ const regex = /\d+/;
 console.log(regex.test('123')); // true
 ```
 
-**Tags**: basic, JavaScript, regular expressions
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [regular expressions](./theme/regular_expressions)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456774238825925920](https://www.tiktok.com/@jsmentoring/photo/7456774238825925920)

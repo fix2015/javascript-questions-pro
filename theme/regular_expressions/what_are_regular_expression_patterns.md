@@ -11,6 +11,6 @@ const regex = /\d+/; // Matches one or more digits
 console.log('123abc'.match(regex)); // ['123']
 ```
 
-**Tags**: basic, JavaScript, regular expressions
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [regular expressions](./theme/regular_expressions)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456908944020196641](https://www.tiktok.com/@jsmentoring/photo/7456908944020196641)

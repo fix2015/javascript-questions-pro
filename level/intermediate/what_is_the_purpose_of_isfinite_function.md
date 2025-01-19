@@ -4,6 +4,6 @@
 
 `isFinite()` is used to check if a value is a finite number. It returns `true` if the value is a finite number, and `false` otherwise.
 
-**Tags**: intermediate, JavaScript, type checking
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [type checking](./theme/type_checking)
 
 

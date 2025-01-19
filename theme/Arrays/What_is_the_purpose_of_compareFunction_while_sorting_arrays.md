@@ -12,6 +12,6 @@ arr.sort((a, b) => a - b);
 console.log(arr); // [1, 2, 3]
 ```
 
-**Tags**: basic, JavaScript, arrays
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [arrays](./theme/arrays)
 
 

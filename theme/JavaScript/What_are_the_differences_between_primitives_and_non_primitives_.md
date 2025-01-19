@@ -24,6 +24,6 @@ ref.key = 'newValue';
 console.log(obj.key); // 'newValue' (reference changed)
 ```
 
-**Tags**: basic, JavaScript, Data Types
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Data Types](./theme/data_types)
 
 

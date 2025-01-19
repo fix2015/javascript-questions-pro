@@ -35,6 +35,6 @@ console.log(findMode([10, 10, 10, 5, 5, 1])); // Output: 10
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 

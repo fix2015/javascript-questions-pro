@@ -12,6 +12,6 @@ let repeatedStr = str.repeat(3);
 console.log(repeatedStr);  // Output: 'Hello Hello Hello '
 ```
 
-**Tags**: basic, JavaScript, String Manipulation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [String Manipulation](./theme/string_manipulation)
 
 

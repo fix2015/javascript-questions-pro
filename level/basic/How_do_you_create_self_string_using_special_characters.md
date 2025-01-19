@@ -11,6 +11,6 @@ let str = 'This is a string with special characters: \' \" \\ \n';
 console.log(str);
 ```
 
-**Tags**: basic, JavaScript, Strings
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Strings](./theme/strings)
 
 

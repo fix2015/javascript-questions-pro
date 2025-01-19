@@ -6,6 +6,6 @@ V8 is an open-source JavaScript engine developed by Google. It is used in Chrome
 
 V8 optimizes JavaScript performance through techniques like Just-In-Time (JIT) compilation and garbage collection.
 
-**Tags**: intermediate, JavaScript, engines
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [engines](./theme/engines)
 
 

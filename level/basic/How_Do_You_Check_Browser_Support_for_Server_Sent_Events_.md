@@ -12,6 +12,6 @@ if (typeof(EventSource) !== 'undefined') {
 }
 ```
 
-**Tags**: basic, Server-Sent Events, browser support
+**Tags**: [basic](./level/basic), [Server-Sent Events](./theme/server_sent_events), [browser support](./theme/browser_support)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7449149383142018336](https://www.tiktok.com/@jsmentoring/photo/7449149383142018336)

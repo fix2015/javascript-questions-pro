@@ -26,6 +26,6 @@ obj2.key = 'newValue';
 console.log(obj1.key); // 'newValue' (pass by reference)
 ```
 
-**Tags**: intermediate, JavaScript, Memory Management
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Memory Management](./theme/memory_management)
 
 

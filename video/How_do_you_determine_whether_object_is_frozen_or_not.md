@@ -12,6 +12,6 @@ Object.freeze(person);
 console.log(Object.isFrozen(person)); // true
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457681827478785312](https://www.tiktok.com/@jsmentoring/photo/7457681827478785312)

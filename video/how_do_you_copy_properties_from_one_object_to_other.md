@@ -18,6 +18,6 @@ const obj2 = { ...obj1 };
 console.log(obj2); // { name: 'John' }
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7458032154656673056](https://www.tiktok.com/@jsmentoring/photo/7458032154656673056)

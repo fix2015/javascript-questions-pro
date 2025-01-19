@@ -12,6 +12,6 @@ let arr2 = [4, 5, 6];
 console.log(arr1 + arr2);  // Output: '1,2,34,5,6'
 ```
 
-**Tags**: intermediate, JavaScript, Arrays
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays)
 
 

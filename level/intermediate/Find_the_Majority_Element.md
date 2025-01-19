@@ -31,6 +31,6 @@ console.log(majorityElement([1, 2, 3, 4, 5])); // Output: 5 (or no majority)
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 

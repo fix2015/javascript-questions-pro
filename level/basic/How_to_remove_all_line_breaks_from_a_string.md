@@ -16,6 +16,6 @@ let cleanedStr = str.replace(/[
 console.log(cleanedStr);  // Output: 'Hello World !'
 ```
 
-**Tags**: basic, JavaScript, Strings
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Strings](./theme/strings)
 
 

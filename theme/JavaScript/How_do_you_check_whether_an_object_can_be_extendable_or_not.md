@@ -13,6 +13,6 @@ Object.preventExtensions(obj);
 console.log(Object.isExtensible(obj)); // false
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 

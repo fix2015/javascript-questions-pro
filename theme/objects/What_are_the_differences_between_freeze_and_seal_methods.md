@@ -21,6 +21,6 @@ obj2.name = 'Jane'; // Allowed
 obj2.age = 30; // Not allowed
 ```
 
-**Tags**: basic, JavaScript, objects
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [objects](./theme/objects)
 
 

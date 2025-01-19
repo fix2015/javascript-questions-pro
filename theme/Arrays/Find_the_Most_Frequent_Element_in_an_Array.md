@@ -36,6 +36,6 @@ console.log(findMostFrequentElement(["apple", "banana", "apple", "orange", "bana
 
 This method has a time complexity of O(n) as it involves a single iteration over the array.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm, Data Structures
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm), [Data Structures](./theme/data_structures)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/video/7458418483282316576](https://www.tiktok.com/@jsmentoring/video/7458418483282316576)

@@ -29,6 +29,6 @@ console.log(sumEvenNumbers([10, 15, 20, 25])); // Output: 30
 
 This method has a time complexity of O(n), where n is the length of the array.
 
-**Tags**: basic, JavaScript, Arrays, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 

@@ -29,6 +29,6 @@ function test() {
 console.log(test()); // { key: 'value' }
 ```
 
-**Tags**: advanced, JavaScript, Syntax
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Syntax](./theme/syntax)
 
 

@@ -14,6 +14,6 @@ function factorial(n, acc = 1) {
 console.log(factorial(5));  // Output: 120
 ```
 
-**Tags**: advanced, JavaScript, Optimization
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Optimization](./theme/optimization)
 
 

@@ -8,6 +8,6 @@ You can assign default values to variables using the `||` operator or by using d
 const name = userInput || 'Default Name';
 ```
 
-**Tags**: basic, JavaScript, variables
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [variables](./theme/variables)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456018568077937953](https://www.tiktok.com/@jsmentoring/photo/7456018568077937953)

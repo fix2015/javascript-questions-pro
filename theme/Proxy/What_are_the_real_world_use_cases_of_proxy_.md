@@ -32,6 +32,6 @@
 3. **Performance Optimization:**
    - Proxy can be used to lazy-load properties or cache data dynamically.
 
-**Tags**: advanced, JavaScript, Proxy
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Proxy](./theme/proxy)
 
 

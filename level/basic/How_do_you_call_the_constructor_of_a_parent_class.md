@@ -22,6 +22,6 @@ const dog = new Dog('Rex', 'German Shepherd');
 console.log(dog.name); // Rex
 ```
 
-**Tags**: basic, JavaScript, classes
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [classes](./theme/classes)
 
 

@@ -13,6 +13,6 @@ function foo() {
 console.log(foo());  // Output: 'Hello, World!'
 ```
 
-**Tags**: intermediate, JavaScript, Functions
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Functions](./theme/functions)
 
 

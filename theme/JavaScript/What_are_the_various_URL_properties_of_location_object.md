@@ -4,6 +4,6 @@
 
 The `location` object has several properties, including `href`, `protocol`, `hostname`, `pathname`, `search`, and `hash`, which allow you to get and manipulate different parts of the current URL.
 
-**Tags**: basic, JavaScript, web navigation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [web navigation](./theme/web_navigation)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7455459948529487136](https://www.tiktok.com/@jsmentoring/photo/7455459948529487136)

@@ -38,6 +38,6 @@ console.log(isPalindrome("hello")); // Output: false
 
 This method has a time complexity of O(n), where n is the length of the string.
 
-**Tags**: basic, JavaScript, Strings, Algorithm
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Strings](./theme/strings), [Algorithm](./theme/algorithm)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/video/7458413373315681569](https://www.tiktok.com/@jsmentoring/video/7458413373315681569)

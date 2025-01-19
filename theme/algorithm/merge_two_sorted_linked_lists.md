@@ -35,6 +35,6 @@ function mergeLists(l1, l2) {
 
 This method has a time complexity of O(n + m), where n and m are the lengths of the two linked lists.
 
-**Tags**: intermediate, JavaScript, Linked Lists, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Linked Lists](./theme/linked_lists), [Algorithm](./theme/algorithm)
 
 

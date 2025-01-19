@@ -12,6 +12,6 @@ let strObj = new String(str);
 console.log(strObj.toUpperCase());  // Output: 'HELLO'
 ```
 
-**Tags**: intermediate, JavaScript, Data Types
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Data Types](./theme/data_types)
 
 

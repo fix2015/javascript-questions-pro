@@ -10,6 +10,6 @@ const result = str.charAt(0).toUpperCase() + str.slice(1);
 console.log(result); // 'Hello'
 ```
 
-**Tags**: basic, JavaScript, string manipulation
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [string manipulation](./theme/string_manipulation)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7456035524420062497](https://www.tiktok.com/@jsmentoring/photo/7456035524420062497)

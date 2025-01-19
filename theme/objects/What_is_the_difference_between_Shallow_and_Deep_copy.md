@@ -22,6 +22,6 @@ console.log(arr);  // Output: [1, [99, 3]]
 console.log(deepCopy);  // Output: [1, [100, 3]]
 ```
 
-**Tags**: intermediate, JavaScript, Objects
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Objects](./theme/objects)
 
 

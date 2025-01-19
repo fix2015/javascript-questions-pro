@@ -32,6 +32,6 @@ console.log(findCommonElements(["a", "b", "c"], ["d", "b", "e"])); // Output: ["
 
 This method has a time complexity of O(n + m), where n and m are the lengths of the two arrays.
 
-**Tags**: intermediate, JavaScript, Arrays, Algorithm
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Arrays](./theme/arrays), [Algorithm](./theme/algorithm)
 
 

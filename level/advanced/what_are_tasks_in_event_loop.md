@@ -6,6 +6,6 @@ In JavaScript, tasks (also called 'macrotasks') refer to operations in the event
 
 Tasks are processed in the event loop, and when one task completes, the next one in the queue is executed.
 
-**Tags**: advanced, JavaScript, Event Loop
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Event Loop](./theme/event_loop)
 
 

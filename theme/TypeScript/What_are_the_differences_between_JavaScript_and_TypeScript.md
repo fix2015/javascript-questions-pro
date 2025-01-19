@@ -14,6 +14,6 @@ let age: number = 30; // TypeScript
 let name = 'John'; // JavaScript
 ```
 
-**Tags**: basic, JavaScript, TypeScript
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [TypeScript](./theme/typescript)
 
 

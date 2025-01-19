@@ -17,6 +17,6 @@ console.log(min); // 1
 console.log(max); // 5
 ```
 
-**Tags**: basic, JavaScript, arrays
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [arrays](./theme/arrays)
 
 

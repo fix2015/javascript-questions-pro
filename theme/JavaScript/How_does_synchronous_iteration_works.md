@@ -11,6 +11,6 @@ const arr = [1, 2, 3];
 arr.forEach(item => console.log(item)); // Output: 1, 2, 3
 ```
 
-**Tags**: basic, JavaScript, iteration
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [iteration](./theme/iteration)
 
 

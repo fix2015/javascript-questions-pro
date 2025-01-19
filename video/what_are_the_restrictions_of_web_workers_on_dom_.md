@@ -4,6 +4,6 @@
 
 Web workers run in a separate thread and cannot directly access or modify the DOM. They are designed for heavy computations and background tasks. To interact with the DOM, workers communicate with the main thread using message passing via `postMessage()`.
 
-**Tags**: advanced, web workers, DOM, JavaScript
+**Tags**: [advanced](./level/advanced), [web workers](./theme/web_workers), [DOM](./theme/dom), [JavaScript](./theme/javascript)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7448725365574372641](https://www.tiktok.com/@jsmentoring/photo/7448725365574372641)

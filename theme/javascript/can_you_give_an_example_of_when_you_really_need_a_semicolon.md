@@ -10,6 +10,6 @@ Example:
 return { key: 'value' }; // Requires semicolon
 ```
 
-**Tags**: basic, JavaScript, syntax
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [syntax](./theme/syntax)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7457679188732939553](https://www.tiktok.com/@jsmentoring/photo/7457679188732939553)
