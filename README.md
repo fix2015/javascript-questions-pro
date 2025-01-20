@@ -1,5 +1,5 @@
 
-# javascript-questions-pro (551 questions)
+# javascript-questions-pro (550 questions)
 
 ## [Levels](./level/) (3)
 - [basic](./level/basic)
@@ -40,8 +40,6 @@
 - [database](./theme/database)
 - [memoization](./theme/memoization)
 - [performance](./theme/performance)
-- [objects](./theme/objects)
-- [creation](./theme/creation)
 - [prototype](./theme/prototype)
 - [inheritance](./theme/inheritance)
 - [higher order functions](./theme/higher_order_functions)
@@ -62,6 +60,8 @@
 - [splice](./theme/splice)
 - [array](./theme/array)
 - [slice](./theme/slice)
+- [objects](./theme/objects)
+- [creation](./theme/creation)
 - [rebase](./theme/rebase)
 - [version control](./theme/version_control)
 - [reflog](./theme/reflog)
@@ -196,7 +196,7 @@
 - [language features](./theme/language_features)
 - [concurrency](./theme/concurrency)
 
-## [Tutorials with Videos](./video/) (192)
+## [Tutorials with Videos](./video/) (191)
 - [What is IndexedDB](https://www.tiktok.com/@jsmentoring/photo/7448276165661314336)
 - [What are the options in a cookie](https://www.tiktok.com/@jsmentoring/photo/7448261980567145761)
 - [Differences between cookie, local storage and session storage](https://www.tiktok.com/@jsmentoring/photo/7448258461030173985)
@@ -214,7 +214,6 @@
 - [What is IndexedDB](https://www.tiktok.com/@jsmentoring/photo/7447814335323278624)
 - [What is memoization](https://www.tiktok.com/@jsmentoring/photo/7447658154155871520)
 - [What is memoization](https://www.tiktok.com/@jsmentoring/photo/7447658154155871520)
-- [5 Ways to Create Objects in JavaScript](https://www.tiktok.com/@jsmentoring/photo/7447557117344582944)
 - [What is a Prototype Chain in JavaScript?](https://www.tiktok.com/@jsmentoring/photo/7447534074211601697)
 - [What is a higher order function](https://www.tiktok.com/@jsmentoring/photo/7447469800642727200)
 - [What is the currying function](https://www.tiktok.com/@jsmentoring/photo/7447172210076208417)
@@ -556,22 +555,6 @@ Memoization is an optimization technique where function results are cached based
 **Tags**: [intermediate](./level/intermediate), [memoization](./theme/memoization), [caching](./theme/caching), [performance](./theme/performance)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7447658154155871520](https://www.tiktok.com/@jsmentoring/photo/7447658154155871520)
-
----
-
-### 5 Ways to Create Objects in JavaScript
-
-In JavaScript, objects can be created in various ways. The five most common methods are:
-
-1. **Object Literal**: `const obj = {}`
-2. **Object Constructor**: `const obj = new Object()`
-3. **Object.create()**: `const obj = Object.create(null)`
-4. **Class Syntax**: `class MyClass { constructor() {} }`
-5. **Factory Functions**: `function createObject() { return {}}`
-
-**Tags**: [basic](./level/basic), [objects](./theme/objects), [creation](./theme/creation), [JavaScript](./theme/javascript)
-
-**URL**: [https://www.tiktok.com/@jsmentoring/photo/7447557117344582944](https://www.tiktok.com/@jsmentoring/photo/7447557117344582944)
 
 ---
 
