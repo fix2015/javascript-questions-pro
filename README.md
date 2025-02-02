@@ -1,12 +1,12 @@
 
-# javascript-questions-pro (550 questions)
+# javascript-questions-pro (580 questions)
 
 ## [Levels](./level/) (3)
 - [basic](./level/basic)
 - [intermediate](./level/intermediate)
 - [advanced](./level/advanced)
 
-## [Themes](./theme/) (188)  
+## [Themes](./theme/) (209)  
 - [indexeddb](./theme/indexeddb)
 - [db](./theme/db)
 - [storage](./theme/storage)
@@ -195,6 +195,27 @@
 - [history](./theme/history)
 - [language features](./theme/language_features)
 - [concurrency](./theme/concurrency)
+- [jest](./theme/jest)
+- [testing](./theme/testing)
+- [assertions](./theme/assertions)
+- [setup and teardown](./theme/setup_and_teardown)
+- [mocks](./theme/mocks)
+- [snapshot testing](./theme/snapshot_testing)
+- [async testing](./theme/async_testing)
+- [test management](./theme/test_management)
+- [command line](./theme/command_line)
+- [implementation](./theme/implementation)
+- [operations](./theme/operations)
+- [time complexity](./theme/time_complexity)
+- [protractor](./theme/protractor)
+- [ui testing](./theme/ui_testing)
+- [setup](./theme/setup)
+- [commands](./theme/commands)
+- [locators](./theme/locators)
+- [waiting](./theme/waiting)
+- [verification](./theme/verification)
+- [alerts](./theme/alerts)
+- [headless testing](./theme/headless_testing)
 
 ## [Tutorials with Videos](./video/) (191)
 - [What is IndexedDB](https://www.tiktok.com/@jsmentoring/photo/7448276165661314336)
@@ -11871,5 +11892,572 @@ JavaScript is single-threaded because it executes code in one thread, meaning on
 **Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [concurrency](./theme/concurrency)
 
 **URL**: [https://www.tiktok.com/@jsmentoring/photo/7455079370881879329](https://www.tiktok.com/@jsmentoring/photo/7455079370881879329)
+
+---
+
+### What is the Jest testing framework?
+
+Jest is a JavaScript testing framework developed by Facebook. It is used for writing unit tests and provides a simple and easy-to-use API for writing tests for JavaScript code, particularly React applications.
+
+**Tags**: [basic](./level/basic), [Jest](./theme/jest), [Testing](./theme/testing)
+
+
+
+---
+
+### How do you write a simple Jest test?
+
+To write a simple Jest test, use the `test` function, which accepts a description of the test and a callback function that contains the code to test.
+
+Example:
+
+```javascript
+test('adds 1 + 2 to equal 3', () => {
+  expect(1 + 2).toBe(3);
+});
+```
+
+**Tags**: [basic](./level/basic), [Jest](./theme/jest), [Testing](./theme/testing)
+
+
+
+---
+
+### What does the expect function do in Jest?
+
+The `expect` function is used to create an assertion. It takes a value and returns an object that allows you to make assertions on that value, such as checking if it equals another value or if it meets certain conditions.
+
+Example:
+
+```javascript
+expect(2 + 2).toBe(4);
+```
+
+**Tags**: [basic](./level/basic), [Jest](./theme/jest), [Assertions](./theme/assertions)
+
+
+
+---
+
+### How do you use Jest setup and teardown functions?
+
+Jest provides two special functions: `beforeAll` and `afterAll` for global setup and teardown, and `beforeEach` and `afterEach` for setup and teardown before/after each test.
+
+Example:
+
+```javascript
+beforeEach(() => {
+  // Setup before each test
+});
+afterEach(() => {
+  // Teardown after each test
+});
+```
+
+**Tags**: [intermediate](./level/intermediate), [Jest](./theme/jest), [Setup and Teardown](./theme/setup_and_teardown)
+
+
+
+---
+
+### What are mocks in Jest?
+
+Mocks in Jest are used to simulate the behavior of real objects or functions. They are useful for isolating tests and avoiding dependencies on external systems, such as APIs or databases.
+
+Example:
+
+```javascript
+const myFunction = jest.fn();
+myFunction.mockReturnValue(10);
+expect(myFunction()).toBe(10);
+```
+
+**Tags**: [intermediate](./level/intermediate), [Jest](./theme/jest), [Mocks](./theme/mocks)
+
+
+
+---
+
+### What are Snapshot Tests in Jest?
+
+Snapshot tests in Jest allow you to test whether a component's output changes over time. It generates a snapshot of the component’s output and stores it. On subsequent runs, Jest compares the output to the stored snapshot to detect changes.
+
+Example:
+
+```javascript
+import MyComponent from './MyComponent';
+import { render } from '@testing-library/react';
+import { toMatchSnapshot } from 'jest-snapshot';
+
+it('matches snapshot', () => {
+  const { container } = render(<MyComponent />);
+  expect(container).toMatchSnapshot();
+});
+```
+
+**Tags**: [intermediate](./level/intermediate), [Jest](./theme/jest), [Snapshot Testing](./theme/snapshot_testing)
+
+
+
+---
+
+### How do you test async code in Jest?
+
+Jest provides `async` and `await` to test asynchronous code. You can return a promise from the test function or use `done` for callback-based code.
+
+Example with `async`/`await`:
+
+```javascript
+test('fetches data asynchronously', async () => {
+  const data = await fetchData();
+  expect(data).toBeDefined();
+});
+```
+
+**Tags**: [intermediate](./level/intermediate), [Jest](./theme/jest), [Async Testing](./theme/async_testing)
+
+
+
+---
+
+### How do you skip or only a test in Jest?
+
+In Jest, you can use `.skip` to skip a test and `.only` to run a specific test.
+
+Example:
+
+```javascript
+test.skip('this test will be skipped', () => {
+  // test code
+});
+
+test.only('this test will run exclusively', () => {
+  // test code
+});
+```
+
+**Tags**: [intermediate](./level/intermediate), [Jest](./theme/jest), [Test management](./theme/test_management)
+
+
+
+---
+
+### How do you run Jest tests from the command line?
+
+You can run Jest tests from the command line using the `jest` command. Make sure Jest is installed, and you can run `npx jest` or `npm test` to run all the tests.
+
+Example:
+
+```bash
+npx jest
+```
+
+**Tags**: [basic](./level/basic), [Jest](./theme/jest), [Command Line](./theme/command_line)
+
+
+
+---
+
+### What are Jest assertion methods?
+
+Jest provides a variety of assertion methods, such as `toBe()`, `toEqual()`, `toContain()`, `toHaveBeenCalled()`, and more. These methods are used to check if values meet certain conditions.
+
+Example:
+
+```javascript
+expect(10).toBe(10);
+expect([1, 2, 3]).toContain(2);
+```
+
+**Tags**: [intermediate](./level/intermediate), [Jest](./theme/jest), [Assertions](./theme/assertions)
+
+
+
+---
+
+### What is a Queue Data Structure?
+
+A queue is a linear data structure that follows the First-In-First-Out (FIFO) principle. Elements are added at the rear (enqueue operation) and removed from the front (dequeue operation). It is similar to a line at a checkout counter.
+
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Data Structures](./theme/data_structures)
+
+
+
+---
+
+### What are the operations on a Queue in JavaScript?
+
+The main operations for a queue include:
+- `enqueue`: Adds an element to the rear of the queue.
+- `dequeue`: Removes an element from the front of the queue.
+- `peek`: Returns the element at the front without removing it.
+- `isEmpty`: Checks if the queue is empty.
+
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Data Structures](./theme/data_structures)
+
+
+
+---
+
+### How do you implement a Queue in JavaScript?
+
+A queue can be implemented using an array or linked list. For simplicity, let's use an array.
+
+Example of a queue implementation using an array:
+
+```javascript
+class Queue {
+  constructor() {
+    this.items = [];
+  }
+  enqueue(element) {
+    this.items.push(element);
+  }
+  dequeue() {
+    return this.items.shift();
+  }
+  peek() {
+    return this.items[0];
+  }
+  isEmpty() {
+    return this.items.length === 0;
+  }
+}
+```
+
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Implementation](./theme/implementation)
+
+
+
+---
+
+### What is the difference between a Stack and a Queue?
+
+A stack follows the Last-In-First-Out (LIFO) principle, while a queue follows the First-In-First-Out (FIFO) principle. In a stack, elements are added and removed from the same end (top), whereas in a queue, elements are added at the rear and removed from the front.
+
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Data Structures](./theme/data_structures)
+
+
+
+---
+
+### What is a Circular Queue?
+
+A circular queue is a variation of a queue where the last position is connected back to the first position. It allows efficient use of space by avoiding the need to shift elements when elements are dequeued.
+
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Data Structures](./theme/data_structures)
+
+
+
+---
+
+### How do you check if a Queue is empty in JavaScript?
+
+To check if a queue is empty, you can verify if the queue's length is zero.
+
+Example:
+
+```javascript
+let queue = new Queue();
+console.log(queue.isEmpty());  // true
+```
+
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Operations](./theme/operations)
+
+
+
+---
+
+### How do you implement the dequeue operation in a Queue?
+
+The dequeue operation removes an element from the front of the queue. In JavaScript, you can use the `shift()` method on an array to achieve this.
+
+Example:
+
+```javascript
+let queue = [1, 2, 3];
+let dequeued = queue.shift();
+console.log(dequeued);  // 1
+console.log(queue);     // [2, 3]
+```
+
+**Tags**: [basic](./level/basic), [JavaScript](./theme/javascript), [Operations](./theme/operations)
+
+
+
+---
+
+### What is the time complexity of Queue operations?
+
+The time complexity for queue operations is as follows:
+- `enqueue`: O(1)
+- `dequeue`: O(1)
+- `peek`: O(1)
+- `isEmpty`: O(1)
+
+This means all primary operations are performed in constant time.
+
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Time Complexity](./theme/time_complexity)
+
+
+
+---
+
+### How do you implement a Priority Queue in JavaScript?
+
+A priority queue is a special type of queue where each element is assigned a priority. The element with the highest priority is dequeued first.
+
+Example implementation using an array:
+
+```javascript
+class PriorityQueue {
+  constructor() {
+    this.items = [];
+  }
+  enqueue(element, priority) {
+    const queueElement = { element, priority };
+    let added = false;
+    for (let i = 0; i < this.items.length; i++) {
+      if (queueElement.priority < this.items[i].priority) {
+        this.items.splice(i, 0, queueElement);
+        added = true;
+        break;
+      }
+    }
+    if (!added) {
+      this.items.push(queueElement);
+    }
+  }
+  dequeue() {
+    return this.items.shift();
+  }
+  peek() {
+    return this.items[0];
+  }
+  isEmpty() {
+    return this.items.length === 0;
+  }
+}
+```
+
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Data Structures](./theme/data_structures)
+
+
+
+---
+
+### How do you implement a Circular Queue in JavaScript?
+
+A circular queue implementation requires maintaining two pointers (front and rear) and using modulo arithmetic to handle wraparound.
+
+Example:
+
+```javascript
+class CircularQueue {
+  constructor(size) {
+    this.size = size;
+    this.queue = new Array(size);
+    this.front = 0;
+    this.rear = 0;
+  }
+  enqueue(element) {
+    if ((this.rear + 1) % this.size === this.front) {
+      console.log('Queue is full');
+    } else {
+      this.queue[this.rear] = element;
+      this.rear = (this.rear + 1) % this.size;
+    }
+  }
+  dequeue() {
+    if (this.front === this.rear) {
+      console.log('Queue is empty');
+    } else {
+      this.front = (this.front + 1) % this.size;
+    }
+  }
+  peek() {
+    return this.queue[this.front];
+  }
+  isEmpty() {
+    return this.front === this.rear;
+  }
+}
+```
+
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Data Structures](./theme/data_structures)
+
+
+
+---
+
+### What is Protractor?
+
+Protractor is an end-to-end testing framework for Angular and AngularJS applications. It is built on top of WebDriverJS and allows for easy automation of browser testing, providing functionality for testing user interactions with web applications.
+
+**Tags**: [basic](./level/basic), [Protractor](./theme/protractor), [UI Testing](./theme/ui_testing)
+
+
+
+---
+
+### How do you set up Protractor for UI Testing?
+
+To set up Protractor, you need to install Node.js, install Protractor via npm, and configure the `protractor.conf.js` file. After the setup, you can use Protractor commands to interact with web pages in your tests.
+
+**Tags**: [basic](./level/basic), [Protractor](./theme/protractor), [Setup](./theme/setup)
+
+
+
+---
+
+### What are the basic Protractor commands?
+
+Some of the basic Protractor commands include:
+- `browser.get()`: Navigate to a URL.
+- `element()`: Locate an element on the page.
+- `element(by.css())`: Locate an element using a CSS selector.
+- `browser.sleep()`: Pause execution for a specified time.
+
+Example:
+
+```javascript
+browser.get('http://example.com');
+let elem = element(by.id('username'));
+```
+
+**Tags**: [basic](./level/basic), [Protractor](./theme/protractor), [Commands](./theme/commands)
+
+
+
+---
+
+### How do you locate elements in Protractor?
+
+In Protractor, you can locate elements using various locators such as CSS selectors, XPath, and Angular-specific locators.
+- `by.id()`: Locate by ID.
+- `by.css()`: Locate by CSS selectors.
+- `by.xpath()`: Locate by XPath.
+
+Example:
+
+```javascript
+let button = element(by.css('.submit-button'));
+```
+
+**Tags**: [basic](./level/basic), [Protractor](./theme/protractor), [Locators](./theme/locators)
+
+
+
+---
+
+### How do you write a simple Protractor test?
+
+A simple Protractor test can be written by creating a `.spec.js` file that contains test cases using Jasmine or Mocha. You can then use `it()` to define the test case and `expect()` to assert conditions.
+
+Example:
+
+```javascript
+describe('Example test', () => {
+  it('should have a title', () => {
+    browser.get('http://example.com');
+    expect(browser.getTitle()).toEqual('Example Domain');
+  });
+});
+```
+
+**Tags**: [basic](./level/basic), [Protractor](./theme/protractor), [Testing](./theme/testing)
+
+
+
+---
+
+### How do you handle waiting in Protractor?
+
+In Protractor, you can handle waiting using `browser.wait()` and `ExpectedConditions`. This helps wait for elements to appear, disappear, or change state before interacting with them.
+
+Example:
+
+```javascript
+let EC = protractor.ExpectedConditions;
+browser.wait(EC.visibilityOf(element(by.id('submit-button'))), 5000);
+```
+
+**Tags**: [intermediate](./level/intermediate), [Protractor](./theme/protractor), [Waiting](./theme/waiting)
+
+
+
+---
+
+### How do you handle forms in Protractor?
+
+In Protractor, forms can be handled by interacting with form fields (input, select, etc.), filling them out, and submitting the form.
+
+Example:
+
+```javascript
+let nameField = element(by.id('name'));
+nameField.sendKeys('John Doe');
+let submitButton = element(by.id('submit'));
+submitButton.click();
+```
+
+**Tags**: [intermediate](./level/intermediate), [Protractor](./theme/protractor), [Forms](./theme/forms)
+
+
+
+---
+
+### How do you verify UI elements in Protractor?
+
+In Protractor, you can verify UI elements using `expect()` assertions, such as verifying text, attributes, visibility, and presence of elements.
+
+Example:
+
+```javascript
+let heading = element(by.tagName('h1'));
+expect(heading.getText()).toEqual('Welcome to Protractor');
+```
+
+**Tags**: [intermediate](./level/intermediate), [Protractor](./theme/protractor), [Verification](./theme/verification)
+
+
+
+---
+
+### How do you handle alerts in Protractor?
+
+Protractor provides methods to handle JavaScript alerts, confirms, and prompts. You can use `browser.switchTo().alert()` to switch to the alert and perform actions like accepting or dismissing it.
+
+Example:
+
+```javascript
+let alert = browser.switchTo().alert();
+alert.accept();
+```
+
+**Tags**: [intermediate](./level/intermediate), [Protractor](./theme/protractor), [Alerts](./theme/alerts)
+
+
+
+---
+
+### How do you run Protractor tests in headless mode?
+
+To run Protractor tests in headless mode, you can configure the `protractor.conf.js` file to use a headless browser like Chrome.
+
+Example configuration:
+
+```javascript
+capabilities: {
+  'browserName': 'chrome',
+  'chromeOptions': {
+    args: ['--headless', '--disable-gpu', '--window-size=800x600']
+  }
+},
+```
+
+**Tags**: [advanced](./level/advanced), [Protractor](./theme/protractor), [Headless Testing](./theme/headless_testing)
+
+
 
 ---
