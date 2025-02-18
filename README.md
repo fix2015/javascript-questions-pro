@@ -1,12 +1,13 @@
 
-# javascript-questions-pro (580 questions)
+# javascript-questions-pro (590 questions)
 
-## [Levels](./level/) (3)
+## [Levels](./level/) (4)
 - [basic](./level/basic)
 - [intermediate](./level/intermediate)
 - [advanced](./level/advanced)
+- [beginner](./level/beginner)
 
-## [Themes](./theme/) (209)  
+## [Themes](./theme/) (211)  
 - [indexeddb](./theme/indexeddb)
 - [db](./theme/db)
 - [storage](./theme/storage)
@@ -216,6 +217,8 @@
 - [verification](./theme/verification)
 - [alerts](./theme/alerts)
 - [headless testing](./theme/headless_testing)
+- [async await](./theme/async_await)
+- [express js](./theme/express_js)
 
 ## [Tutorials with Videos](./video/) (191)
 - [What is IndexedDB](https://www.tiktok.com/@jsmentoring/photo/7448276165661314336)
@@ -12457,6 +12460,227 @@ capabilities: {
 ```
 
 **Tags**: [advanced](./level/advanced), [Protractor](./theme/protractor), [Headless Testing](./theme/headless_testing)
+
+
+
+---
+
+### How to catch errors in Promises
+
+You can handle errors in promises by appending a `.catch()` method to the promise chain.
+
+```javascript
+fetch('https://api.example.com/data')
+  .then(response => response.json())
+  .then(data => console.log(data))
+  .catch(error => console.error('Error:', error));
+```
+
+**Tags**: [beginner](./level/beginner), [JavaScript](./theme/javascript), [Promises](./theme/promises), [Error Handling](./theme/error_handling)
+
+
+
+---
+
+### How to catch errors in async/await
+
+Wrap your async code in a try/catch block to handle errors gracefully.
+
+```javascript
+async function fetchData() {
+  try {
+    const response = await fetch('https://api.example.com/data');
+    const data = await response.json();
+    console.log(data);
+  } catch (error) {
+    console.error('Error:', error);
+  }
+}
+fetchData();
+```
+
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Async/Await](./theme/async_await), [Error Handling](./theme/error_handling)
+
+
+
+---
+
+### How to catch errors in synchronous code
+
+For synchronous operations, use a try/catch block to handle errors.
+
+```javascript
+try {
+  const result = riskyOperation();
+  console.log(result);
+} catch (error) {
+  console.error('Caught an error:', error);
+}
+```
+
+**Tags**: [beginner](./level/beginner), [JavaScript](./theme/javascript), [Error Handling](./theme/error_handling)
+
+
+
+---
+
+### How to catch errors in event handlers
+
+Wrap event handler code in a try/catch block to ensure errors do not crash the application.
+
+```javascript
+document.getElementById('myButton').addEventListener('click', () => {
+  try {
+    // Code that might throw an error
+    performAction();
+  } catch (error) {
+    console.error('Error during click event:', error);
+  }
+});
+```
+
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Error Handling](./theme/error_handling), [Events](./theme/events)
+
+
+
+---
+
+### How to catch errors with the Fetch API
+
+Use `.catch()` to handle errors when making HTTP requests with the Fetch API.
+
+```javascript
+fetch('https://api.example.com/data')
+  .then(response => {
+    if (!response.ok) {
+      throw new Error('Network response was not ok');
+    }
+    return response.json();
+  })
+  .then(data => console.log(data))
+  .catch(error => console.error('Fetch error:', error));
+```
+
+**Tags**: [beginner](./level/beginner), [JavaScript](./theme/javascript), [Fetch API](./theme/fetch_api), [Error Handling](./theme/error_handling)
+
+
+
+---
+
+### How to catch errors in Node.js
+
+In Node.js, use try/catch for synchronous code and attach error listeners for asynchronous code.
+
+```javascript
+// Synchronous error handling
+try {
+  const data = fs.readFileSync('/path/to/file');
+  console.log(data);
+} catch (error) {
+  console.error('Error reading file:', error);
+}
+
+// Asynchronous error handling
+fs.readFile('/path/to/file', (error, data) => {
+  if (error) {
+    return console.error('Error reading file:', error);
+  }
+  console.log(data);
+});
+```
+
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Node.js](./theme/node_js), [Error Handling](./theme/error_handling)
+
+
+
+---
+
+### How to catch errors in callbacks
+
+When working with callbacks, ensure that errors are passed as the first argument to the callback function.
+
+```javascript
+function performAsyncOperation(callback) {
+  // Simulate error
+  const error = new Error('Something went wrong');
+  callback(error, null);
+}
+
+performAsyncOperation((error, result) => {
+  if (error) {
+    return console.error('Callback error:', error);
+  }
+  console.log(result);
+});
+```
+
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Callbacks](./theme/callbacks), [Error Handling](./theme/error_handling)
+
+
+
+---
+
+### How to use global error handling with try/catch
+
+For comprehensive error handling, set up global error listeners in your application.
+
+```javascript
+window.onerror = function(message, source, lineno, colno, error) {
+  console.error('Global error caught:', message, 'at', source + ':' + lineno + ':' + colno);
+};
+
+// Example triggering a global error
+nonExistentFunction();
+```
+
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Error Handling](./theme/error_handling)
+
+
+
+---
+
+### How to catch errors in Express.js
+
+Use middleware to catch and handle errors in your Express applications.
+
+```javascript
+const express = require('express');
+const app = express();
+
+// Your routes here
+app.get('/', (req, res) => {
+  throw new Error('Oops!');
+});
+
+// Error handling middleware
+app.use((err, req, res, next) => {
+  console.error(err.stack);
+  res.status(500).send('Something broke!');
+});
+
+app.listen(3000, () => console.log('Server running on port 3000'));
+```
+
+**Tags**: [intermediate](./level/intermediate), [JavaScript](./theme/javascript), [Express.js](./theme/express_js), [Error Handling](./theme/error_handling)
+
+
+
+---
+
+### How to catch unhandled promise rejections
+
+Listen for unhandled promise rejections to prevent unexpected application crashes.
+
+```javascript
+process.on('unhandledRejection', (reason, promise) => {
+  console.error('Unhandled Rejection at:', promise, 'reason:', reason);
+});
+
+// Example of an unhandled rejection
+Promise.reject(new Error('Unhandled error'));
+```
+
+**Tags**: [advanced](./level/advanced), [JavaScript](./theme/javascript), [Promises](./theme/promises), [Error Handling](./theme/error_handling)
 
 
 
